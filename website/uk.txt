@@ -1940,87 +1940,87 @@ translation=
 
 [brand.bluesky]
 original=Bluesky
-translation=
+translation=Bluesky
 
 [brand.canvas]
 original=Canvas
-translation=
+translation=Canvas
 
 [brand.catalyst]
 original=Catalyst
-translation=
+translation=Catalyst
 
 [brand.cli]
 original=CLI
-translation=
+translation=CLI
 
 [brand.commercial]
 original=Commercial
-translation=
+translation=Commercial
 
 [brand.discord]
 original=Discord
-translation=
+translation=Discord
 
 [brand.github]
 original=GitHub
-translation=
+translation=GitHub
 
 [brand.headless_sync]
 original=Headless Sync
-translation=
+translation=Headless Sync
 
 [brand.mastodon]
 original=Mastodon
-translation=
+translation=Mastodon
 
 [brand.mobile]
 original=Mobile
-translation=
+translation=Mobile
 
 [brand.obsidian]
 original=Obsidian
-translation=
+translation=Obsidian
 
 [brand.obsidian_cli]
 original=Obsidian CLI
-translation=
+translation=Obsidian CLI
 
 [brand.obsidian_publish]
 original=Obsidian Publish
-translation=
+translation=Obsidian Publish
 
 [brand.obsidian_sync]
 original=Obsidian Sync
-translation=
+translation=Obsidian Sync
 
 [brand.obsidian_web_clipper]
 original=Obsidian Web Clipper
-translation=
+translation=Obsidian Web Clipper
 
 [brand.publish]
 original=Publish
-translation=
+translation=Publish
 
 [brand.sync]
 original=Sync
-translation=
+translation=Sync
 
 [brand.threads]
 original=Threads
-translation=
+translation=Threads
 
 [brand.twitter]
 original=Twitter
-translation=
+translation=Twitter
 
 [brand.web_clipper]
 original=Web Clipper
-translation=
+translation=Web Clipper
 
 [brand.youtube]
 original=YouTube
-translation=
+translation=YouTube
 
 [buy.catalyst.choose_tier]
 original=Choose a tier
