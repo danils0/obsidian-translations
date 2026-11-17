@@ -64,7 +64,7 @@ translation=
 
 [account.billing.gift_copy]
 original=Copy
-translation=
+translation=Копіювати
 
 [account.billing.gift_empty]
 original=You haven’t sent or received any\u00a0credit.
@@ -76,7 +76,7 @@ translation=
 
 [account.billing.gift_or]
 original=or
-translation=
+translation=або
 
 [account.billing.gift_received]
 original=You redeemed {{amount}} worth of gift credit on {{date}}.
@@ -168,7 +168,7 @@ translation=
 
 [account.billing.tax_col_remove]
 original=Remove
-translation=
+translation=Видалити
 
 [account.billing.tax_col_state]
 original=State
@@ -272,7 +272,7 @@ translation=
 
 [account.billing.tax_zip_code]
 original=Zip code
-translation=
+translation=Поштовий індекс
 
 [account.billing.tax_zip_placeholder]
 original=Your zip code
@@ -300,7 +300,7 @@ translation=
 
 [account.catalyst.buy_catalyst]
 original=Join Catalyst
-translation=
+translation=Доєднатися до Catalyst
 
 [account.catalyst.discord_failure]
 original=Couldn’t add Discord badge
@@ -348,7 +348,7 @@ translation=
 
 [account.catalyst.insider]
 original=Insider
-translation=
+translation=Insider
 
 [account.catalyst.learn_more]
 original=Learn more.
@@ -384,11 +384,11 @@ translation=
 
 [account.catalyst.supporter]
 original=Supporter
-translation=
+translation=Supporter
 
 [account.catalyst.title]
 original=Catalyst
-translation=
+translation=Catalyst
 
 [account.catalyst.upgrade]
 original=Upgrade to a higher tier
@@ -396,11 +396,11 @@ translation=
 
 [account.catalyst.vip]
 original=VIP
-translation=
+translation=VIP
 
 [account.checkout]
 original=Checkout
-translation=
+translation=Оформлення замовлення
 
 [account.commercial.activate_license]
 original=To activate your commercial license, go to Settings → General in Obsidian.
@@ -420,7 +420,7 @@ translation=
 
 [account.commercial.invoices]
 original=Invoices
-translation=
+translation=Рахунки
 
 [account.commercial.invoices_desc]
 original=View and print invoices for your commercial license.
@@ -552,7 +552,7 @@ translation=
 
 [account.discount.nonprofit]
 original=Non-profit organization
-translation=
+translation=Неприбуткова організація
 
 [account.discount.org_email]
 original=School or organization email
@@ -676,7 +676,7 @@ translation=
 
 [account.gift.method]
 original=Method
-translation=
+translation=Спосіб
 
 [account.gift.method_code_desc]
 original=You’ll get a link to redeem the credit. Choose this if you want to send the link to the recipient yourself.
@@ -908,7 +908,7 @@ translation=
 
 [account.log_out]
 original=Log\u00a0out
-translation=
+translation=Вийти
 
 [account.payment.change_card]
 original=Change card
@@ -940,7 +940,7 @@ translation=
 
 [account.payment.paypal_pay_alt]
 original=Pay with PayPal
-translation=
+translation=Оплатити через PayPal
 
 [account.payment.paypal_title]
 original=PayPal currency conversion
@@ -952,7 +952,7 @@ translation=
 
 [account.payment.paypal_update_link]
 original=click here
-translation=
+translation=натисніть тут
 
 [account.payment.update]
 original=Update
@@ -968,11 +968,11 @@ translation=Змінити
 
 [account.profile.change_email]
 original=Change your email
-translation=
+translation=Змінити електронну пошту
 
 [account.profile.change_name]
 original=Change your name
-translation=
+translation=Змінити ім'я
 
 [account.profile.change_password]
 original=Change your password
@@ -984,11 +984,11 @@ translation=
 
 [account.profile.confirm_log_out]
 original=Confirm log out
-translation=
+translation=Підтвердити вихід
 
 [account.profile.contact_support]
 original=Contact support
-translation=
+translation=Звернутися до підтримки
 
 [account.profile.contact_support_desc]
 original=Reach us for account, billing, or paid service\u00a0inquiries.
@@ -996,7 +996,7 @@ translation=
 
 [account.profile.current_password]
 original=Current password
-translation=
+translation=Поточний пароль
 
 [account.profile.current_password_empty_error]
 original=Current password cannot be empty.
@@ -1068,11 +1068,11 @@ translation=
 
 [account.profile.disable]
 original=Disable
-translation=
+translation=Вимкнути
 
 [account.profile.email]
 original=Email
-translation=
+translation=Електронна пошта
 
 [account.profile.email_empty_error]
 original=New email cannot be empty.
@@ -1480,7 +1480,7 @@ translation=
 
 [account.publish.site_count]
 original={{count}} sites
-translation=
+translation={{count}} сайтів
 
 [account.publish.site_count_one]
 original=1 site
@@ -4564,7 +4564,7 @@ translation=
 
 [pages.security.transparency]
 original=Transparency
-translation=
+translation=Прозорість
 
 [pages.security.transparency_desc]
 original=Obsidian is built on open formats, trusted encryption algorithms, and independently audited\u00a0code.
@@ -4688,7 +4688,7 @@ translation=
 
 [pages.sync.standard]
 original=Sync\u00a0Standard
-translation=
+translation=Sync Standart
 
 [pages.sync.start_syncing_btn]
 original=Start syncing
@@ -4708,7 +4708,7 @@ translation=
 
 [pages.sync.vault_settings]
 original=Vault settings
-translation=
+translation=Налаштування сховища
 
 [pages.sync.vault_settings_desc]
 original=Sync your hotkeys, file and editor preferences, or individually set them per device.
@@ -4744,11 +4744,11 @@ translation=
 
 [shared.copied]
 original=Copied!
-translation=
+translation=Скопійовано!
 
 [shared.credit]
 original=Credit
-translation=
+translation=Кредит
 
 [shared.go_back]
 original=Go back
@@ -4756,7 +4756,7 @@ translation=
 
 [shared.got_it]
 original=Got it
-translation=
+translation=Зрозуміло
 
 [shared.monthly]
 original=Monthly
@@ -4824,7 +4824,7 @@ translation=від
 
 [ui.contact_us]
 original=contact\u00a0us
-translation=
+translation=зв'яжіться з нами
 
 [ui.docs_btn]
 original=Read the docs
@@ -4832,7 +4832,7 @@ translation=Читати документацію
 
 [ui.e2e]
 original=End-to-end encryption
-translation=
+translation=Наскрізне шифрування
 
 [ui.examples]
 original=Examples
@@ -4844,55 +4844,55 @@ translation=FAQ
 
 [ui.features]
 original=Features
-translation=
+translation=Можливості
 
 [ui.first_page]
 original=←\u00a0First\u00a0page
-translation=
+translation=← Перша сторінка
 
 [ui.follow_news]
 original=Follow the latest Obsidian news
-translation=
+translation=Слідкуйте за новинами Obsidian
 
 [ui.full_report]
 original=Full report
-translation=
+translation=Повний звіт
 
 [ui.label_separator]
 original=.
-translation=
+translation=.
 
 [ui.last_updated]
 original=Last updated
-translation=
+translation=Останнє оновлення
 
 [ui.learn_more]
 original=Learn more
-translation=
+translation=Докладніше
 
 [ui.learn_more_link]
 original=Learn\u00a0more.
-translation=
+translation=Докладніше.
 
 [ui.links]
 original=Links
-translation=
+translation=Посилання
 
 [ui.monthly]
 original=Monthly
-translation=
+translation=Щомісячно
 
 [ui.monthly_billing]
 original=Monthly
-translation=
+translation=Щомісячно
 
 [ui.more_browsers]
 original=More browsers
-translation=
+translation=Більше браузерів
 
 [ui.next_page]
 original=Next\u00a0page\u00a0→
-translation=
+translation=Наступна сторінка →
 
 [ui.next_release]
 original=Next release
@@ -4900,27 +4900,27 @@ translation=Наступний випуск
 
 [ui.no_results]
 original=No results
-translation=
+translation=Нічого не знайдено
 
 [ui.obsidian_blog]
 original=Obsidian Blog
-translation=
+translation=Блог Obsidian
 
 [ui.on_date]
 original=on
-translation=
+translation=від
 
 [ui.one_time]
 original=One-time payment
-translation=
+translation=Одноразовий платіж
 
 [ui.per_site_month_monthly]
 original=Per site, per month, billed monthly
-translation=
+translation=За сайт, на місяць, оплата щомісяця
 
 [ui.per_site_month_yearly]
 original=Per site, per month, billed annually
-translation=
+translation=За сайт, на місяць, оплата щорічно
 
 [ui.per_user_month_monthly]
 original=Per user, per month, billed monthly
@@ -4960,7 +4960,7 @@ translation=Зареєструватися
 
 [ui.summary]
 original=Summary
-translation=
+translation=Зведення
 
 [ui.switch_language]
 original=Switch language...
