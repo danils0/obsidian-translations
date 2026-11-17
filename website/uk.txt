@@ -268,7 +268,7 @@ translation=
 
 [account.billing.tax_vat_title]
 original=VAT number
-translation=Номер ПДВ (VAT)
+translation=Номер ПДВ
 
 [account.billing.tax_zip_code]
 original=Zip code
@@ -472,7 +472,7 @@ translation=
 
 [account.commercial.resume]
 original=Resume
-translation=
+translation=Відновити
 
 [account.commercial.seat_count]
 original={{count}} seats
@@ -480,7 +480,7 @@ translation=
 
 [account.commercial.seat_one]
 original=1 seat
-translation=
+translation=1 місце
 
 [account.commercial.seats]
 original=Seats
@@ -2212,43 +2212,43 @@ translation=Зараз у вас забагато віддалених схов�
 
 [checkout.address_error]
 original=Please complete your billing address.
-translation=
+translation=Будь ласка, вкажіть вашу адресу для рахунків.
 
 [checkout.autofill_link]
 original=Autofill with Link
-translation=
+translation=Автозаповнити з Link
 
 [checkout.complete_payment]
 original=Complete your payment
-translation=
+translation=Завершити оплату
 
 [checkout.contact_us]
 original=Contact us
-translation=
+translation=Зв'яжіться з нами
 
 [checkout.pay_now]
 original=Pay now
-translation=
+translation=Сплатити
 
 [checkout.pay_with_credit]
 original=Pay with credit
-translation=
+translation=Сплатити кредитом
 
 [checkout.payment_breadcrumb]
 original=Payment
-translation=
+translation=Оплата
 
 [checkout.payment_method]
 original=Payment method
-translation=
+translation=Спосіб оплати
 
 [checkout.privacy_policy]
 original=Privacy policy
-translation=
+translation=Політика конфіденційності
 
 [checkout.refund_policy]
 original=Refund policy
-translation=
+translation=Політика повернення коштів
 
 [checkout.secure_encrypted]
 original=All transactions are secure and\u00a0encrypted.
@@ -2264,7 +2264,7 @@ translation=
 
 [checkout.terms_of_service]
 original=Terms of service
-translation=
+translation=Умови використання
 
 [checkout.terms_payment]
 original=By providing your payment information,
@@ -2280,7 +2280,7 @@ translation=
 
 [checkout.vat]
 original=VAT
-translation=
+translation=ПДВ
 
 [checkout.vat_desc]
 original=Provide a VAT number if you are buying for an EU business. Your VAT will be calculated based on the billing address provided above. Your VAT number will be stored for future renewals and purchases.
@@ -2288,11 +2288,11 @@ translation=
 
 [checkout.vat_number]
 original=VAT Number
-translation=
+translation=Номер ПДВ
 
 [checkout.your_details]
 original=Your details
-translation=
+translation=Ваші дані
 
 [features.backlinks]
 original=Backlinks
@@ -4724,7 +4724,7 @@ translation=Прийняти
 
 [shared.billing_frequency]
 original=Billing frequency
-translation=
+translation=Періодичність розрахунків
 
 [shared.cancel]
 original=Cancel
@@ -4772,19 +4772,19 @@ translation=Немає результатів
 
 [shared.proceed_to_payment]
 original=Proceed to payment
-translation=
+translation=Перейти до оплати
 
 [shared.refund_policy]
 original=Refund policy
-translation=Політика повернення
+translation=Політика повернення коштів
 
 [shared.renew_note]
 original=Your plan will renew at {{price}} (before tax and discounts) on {{date}}, unless canceled before that date.
-translation=
+translation=Ваш план буде поновлено за {{price}} (без урахування податків і знижок) {{date}}, якщо його не буде скасовано до цієї дати.
 
 [shared.renewal_frequency]
 original=Renewal frequency
-translation=
+translation=Періодичність поновлення
 
 [shared.save]
 original=Save
@@ -4808,7 +4808,7 @@ translation=Змінити мову...
 
 [shared.total]
 original=Total
-translation=
+translation=Разом
 
 [shared.usd]
 original=USD
