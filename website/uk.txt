@@ -176,7 +176,7 @@ translation=
 
 [account.billing.tax_country]
 original=Country
-translation=
+translation=Країна
 
 [account.billing.tax_delete_error]
 original=Failed to delete certificate. Please try again.
