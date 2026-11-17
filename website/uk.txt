@@ -164,7 +164,7 @@ translation=
 
 [account.billing.tax_col_created]
 original=Created
-translation=
+translation=Створено
 
 [account.billing.tax_col_remove]
 original=Remove
@@ -276,11 +276,11 @@ translation=Поштовий індекс
 
 [account.billing.tax_zip_placeholder]
 original=Your zip code
-translation=
+translation=Ваш поштовий індекс 
 
 [account.billing.title]
 original=Billing
-translation=
+translation=Оплата
 
 [account.billing.view]
 original=View
@@ -340,11 +340,11 @@ translation=
 
 [account.catalyst.get_discord_badge]
 original=Get Discord badge
-translation=
+translation=Отримати значок Discord
 
 [account.catalyst.get_forum_badge]
 original=Get forum badge
-translation=
+translation=Отримати значок форуму
 
 [account.catalyst.insider]
 original=Insider
@@ -352,7 +352,7 @@ translation=Insider
 
 [account.catalyst.learn_more]
 original=Learn more.
-translation=
+translation=Докладніше.
 
 [account.catalyst.licensed_thanks]
 original=Thank you for being a Catalyst member. Your support helps us remain 100% independent and build Obsidian without compromising {{link}}.
@@ -372,7 +372,7 @@ translation=
 
 [account.catalyst.our_values_link]
 original=our values
-translation=
+translation=наші цінності
 
 [account.catalyst.purchase_success]
 original=Your Catalyst purchase was successful. Thank you so much for your support!
@@ -412,7 +412,7 @@ translation=
 
 [account.commercial.buy_license]
 original=Buy license
-translation=
+translation=Купити ліцензію
 
 [account.commercial.change_success]
 original=The number of seats on your license has been successfully changed!
@@ -428,7 +428,7 @@ translation=
 
 [account.commercial.learn_more]
 original=Learn\u00a0more.
-translation=
+translation=Детальніше
 
 [account.commercial.license_desc]
 original=Support development by purchasing commercial licenses for your team. Organizations with 25 or more licenses can join our featured supporters page.
@@ -440,7 +440,7 @@ translation=
 
 [account.commercial.license_key]
 original=Your license key is:
-translation=
+translation=Ваш ліцензійний ключ:
 
 [account.commercial.nav_label]
 original=License
@@ -456,7 +456,7 @@ translation=
 
 [account.commercial.per_user_year]
 original=per user, per\u00a0year
-translation=
+translation=за користувача, на рік
 
 [account.commercial.purchase_success]
 original=Your purchase was successful. Thank you for your support!
@@ -464,7 +464,7 @@ translation=
 
 [account.commercial.refund_policy_link]
 original=refund policy
-translation=
+translation=політику повернення
 
 [account.commercial.registered_to]
 original=Registered to "{{company}}" for {{seats}}. Valid until {{date}}.
@@ -532,11 +532,11 @@ translation=
 
 [account.discount.contact_note_link]
 original=contact us
-translation=
+translation=зв'яжіться з нами
 
 [account.discount.discount_type]
 original=Discount type
-translation=
+translation=Тип скидки
 
 [account.discount.early_bird_note]
 original=Note that if you have an early bird discount, discounts will not\u00a0stack.
@@ -560,7 +560,7 @@ translation=
 
 [account.discount.org_email_placeholder]
 original=Enter your email...
-translation=
+translation=Введіть вашу електронну пошту...
 
 [account.discount.select_type_error]
 original=Please select a discount type.
