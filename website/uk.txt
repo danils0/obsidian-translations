@@ -236,7 +236,7 @@ translation=
 
 [account.billing.tax_upload]
 original=Upload
-translation=
+translation=Завантажити
 
 [account.billing.tax_upload_success]
 original=Successfully uploaded
@@ -444,7 +444,7 @@ translation=
 
 [account.commercial.nav_label]
 original=License
-translation=
+translation=Ліцензія
 
 [account.commercial.next_renewal]
 original=Your next renewal will be {{date}}.
@@ -912,7 +912,7 @@ translation=
 
 [account.payment.change_card]
 original=Change card
-translation=
+translation=Змінити карту
 
 [account.payment.current_method]
 original=You’re currently using a {{method}}.
@@ -956,7 +956,7 @@ translation=
 
 [account.payment.update]
 original=Update
-translation=
+translation=Оновити
 
 [account.profile.action_irreversible]
 original=This action is not reversible.
@@ -964,7 +964,7 @@ translation=
 
 [account.profile.change]
 original=Change
-translation=
+translation=Змінити
 
 [account.profile.change_email]
 original=Change your email
@@ -1004,15 +1004,15 @@ translation=
 
 [account.profile.delete]
 original=Delete
-translation=
+translation=Видалити
 
 [account.profile.delete_account]
 original=Delete account
-translation=
+translation=Видалити акаунт
 
 [account.profile.delete_account_confirm]
 original=Confirm deletion
-translation=
+translation=Підтвердити видалення
 
 [account.profile.delete_account_desc]
 original=Permanently delete your account, licenses, and subscriptions. You will be asked for confirmation before deletion\u00a0proceeds.
@@ -1092,7 +1092,7 @@ translation=
 
 [account.profile.log_out]
 original=Log out
-translation=
+translation=Вийти
 
 [account.profile.log_out_everywhere]
 original=Log out everywhere
@@ -1272,7 +1272,7 @@ translation=
 
 [account.profile.name]
 original=Name
-translation=
+translation=Ім'я
 
 [account.profile.name_empty_error]
 original=New name cannot be empty.
@@ -1292,11 +1292,11 @@ translation=
 
 [account.profile.new_name]
 original=New name
-translation=
+translation=Нове ім'я 
 
 [account.profile.new_password]
 original=New password
-translation=
+translation=Новий пароль
 
 [account.profile.new_password_empty_error]
 original=New password cannot be empty.
@@ -1304,7 +1304,7 @@ translation=
 
 [account.profile.password]
 original=Password
-translation=
+translation=Пароль
 
 [account.profile.password_desc]
 original=Change your account\u00a0password.
@@ -1352,7 +1352,7 @@ translation=
 
 [account.profile.title]
 original=Your profile
-translation=
+translation=Ваш профіль
 
 [account.profile.try_again_later]
 original=Please try again later.
@@ -1836,7 +1836,7 @@ translation=
 
 [auth.full_name]
 original=Full name
-translation=
+translation=Повне ім'я
 
 [auth.mfa_code]
 original=2-factor authentication code
@@ -1848,11 +1848,11 @@ translation=
 
 [auth.new_password]
 original=New password
-translation=
+translation=Новий пароль 
 
 [auth.password]
 original=Password
-translation=
+translation=Пароль
 
 [auth.password_empty]
 original=Password cannot be empty.
@@ -1904,11 +1904,11 @@ translation=
 
 [auth.set_new_password]
 original=Set a new password
-translation=
+translation=Встановити новий пароль
 
 [auth.sign_in]
 original=Sign in
-translation=
+translation
 
 [auth.sign_in_link]
 original=Sign in
@@ -2352,7 +2352,7 @@ translation=
 
 [features.themes]
 original=Themes
-translation=
+translation=Теми
 
 [features.version_history]
 original=Version history
@@ -2364,7 +2364,7 @@ translation=
 
 [nav.account]
 original=Account
-translation=
+translation=Акаунт
 
 [nav.blog]
 original=Blog
@@ -2376,19 +2376,19 @@ translation=
 
 [nav.changelog]
 original=Changelog
-translation=
+translation=Список змін 
 
 [nav.community]
 original=Community
-translation=
+translation=Спільнота
 
 [nav.developers]
 original=Developers
-translation=
+translation=Розробники
 
 [nav.download]
 original=Download
-translation=
+translation=Завантажити
 
 [nav.enterprise]
 original=Enterprise
@@ -2404,11 +2404,11 @@ translation=
 
 [nav.get_started]
 original=Get started
-translation=
+translation=Почати 
 
 [nav.help]
 original=Help
-translation=
+translation=Допомога 
 
 [nav.learn]
 original=Learn
@@ -2428,7 +2428,7 @@ translation=
 
 [nav.overview]
 original=Overview
-translation=
+translation=Огляд
 
 [nav.plugins]
 original=Plugins
@@ -2440,7 +2440,7 @@ translation=
 
 [nav.privacy]
 original=Privacy
-translation=
+translation=Приватність
 
 [nav.privacy_policy]
 original=Privacy policy
@@ -2452,11 +2452,11 @@ translation=
 
 [nav.roadmap]
 original=Roadmap
-translation=
+translation=Дорожня карта
 
 [nav.security]
 original=Security
-translation=
+translation=Безпека
 
 [nav.system_status]
 original=System status
