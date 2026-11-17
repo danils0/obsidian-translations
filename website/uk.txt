@@ -380,7 +380,7 @@ translation=
 
 [account.catalyst.refund_policy_link]
 original=refund policy
-translation=
+translation=політику повернення
 
 [account.catalyst.supporter]
 original=Supporter
@@ -1368,7 +1368,7 @@ translation=
 
 [account.publish.buy_publish]
 original=Buy Publish
-translation=
+translation=Купити Publish
 
 [account.publish.change_sites]
 original=Change sites
@@ -1396,7 +1396,7 @@ translation=
 
 [account.publish.invite_accepted]
 original=Accepted invite
-translation=
+translation=Запрошення прийнято
 
 [account.publish.invite_accepted_desc]
 original=You have successfully accepted the invite!
@@ -1420,7 +1420,7 @@ translation=
 
 [account.publish.learn_more]
 original=Learn\u00a0more.
-translation=
+translation=Докладніше.
 
 [account.publish.monthly]
 original=Monthly
@@ -1484,11 +1484,11 @@ translation={{count}} сайтів
 
 [account.publish.site_count_one]
 original=1 site
-translation=
+translation=1 сайт
 
 [account.publish.stop]
 original=Stop
-translation=
+translation=Зупинити
 
 [account.publish.stop_auto_renewal]
 original=Stop auto-renewal
@@ -1528,11 +1528,11 @@ translation=
 
 [account.publish.yearly]
 original=Yearly
-translation=
+translation=Щорічно
 
 [account.publish.your_sites]
 original=Your sites
-translation=
+translation=Ваші сайти
 
 [account.sync.active]
 original=Active
@@ -2248,7 +2248,7 @@ translation=Політика конфіденційності
 
 [checkout.refund_policy]
 original=Refund policy
-translation=Політика повернення коштів
+translation=Політика повернення
 
 [checkout.secure_encrypted]
 original=All transactions are secure and\u00a0encrypted.
@@ -2532,7 +2532,7 @@ translation=
 
 [pages.about.private]
 original=Private
-translation=
+translation=Приватний
 
 [pages.about.private_desc]
 original=We believe that your thoughts and ideas belong to you and deserve complete privacy. That’s why your data is stored on your device, inaccessible to us. When you use our online services, your data is protected with end-to-end encryption for maximum\u00a0security.
@@ -3952,7 +3952,7 @@ translation=
 
 [pages.index.publish_instantly]
 original=Publish instantly.
-translation=
+translation=Публікуйте миттєво.
 
 [pages.index.publish_instantly_desc]
 original=Turn your notes into an online wiki, knowledge base, documentation, or digital\u00a0garden. {{link}}
@@ -4220,7 +4220,7 @@ translation=
 
 [pages.publish.analytics]
 original=Analytics are optional
-translation=
+translation=Аналітика необов’язкова
 
 [pages.publish.analytics_desc]
 original=Obsidian Publish is private by default, but it’s easy to track visits to your\u00a0site if you choose to. Embed Google Analytics or privacy-friendly tools such as Plausible and Fathom.
@@ -4248,7 +4248,7 @@ translation=
 
 [pages.publish.create_site_btn]
 original=Create your site
-translation=
+translation=Створити сайт
 
 [pages.publish.custom_domain_desc]
 original=Point your domain name to Obsidian Publish for a more branded experience.
@@ -4268,7 +4268,7 @@ translation=
 
 [pages.publish.edit_markdown]
 original=Edit with Markdown
-translation=
+translation=Редагуйте в Markdown
 
 [pages.publish.edit_markdown_desc]
 original=Blazing fast text editing built on the simplicity and reliability of\u00a0Markdown.
@@ -4340,7 +4340,7 @@ translation=
 
 [pages.publish.mock_pub_custom_url]
 original=Custom URL
-translation=
+translation=Власна URL-адреса
 
 [pages.publish.mock_pub_custom_url_desc]
 original=Define your custom domain.
@@ -4348,7 +4348,7 @@ translation=
 
 [pages.publish.mock_pub_enter_password]
 original=Enter password...
-translation=
+translation=Введіть пароль...
 
 [pages.publish.mock_pub_indexing]
 original=Disallow search engine indexing
@@ -4360,7 +4360,7 @@ translation=
 
 [pages.publish.mock_pub_logo]
 original=Logo
-translation=
+translation=Логотип
 
 [pages.publish.mock_pub_logo_desc]
 original=Pick an image for your site.
@@ -4380,15 +4380,15 @@ translation=
 
 [pages.publish.mock_pub_settings]
 original=Site settings
-translation=
+translation=Налаштування сайту
 
 [pages.publish.mock_pub_site_name]
 original=Site name
-translation=
+translation=Назва сайту
 
 [pages.publish.mock_pub_site_name_desc]
 original=Name of your site.
-translation=
+translation=Назва вашого сайту.
 
 [pages.publish.mock_pub_theme]
 original=Site theme
@@ -4404,7 +4404,7 @@ translation=
 
 [pages.publish.performance]
 original=Performance
-translation=
+translation=Продуктивність
 
 [pages.publish.performance_desc]
 original=Speed and accessibility are built into every Obsidian Publish site. No configuration required.
