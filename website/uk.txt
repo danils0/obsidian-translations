@@ -56,11 +56,11 @@ translation=
 
 [account.billing.gift_cancel_link]
 original=Cancel this gift
-translation=
+translation=Відмінити цей подарунок
 
 [account.billing.gift_cancelled_on]
 original=Your gift was cancelled on {{date}}.
-translation=
+translation=Ваш подарунок скасовано {{date}}
 
 [account.billing.gift_copy]
 original=Copy
@@ -72,7 +72,7 @@ translation=
 
 [account.billing.gift_history]
 original=Gift history
-translation=
+translation=Історія подарунків
 
 [account.billing.gift_or]
 original=or
@@ -84,11 +84,11 @@ translation=
 
 [account.billing.gift_redeem_code]
 original=redeem code
-translation=
+translation=код активації
 
 [account.billing.gift_redeem_link]
 original=redeem link
-translation=
+translation=посилання для активації
 
 [account.billing.gift_redeemed_on]
 original=Your gift was redeemed on {{date}}.
@@ -112,19 +112,19 @@ translation=
 
 [account.billing.learn_more]
 original=Learn more.
-translation=
+translation=Докладніше.
 
 [account.billing.manage]
 original=Manage
-translation=
+translation=Керувати
 
 [account.billing.obsidian_credit]
 original=Obsidian Credit
-translation=
+translation=Obsidian Credit
 
 [account.billing.payment_method]
 original=Payment method
-translation=
+translation=Спосіб оплати
 
 [account.billing.payment_method_desc]
 original=View and modify the card you use for payments
@@ -132,15 +132,15 @@ translation=
 
 [account.billing.redeem]
 original=Redeem
-translation=
+translation=Активувати
 
 [account.billing.renew]
 original=Renew
-translation=
+translation=Поновити
 
 [account.billing.send_credit]
 original=Send credit
-translation=
+translation=Відправити кредит
 
 [account.billing.tax_ca_unavailable]
 original=Tax exemptions are not available in Canada.
@@ -152,7 +152,7 @@ translation=
 
 [account.billing.tax_cert_file]
 original=Certificate file
-translation=
+translation=Файл сертифіката
 
 [account.billing.tax_cert_title]
 original=Tax exemption certificate
@@ -792,7 +792,7 @@ translation=
 
 [account.invoice.discount]
 original=Discount
-translation=
+translation=Знижка
 
 [account.invoice.invoice_number]
 original=Invoice #{{number}}
@@ -1424,7 +1424,7 @@ translation=
 
 [account.publish.monthly]
 original=Monthly
-translation=
+translation=Щомісячно
 
 [account.publish.next_renewal]
 original=Your next renewal will be for {{sites}} on {{date}}.
@@ -1596,7 +1596,7 @@ translation=
 
 [account.sync.monthly]
 original=Monthly
-translation=
+translation=Щомісячно
 
 [account.sync.next_renewal]
 original=Your next renewal will be on {{date}}.
@@ -1784,55 +1784,55 @@ translation=
 
 [auth.already_have_account]
 original=Already have an account?
-translation=
+translation=Вже маєте акаунт?
 
 [auth.back_to_account]
 original=Back to account
-translation=
+translation=Повернутися до акаунта
 
 [auth.back_to_sign_in]
 original=Back to sign in
-translation=
+translation=Назад до входу
 
 [auth.create_account]
 original=Create an\u00a0account
-translation=
+translation=Створити акаунт
 
 [auth.create_account_link]
 original=Create an account
-translation=
+translation=Створити акаунт
 
 [auth.didnt_receive_email]
 original=Didn’t receive email?
-translation=
+translation=Не отримали лист?
 
 [auth.dont_have_account]
 original=Don’t have an account?
-translation=
+translation=Не маєте акаунта?
 
 [auth.email]
 original=Email
-translation=
+translation=Електронна пошта
 
 [auth.email_empty]
 original=Email cannot be empty.
-translation=
+translation=Електронна пошта не може бути порожньою.
 
 [auth.email_invalid]
 original=Email is not valid.
-translation=
+translation=Недійсна адреса електронної пошти.
 
 [auth.email_invalid_at]
 original=Email address is not valid and must contain "@".
-translation=
+translation=Адреса електронної пошти недійсна і має містити символ "@"
 
 [auth.fill_email]
 original=Please fill out your email.
-translation=
+translation=Будь ласка, вкажіть вашу електронну пошту.
 
 [auth.forgot_password]
 original=Forgot password?
-translation=
+translation=Забули пароль?
 
 [auth.full_name]
 original=Full name
@@ -1840,7 +1840,7 @@ translation=Повне ім'я
 
 [auth.mfa_code]
 original=2-factor authentication code
-translation=
+translation=Код двофакторної автентифікації
 
 [auth.name_empty]
 original=Name cannot be empty.
@@ -1888,15 +1888,15 @@ translation=
 
 [auth.reset]
 original=Reset
-translation=
+translation=Скинути
 
 [auth.reset_password]
 original=Reset your password
-translation=
+translation=Скинути пароль
 
 [auth.reset_password_btn]
 original=Reset password
-translation=
+translation=Скинути пароль
 
 [auth.reset_password_sent]
 original=We have sent an email to {{email}} to reset your password.
@@ -1908,19 +1908,19 @@ translation=Встановити новий пароль
 
 [auth.sign_in]
 original=Sign in
-translation=
+translation=Увійти
 
 [auth.sign_in_link]
 original=Sign in
-translation=
+translation=Увійти
 
 [auth.sign_in_title]
 original=Sign in to your account
-translation=
+translation=Увійдіть у свій акаунт
 
 [auth.sign_up]
 original=Sign up
-translation=
+translation=Зареєструватися
 
 [auth.signup_desc]
 original=An Obsidian account allows you to purchase licenses and add-on services. Creating an account is not required to download or use the\u00a0app.
@@ -2484,7 +2484,7 @@ translation=
 
 [pages.about.about]
 original=About Obsidian
-translation=
+translation=Про Obsidian
 
 [pages.about.credits_desc]
 original=Obsidian is made possible by our amazing contributors and community of volunteers. See more on the {{link}} page.
@@ -3388,11 +3388,11 @@ translation=
 
 [pages.index.explore_help_desc_link1]
 original=Obsidian Help
-translation=
+translation=Obsidian Help
 
 [pages.index.explore_help_desc_link2]
 original=Obsidian\u00a0Publish
-translation=
+translation=Obsidian Publish
 
 [pages.index.fine_grained_control]
 original=Fine-grained control
@@ -4740,7 +4740,7 @@ translation=
 
 [shared.continue]
 original=Continue
-translation=
+translation=Продовжити
 
 [shared.copied]
 original=Copied!
@@ -4752,7 +4752,7 @@ translation=Кредит
 
 [shared.go_back]
 original=Go back
-translation=
+translation=Назад
 
 [shared.got_it]
 original=Got it
@@ -4760,15 +4760,15 @@ translation=Зрозуміло
 
 [shared.monthly]
 original=Monthly
-translation=
+translation=Щомісячно
 
 [shared.need_help]
 original=Need help?
-translation=
+translation=Потрібна допомога?
 
 [shared.no_results]
 original=No results
-translation=
+translation=Немає результатів
 
 [shared.proceed_to_payment]
 original=Proceed to payment
@@ -4776,7 +4776,7 @@ translation=
 
 [shared.refund_policy]
 original=Refund policy
-translation=
+translation=Політика повернення
 
 [shared.renew_note]
 original=Your plan will renew at {{price}} (before tax and discounts) on {{date}}, unless canceled before that date.
@@ -4788,19 +4788,19 @@ translation=
 
 [shared.save]
 original=Save
-translation=
+translation=Зберегти
 
 [shared.save_20]
 original=Save 20%
-translation=
+translation=Зекономте 20%
 
 [shared.successfully_deleted]
 original=Successfully deleted
-translation=
+translation=Успішно видалено
 
 [shared.successfully_updated]
 original=Successfully updated
-translation=
+translation=Успішно оновлено
 
 [shared.switch_language]
 original=Switch language...
