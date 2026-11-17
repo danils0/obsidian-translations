@@ -172,7 +172,7 @@ translation=Видалити
 
 [account.billing.tax_col_state]
 original=State
-translation=
+translation=Область/штат
 
 [account.billing.tax_country]
 original=Country
@@ -208,7 +208,7 @@ translation=
 
 [account.billing.tax_learn_more]
 original=Learn\u00a0more
-translation=
+translation=Дізнатися більше
 
 [account.billing.tax_location]
 original=Location
@@ -260,7 +260,7 @@ translation=
 
 [account.billing.tax_vat_success]
 original=Successfully saved
-translation=
+translation=Успішно збережено
 
 [account.billing.tax_vat_success_desc]
 original=Your VAT number has been received.
@@ -268,7 +268,7 @@ translation=
 
 [account.billing.tax_vat_title]
 original=VAT number
-translation=
+translation=Номер ПДВ (VAT)
 
 [account.billing.tax_zip_code]
 original=Zip code
@@ -484,7 +484,7 @@ translation=
 
 [account.commercial.seats]
 original=Seats
-translation=
+translation=Місця
 
 [account.commercial.seats_purchased]
 original={{seats}} purchased.
@@ -492,15 +492,15 @@ translation=
 
 [account.commercial.stop]
 original=Stop
-translation=
+translation=Зупинити
 
 [account.commercial.title]
 original=Commercial license
-translation=
+translation=Комерційна ліцензія
 
 [account.commercial.update_seats]
 original=Update seats
-translation=
+translation=Оновити місця
 
 [account.commercial.view]
 original=View
@@ -712,7 +712,7 @@ translation=
 
 [account.gift.redeem_btn]
 original=Redeem
-translation=
+translation=Активувати
 
 [account.gift.redeem_error]
 original=Unfortunately, we were unable to fetch your gift.
@@ -744,7 +744,7 @@ translation=
 
 [account.gift.send_credit]
 original=Send credit
-translation=
+translation=Відправити кредит
 
 [account.gift.send_intro]
 original=You can send Obsidian Credit to anyone, such as friends, family, and coworkers. Credit can be used to pay for any Obsidian license or service. The minimum you can send is $5\u00a0USD.
@@ -756,7 +756,7 @@ translation=
 
 [account.gift.send_title]
 original=Send credit
-translation=
+translation=Відправити кредит
 
 [account.gift.send_via_email]
 original=Send anonymously via email
@@ -772,7 +772,7 @@ translation=
 
 [account.gift.summary]
 original=Summary
-translation=
+translation=Підсумок
 
 [account.invoice.bill_to]
 original=Bill to
@@ -2324,7 +2324,7 @@ translation=Перегляд графа
 
 [features.hotkeys]
 original=Hotkeys
-translation=Гарячі клавіші
+translation=Сполучення клавіш
 
 [features.hover_previews]
 original=Hover previews
@@ -2416,7 +2416,7 @@ translation=Навчання
 
 [nav.learn_more]
 original=Learn more
-translation=Докладніше
+translation=Дізнатися більше
 
 [nav.license_overview]
 original=License overview
@@ -2696,11 +2696,11 @@ translation=
 
 [pages.cli.automation]
 original=Automation
-translation=
+translation=Автоматизацію
 
 [pages.cli.basics]
 original=Basics
-translation=
+translation=Основи
 
 [pages.cli.collaborate]
 original=Collaborate
@@ -2712,7 +2712,7 @@ translation=
 
 [pages.cli.develop]
 original=Develop
-translation=
+translation=Розробляйте
 
 [pages.cli.develop_desc]
 original=Build plugins and themes faster. Edit code, reload, test, and debug without leaving the terminal.
@@ -2780,7 +2780,7 @@ translation=
 
 [pages.cli.install_step1]
 original=Update Obsidian
-translation=
+translation=Оновіть Obsidian
 
 [pages.cli.install_step1_desc]
 original=Download the latest Obsidian installer.
@@ -2788,7 +2788,7 @@ translation=
 
 [pages.cli.install_step2]
 original=Activate the CLI
-translation=
+translation=Активуйте CLI
 
 [pages.cli.install_step2_desc]
 original=Enable **Command line interface** in **Settings** → **General**.
@@ -2796,7 +2796,7 @@ translation=
 
 [pages.cli.install_step3]
 original=Register the CLI
-translation=
+translation=Зареєструйте CLI
 
 [pages.cli.install_step3_desc]
 original=Follow the on-screen instructions to add the CLI to your system PATH. Restart your terminal for changes to take\u00a0effect.
@@ -2844,7 +2844,7 @@ translation=
 
 [pages.cli.mock_ex_devtools]
 original=Open DevTools
-translation=
+translation=Відкрити DevTools
 
 [pages.cli.mock_ex_diff]
 original=Compare two versions of a file
@@ -2864,11 +2864,11 @@ translation=
 
 [pages.cli.mock_ex_help]
 original=Show help
-translation=
+translation=Показати допомогу
 
 [pages.cli.mock_ex_read]
 original=Read current file
-translation=
+translation=Прочитати поточний файл
 
 [pages.cli.mock_ex_reload]
 original=Reload plugin in development
@@ -2932,7 +2932,7 @@ translation=
 
 [pages.cli.sc_cancel]
 original=Cancel
-translation=
+translation=Скасувати
 
 [pages.cli.sc_clear]
 original=Clear screen
@@ -2960,11 +2960,11 @@ translation=
 
 [pages.cli.sc_editing]
 original=Editing
-translation=
+translation=Редагування
 
 [pages.cli.sc_exit]
 original=Exit
-translation=
+translation=Вийти
 
 [pages.cli.sc_exit_suggestion]
 original=Dismiss suggestions
@@ -2972,19 +2972,19 @@ translation=
 
 [pages.cli.sc_general]
 original=General
-translation=
+translation=Загальні
 
 [pages.cli.sc_line_end]
 original=End of line
-translation=
+translation=Кінець рядка
 
 [pages.cli.sc_line_start]
 original=Start of line
-translation=
+translation=Початок рядка
 
 [pages.cli.sc_nav]
 original=Navigation
-translation=
+translation=Навігація
 
 [pages.cli.sc_next_history]
 original=Next command
@@ -2996,15 +2996,15 @@ translation=
 
 [pages.cli.sc_reverse_search]
 original=Search history
-translation=
+translation=Пошук в історії
 
 [pages.cli.sc_word_back]
 original=Previous word
-translation=
+translation=Попереднє слово
 
 [pages.cli.sc_word_forward]
 original=Next word
-translation=
+translation=Наступне слово
 
 [pages.cli.shortcuts]
 original=Keyboard shortcuts
@@ -3016,7 +3016,7 @@ translation=
 
 [pages.cli.single_command]
 original=Run a command
-translation=
+translation=Виконати команду
 
 [pages.cli.tagline]
 original=Obsidian CLI is a programmatic playground for plain text.
@@ -3108,7 +3108,7 @@ translation=
 
 [pages.clipper.features_desc_link]
 original=open source
-translation=
+translation=з відкритим вихідним кодом
 
 [pages.clipper.features_heading]
 original=Bring the web to your personal knowledge base.
@@ -3116,7 +3116,7 @@ translation=
 
 [pages.clipper.hero]
 original=Save\u00a0the\u00a0web.
-translation=
+translation=Зберігайте веб.
 
 [pages.clipper.hero_desc]
 original=Highlight and capture web pages in your favorite\u00a0browser. Save anything and everything with just one\u00a0click.
@@ -3124,7 +3124,7 @@ translation=
 
 [pages.clipper.highlight]
 original=Highlight
-translation=
+translation=Виділяйте
 
 [pages.clipper.highlight_desc]
 original=Easily highlight important passages you want to save to Obsidian. Your highlights are always visible, so you can revisit them when you return to a\u00a0page.
@@ -3132,7 +3132,7 @@ translation=
 
 [pages.clipper.highlight_text]
 original=Highlight
-translation=
+translation=Виділяйте
 
 [pages.clipper.highlight_text_desc]
 original=text, images, and blocks of\u00a0content.
@@ -3164,7 +3164,7 @@ translation=
 
 [pages.clipper.more_browsers]
 original=More\u00a0browsers
-translation=
+translation=Більше браузерів
 
 [pages.clipper.no_lockin]
 original=No lock-in
@@ -3176,7 +3176,7 @@ translation=
 
 [pages.clipper.private]
 original=Stay private
-translation=
+translation=Зберігайте приватність
 
 [pages.clipper.private_desc]
 original=All your clipped content is stored locally in your Obsidian vault. Your thoughts are yours.
@@ -3184,7 +3184,7 @@ translation=
 
 [pages.clipper.recipes]
 original=Recipes
-translation=
+translation=Рецепти
 
 [pages.clipper.recipes_desc]
 original=with ingredients, steps, and\u00a0nutrition.
@@ -3192,15 +3192,15 @@ translation=
 
 [pages.clipper.references]
 original=References
-translation=
+translation=Джерела
 
 [pages.clipper.references_desc]
 original=for books, movies, or\u00a0podcasts.
-translation=
+translation=для книг, фільмів або подкастів
 
 [pages.community.developers_btn]
 original=Explore docs
-translation=
+translation=Дослідити документацію
 
 [pages.community.developers_desc]
 original=Learn how to build your own Obsidian plugins and themes using our open API and documentation.
@@ -3224,11 +3224,11 @@ translation=
 
 [pages.community.hero]
 original=Join the community
-translation=
+translation=Доєднатися до спільноти
 
 [pages.community.merch]
 original=Merch
-translation=
+translation=Мерч
 
 [pages.community.merch_btn]
 original=Visit the store
@@ -3316,7 +3316,7 @@ translation=
 
 [pages.enterprise.hero_desc_link]
 original=highest security
-translation=
+translation=найвищий рівень безпеки
 
 [pages.enterprise.meta_desc]
 original=Organizations that demand the highest security trust Obsidian. Their teams rely on Obsidian to think more effectively and keep total ownership over private data.
@@ -3328,7 +3328,7 @@ translation=
 
 [pages.enterprise.show_support]
 original=Show your support
-translation=
+translation=Підтримайте нас
 
 [pages.enterprise.show_support_desc]
 original=Obsidian is 100% user-supported. Join the movement. Support independent software.
@@ -3380,7 +3380,7 @@ translation=
 
 [pages.index.download_now_btn]
 original=Download now
-translation=
+translation=Завантажити зараз
 
 [pages.index.explore_help_desc]
 original=Explore the {{link1}} site, powered\u00a0by\u00a0{{link2}}.
@@ -3408,11 +3408,11 @@ translation=
 
 [pages.index.get_obsidian_btn]
 original=Get Obsidian
-translation=
+translation=Завантажити Obsidian
 
 [pages.index.get_obsidian_for_btn]
 original=Get Obsidian for 
-translation=
+translation=Завантажити Obsidian для
 
 [pages.index.graph_desc]
 original=Visualize the relationships between your notes. Find hidden patterns in your thinking through a visually engaging and interactive\u00a0graph.
@@ -3488,7 +3488,7 @@ translation=
 
 [pages.index.mock_canvas_lecture]
 original=Lecture 1
-translation=
+translation=Лекція 1
 
 [pages.index.mock_canvas_philosophers]
 original=Philosophers
@@ -3572,11 +3572,11 @@ translation=
 
 [pages.index.mock_hero_file_02]
 original=Daily
-translation=
+translation=Щоденні
 
 [pages.index.mock_hero_file_03]
 original=Ideas
-translation=
+translation=Ідеї
 
 [pages.index.mock_hero_file_04]
 original=Meta
@@ -3640,7 +3640,7 @@ translation=
 
 [pages.index.mock_hero_file_19]
 original=Philosophy
-translation=
+translation=Філософія
 
 [pages.index.mock_hero_file_20]
 original=A little bit every day
@@ -3664,7 +3664,7 @@ translation=
 
 [pages.index.mock_hero_h2_quote]
 original=Quote
-translation=
+translation=Цитата
 
 [pages.index.mock_hero_link]
 original=On Writing
@@ -3676,11 +3676,11 @@ translation=
 
 [pages.index.mock_hero_phone_tag_1]
 original=#projects
-translation=
+translation=#проєкти
 
 [pages.index.mock_hero_phone_tag_2]
 original=#travel
-translation=
+translation=#подоров
 
 [pages.index.mock_hero_phone_title]
 original=Japan Trip Planning
@@ -3688,7 +3688,7 @@ translation=
 
 [pages.index.mock_hero_phone_todo]
 original=To-do
-translation=
+translation=Список справ
 
 [pages.index.mock_hero_tab_2]
 original=Evergreen notes
@@ -3816,7 +3816,7 @@ translation=
 
 [pages.index.mock_share_owner]
 original=Owner
-translation=
+translation=Власник
 
 [pages.index.mock_sync_activity]
 original=Sync activity
@@ -3864,7 +3864,7 @@ translation=
 
 [pages.index.mock_sync_hotkeys]
 original=Hotkeys
-translation=
+translation=Сполучення клавіш
 
 [pages.index.mock_sync_hotkeys_desc]
 original=Sync custom hotkeys.
@@ -4460,7 +4460,7 @@ translation=
 
 [pages.roadmap.active]
 original=Active
-translation=
+translation=У розробці
 
 [pages.roadmap.detail_desc]
 original=For more detail about individual releases see the {{link1}}. Have a feature request? Visit the {{link2}}.
@@ -4472,11 +4472,11 @@ translation=
 
 [pages.roadmap.detail_desc_link2]
 original=official\u00a0forum
-translation=
+translation=офіційний форум
 
 [pages.roadmap.launched]
 original=Launched
-translation=
+translation=Запущено
 
 [pages.roadmap.planned]
 original=Planned
@@ -4516,7 +4516,7 @@ translation=
 
 [pages.security.developer_policies]
 original=Developer\u00a0policies
-translation=
+translation=Політика розробки
 
 [pages.security.e2e_desc]
 original=With Obsidian Sync, your data is secured using the strongest encryption standard, AES\u2011256.
@@ -4532,11 +4532,11 @@ translation=
 
 [pages.security.obsidian_manifesto]
 original=Obsidian Manifesto
-translation=
+translation=Маніфест Obsidian
 
 [pages.security.private]
 original=Private by default
-translation=
+translation=Приватність за замовчуванням
 
 [pages.security.private_desc]
 original=Your data is saved locally on your device. No account is required, no telemetry data is\u00a0collected.
@@ -4544,7 +4544,7 @@ translation=
 
 [pages.security.related]
 original=Related information
-translation=
+translation=Пов'язана інформація
 
 [pages.security.report_issue]
 original=Report a security issue
@@ -4612,11 +4612,11 @@ translation=
 
 [pages.sync.configuration]
 original=Configuration
-translation=
+translation=Конфігурація
 
 [pages.sync.cross_platform]
 original=Cross-platform apps
-translation=
+translation=Кросплатформні застосунки
 
 [pages.sync.cross_platform_desc]
 original=Obsidian is available on all major platforms, so you can sync notes to any device. Seamlessly work across Mac, Windows, Linux, iOS, Android, and even {{link}}
@@ -4668,7 +4668,7 @@ translation=
 
 [pages.sync.plus]
 original=Sync\u00a0Plus
-translation=
+translation=Sync Plus
 
 [pages.sync.price]
 original=$4 per month
@@ -4692,7 +4692,7 @@ translation=Sync Standart
 
 [pages.sync.start_syncing_btn]
 original=Start syncing
-translation=
+translation=Почати синхронізацію
 
 [pages.sync.take_control]
 original=Take control of your\u00a0data
@@ -4720,7 +4720,7 @@ translation=
 
 [shared.accept]
 original=Accept
-translation=
+translation=Прийняти
 
 [shared.billing_frequency]
 original=Billing frequency
@@ -4728,15 +4728,15 @@ translation=
 
 [shared.cancel]
 original=Cancel
-translation=
+translation=Відміна
 
 [shared.change_language]
 original=Change language
-translation=
+translation=Змінити мову
 
 [shared.close]
 original=Close
-translation=
+translation=Закрити
 
 [shared.continue]
 original=Continue
@@ -4960,7 +4960,7 @@ translation=Зареєструватися
 
 [ui.summary]
 original=Summary
-translation=Зведення
+translation=Підсумок
 
 [ui.switch_language]
 original=Switch language...
