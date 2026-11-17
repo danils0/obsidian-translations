@@ -2460,15 +2460,15 @@ translation=Безпека
 
 [nav.system_status]
 original=System status
-translation=
+translation=Стан системи
 
 [nav.terms_of_service]
 original=Terms of service
-translation=
+translation=Умови використання
 
 [pages.404.back]
 original=Back to the home\u00a0page.
-translation=
+translation=Повернутися на головну\u00a0сторінку.
 
 [pages.404.subtitle]
 original=We’d make note of this, but we don’t track visitors. If something seems broken, {{link}}.
