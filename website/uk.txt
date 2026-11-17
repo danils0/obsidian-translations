@@ -20,23 +20,23 @@ translation=баланс в USD
 
 [account.billing.credit_full_desc]
 original=Credit can be used to pay for any Obsidian license or service, including Sync and Publish. Any credit you have will be used before we charge your payment method.
-translation=
+translation=Кредити можна використовувати для оплати будь-якої ліцензії чи послуги Obsidian, зокрема Sync і Publish. Наявні кредити будуть використані перед тим, як ми стягнемо плату з вашого способу оплати.
 
 [account.billing.credit_purchase_success]
 original=Your Credit purchase was successful! You can now use credit to pay for Sync, Publish, Catalyst, or commercial licenses. You can also send credit to others.
-translation=
+translation=Покупка кредитів пройшла успішно! Тепер ви можете використовувати кредити для оплати Sync, Publish, Catalyst або комерційних ліцензій. Ви також можете надсилати кредити іншим.
 
 [account.billing.discount]
 original=Discount
-translation=
+translation=Знижка
 
 [account.billing.discount_active]
 original=Your {{type}} discount currently gives you 40% off the regular price of Obsidian Sync and Publish. Your discount will expire on {{date}}.
-translation=
+translation=Ваша знижка {{type}} наразі надає вам 40% знижки на стандартну ціну Obsidian Sync і Publish. Ваша знижка закінчиться {{date}}.
 
 [account.billing.discount_eligibility]
 original=Students, faculty members, and nonprofit employees are eligible for a 40% discount on Obsidian Sync and\u00a0Publish.
-translation=
+translation=Студенти, викладачі та працівники неприбуткових організацій мають право на 40% знижку на Obsidian Sync і\u00a0Publish.
 
 [account.billing.discount_expired]
 original=Your {{type}} discount expired on {{date}}.
@@ -1908,7 +1908,7 @@ translation=Встановити новий пароль
 
 [auth.sign_in]
 original=Sign in
-translation
+translation=
 
 [auth.sign_in_link]
 original=Sign in
