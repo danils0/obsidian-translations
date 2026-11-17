@@ -2024,191 +2024,191 @@ translation=YouTube
 
 [buy.catalyst.choose_tier]
 original=Choose a tier
-translation=
+translation=Оберіть рівень
 
 [buy.catalyst.community_badge]
 original=community badge
-translation=
+translation=значок спільноти
 
 [buy.catalyst.early_access]
 original=Early access to beta versions
-translation=
+translation=Ранній доступ до бета-версій
 
 [buy.catalyst.exclusive_discord]
 original=Exclusive Discord channel
-translation=
+translation=Ексклюзивний канал у Discord
 
 [buy.catalyst.insider_badge]
 original=Insider
-translation=
+translation=Insider
 
 [buy.catalyst.supporter_badge]
 original=Supporter
-translation=
+translation=Supporter
 
 [buy.catalyst.title]
 original=Become a Catalyst member
-translation=
+translation=Стати учасником Catalyst
 
 [buy.catalyst.upgrade_desc]
 original=Select a tier to upgrade. When upgrading you only need to pay the difference.
-translation=
+translation=Оберіть рівень для підвищення. Сплачуйте лише різницю у вартості.
 
 [buy.catalyst.vip_badge]
 original=VIP
-translation=
+translation=VIP
 
 [buy.credit.amount_label]
 original=Amount of credit to purchase (USD)
-translation=
+translation=Сума кредитів для придбання (USD)
 
 [buy.credit.credit_desc]
 original=Obsidian Credit can be used to pay for any Obsidian license or service. You can also send credit to anyone, such as friends, family, and coworkers.
-translation=
+translation=Кредити Obsidian можна використовувати для оплати будь-якої ліцензії чи сервісу Obsidian. Ви також можете надсилати кредити будь-кому — друзям, рідним або колегам.
 
 [buy.credit.min_purchase]
 original=Minimum $5 credit purchase.
-translation=
+translation=Мінімальна сума придбання кредитів — 5 $.
 
 [buy.credit.no_refund]
 original=Obsidian Credit is not eligible for refunds.
-translation=
+translation=Кредити Obsidian не підлягають поверненню.
 
 [buy.credit.title]
 original=Add credit to your\u00a0account
-translation=
+translation=Додати кредити на\u00a0рахунок
 
 [buy.license.business_name_error]
 original=Please provide your business name.
-translation=
+translation=Будь ласка, вкажіть назву вашої компанії.
 
 [buy.license.business_name_label]
 original=Business name
-translation=
+translation=Назва компанії
 
 [buy.license.commercial_renew]
 original=Commercial licenses renew yearly.
-translation=
+translation=Комерційні ліцензії поновлюються щороку.
 
 [buy.license.current_seats_info]
 original=Your organization currently has {{seats}} {{seatWord}}. You can add or remove seats. Additional seats are pro-rated and will renew with your current {{seatWord}} on {{date}}. Any seats you remove can still be used until that\u00a0date.
-translation=
+translation=У вашої організації зараз {{seats}} {{seatWord}}. Ви можете додати або видалити місця. Додаткові місця розраховуються пропорційно та будуть поновлені разом із вашим поточним ({{seatWord}}) {{date}}. Усі видалені місця можна використовувати до цієї\u00a0дати.
 
 [buy.license.faq_link]
 original=See\u00a0our\u00a0FAQs.
-translation=
+translation=Дивіться\u00a0наш\u00a0FAQ.
 
 [buy.license.org_desc]
 original=Your organization should have at least one seat per Obsidian user. Organizations with 25 licenses or more can be featured as a supporting organization.
-translation=
+translation=У вашої організації має бути щонайменше одне місце на кожного користувача Obsidian. Організації з 25 ліцензіями і більше можуть бути представлені як підтримувальні організації.
 
 [buy.license.questions]
 original=Questions? {{link}}
-translation=
+translation=Запитання? {{link}}
 
 [buy.license.reduce_seats]
 original=Reduce seats to {{count}}
-translation=
+translation=Зменшити кількість місць до {{count}}
 
 [buy.license.seat]
 original=seat
-translation=
+translation=місце
 
 [buy.license.seats]
 original=seats
-translation=
+translation=місця
 
 [buy.license.seats_label]
 original=Total number of seats
-translation=
+translation=Загальна кількість місць
 
 [buy.license.title]
 original=Commercial licenses
-translation=
+translation=Комерційні ліцензії
 
 [buy.publish.current_plan]
 original=Your current plan has {{sites}} {{siteWord}}.
-translation=
+translation=Ваш поточний тариф включає {{sites}} {{siteWord}}.
 
 [buy.publish.current_plan_renew]
 original=Your current plan has {{sites}} {{siteWord}} and is set to renew with {{renewSites}} {{renewSiteWord}}.
-translation=
+translation=Ваш поточний тариф включає {{sites}} {{siteWord}} і буде поновлений із {{renewSites}} {{renewSiteWord}}
 
 [buy.publish.previous_plan]
 original=Your previous plan had {{sites}} {{siteWord}}.
-translation=
+translation=Ваш попередній тариф включав {{sites}} {{siteWord}}.
 
 [buy.publish.reduce_sites]
 original=Reduce sites
-translation=
+translation=Зменшити кількість сайтів
 
 [buy.publish.site]
 original=site
-translation=
+translation=сайт
 
 [buy.publish.sites]
 original=sites
-translation=
+translation=сайти
 
 [buy.publish.sites_label]
 original=Number of sites
-translation=
+translation=Кількість сайтів
 
 [buy.publish.title]
 original=Choose a Publish plan
-translation=
+translation=Оберіть тариф Publish
 
 [buy.sync.basic_desc]
 original=1 synced vault · 1 month history
-translation=
+translation=1 синхронізоване сховище · 1 місяць історії
 
 [buy.sync.changes_immediate]
 original=Changes take effect immediately.
-translation=
+translation=Зміни набувають чинності негайно.
 
 [buy.sync.choose_plan]
 original=Choose a Sync plan
-translation=
+translation=Оберіть тариф Sync
 
 [buy.sync.downgrade]
 original=Downgrade immediately
-translation=
+translation=Понизити тариф негайно
 
 [buy.sync.legacy_warning]
 original=You are currently on a discontinued plan. If you change plans you will no longer be able to select it.
-translation=
+translation=Ви зараз на застарілому тарифі. Після зміни тарифу ви більше не зможете повернутися до нього.
 
 [buy.sync.over_storage_error]
 original=You currently are using more storage the selected plan allows. Before you can change plans please use the Obsidian app to remove synced files you don’t need.
-translation=
+translation=Зараз ви використовуєте більше місця в сховищі, ніж дозволяє обраний тариф. Перш ніж змінити тариф, видаліть у застосунку Obsidian непотрібні синхронізовані файли.
 
 [buy.sync.plan_label]
 original=Plan
-translation=
+translation=Тариф
 
 [buy.sync.plus_desc]
 original=10 synced vaults · 12 month history
-translation=
+translation=10 синхронізованих сховищ · 12 місяців історії
 
 [buy.sync.pricing_page]
 original=pricing page
-translation=
+translation=сторінку з цінами
 
 [buy.sync.see_guide]
 original=See guide.
-translation=
+translation=Перегляньте посібник
 
 [buy.sync.see_pricing]
 original=See our {{link}} for details.
-translation=
+translation=Докладніше дивіться на нашій {{link}}.
 
 [buy.sync.storage_label]
 original=Storage
-translation=
+translation=Сховище
 
 [buy.sync.too_many_vaults_error]
 original=You currently have too many remote vaults to switch to the selected plan. Before you can change plans please use the Obsidian app to remove synced vaults that you no longer need.
-translation=
+translation=Зараз у вас забагато віддалених сховищ, щоб перейти на обраний тариф. Перш ніж змінити тариф, видаліть у застосунку Obsidian синхронізовані сховища, які вам більше не потрібні.
 
 [checkout.address_error]
 original=Please complete your billing address.
