@@ -2296,59 +2296,59 @@ translation=
 
 [features.backlinks]
 original=Backlinks
-translation=
+translation=Зворотні посилання
 
 [features.collaboration]
 original=Collaboration
-translation=
+translation=Спільна робота
 
 [features.community_plugins]
 original=Community plugins
-translation=
+translation=Плагіни спільноти
 
 [features.custom_domain]
 original=Custom domain
-translation=
+translation=Власний домен
 
 [features.file_recovery]
 original=File recovery
-translation=
+translation=Відновлення файлів
 
 [features.graph]
 original=Graph
-translation=
+translation=Граф
 
 [features.graph_view]
 original=Graph view
-translation=
+translation=Перегляд графа
 
 [features.hotkeys]
 original=Hotkeys
-translation=
+translation=Гарячі клавіші
 
 [features.hover_previews]
 original=Hover previews
-translation=
+translation=Передперегляд при наведенні
 
 [features.password]
 original=Password protection
-translation=
+translation=Захист паролем
 
 [features.plugins]
 original=Plugins
-translation=
+translation=Плагіни
 
 [features.selective_sync]
 original=Selective sync
-translation=
+translation=Вибіркова синхронізація
 
 [features.shared_vaults]
 original=Shared vaults
-translation=
+translation=Спільні сховища
 
 [features.stacked_pages]
 original=Stacked pages
-translation=
+translation=Стіс сторінок
 
 [features.themes]
 original=Themes
@@ -2356,11 +2356,11 @@ translation=Теми
 
 [features.version_history]
 original=Version history
-translation=
+translation=Історія версій
 
 [nav.about]
 original=About
-translation=
+translation=Про нас
 
 [nav.account]
 original=Account
@@ -2368,11 +2368,11 @@ translation=Акаунт
 
 [nav.blog]
 original=Blog
-translation=
+translation=Блог
 
 [nav.brand_guidelines]
 original=Brand guidelines
-translation=
+translation=Правила використання бренду
 
 [nav.changelog]
 original=Changelog
@@ -2384,7 +2384,7 @@ translation=Спільнота
 
 [nav.developers]
 original=Developers
-translation=Розробники
+translation=Розробникам
 
 [nav.download]
 original=Download
@@ -2392,19 +2392,19 @@ translation=Завантажити
 
 [nav.enterprise]
 original=Enterprise
-translation=
+translation=Для організацій
 
 [nav.follow_us]
 original=Follow us
-translation=
+translation=Стежте за нами
 
 [nav.forum]
 original=Forum
-translation=
+translation=Форум
 
 [nav.get_started]
 original=Get started
-translation=Почати 
+translation=Розпочати
 
 [nav.help]
 original=Help
@@ -2412,19 +2412,19 @@ translation=Допомога
 
 [nav.learn]
 original=Learn
-translation=
+translation=Навчання
 
 [nav.learn_more]
 original=Learn more
-translation=
+translation=Докладніше
 
 [nav.license_overview]
 original=License overview
-translation=
+translation=Огляд ліцензій
 
 [nav.merch_store]
 original=Merch store
-translation=
+translation=Магазин мерчу
 
 [nav.overview]
 original=Overview
@@ -2432,23 +2432,23 @@ translation=Огляд
 
 [nav.plugins]
 original=Plugins
-translation=
+translation=Плагіни
 
 [nav.pricing]
 original=Pricing
-translation=
+translation=Ціни
 
 [nav.privacy]
 original=Privacy
-translation=Приватність
+translation=Конфіденційність
 
 [nav.privacy_policy]
 original=Privacy policy
-translation=
+translation=Політика конфіденційності
 
 [nav.resources]
 original=Resources
-translation=
+translation=Ресурси
 
 [nav.roadmap]
 original=Roadmap
