@@ -3628,7 +3628,7 @@ translation=
 
 [pages.index.mock_hero_file_16]
 original=Tools
-translation=
+translation=Інструменти
 
 [pages.index.mock_hero_file_17]
 original=Specialization is for insects
@@ -3652,7 +3652,7 @@ translation=
 
 [pages.index.mock_hero_from]
 original=From
-translation=
+translation=З
 
 [pages.index.mock_hero_graph_tab]
 original=Graph of Writing is t...
@@ -3740,7 +3740,7 @@ translation=
 
 [pages.index.mock_hero_words]
 original=206 words
-translation=
+translation=206 слів 
 
 [pages.index.mock_links_autocomplete_1]
 original=I **thin**k therefore I am
@@ -3760,11 +3760,11 @@ translation=
 
 [pages.index.mock_links_books]
 original=Books/
-translation=
+translation=Книги/
 
 [pages.index.mock_links_movies]
 original=Movies/
-translation=
+translation=Фільми/
 
 [pages.index.mock_links_p1]
 original=In {{link1}} the philosopher {{link2}} describes a series of doubts about the nature of reality, arriving at the famous phrase:
@@ -3776,7 +3776,7 @@ translation=
 
 [pages.index.mock_links_p1_link2]
 original=René Descartes
-translation=
+translation=Рене Декарт
 
 [pages.index.mock_links_p2]
 original=He argues that doubting requires thinking, and therefore, the act of thinking confirms his existence.
@@ -3844,7 +3844,7 @@ translation=
 
 [pages.index.mock_sync_deleted]
 original=Deleted files
-translation=
+translation=Видалені файли
 
 [pages.index.mock_sync_deleted_desc]
 original=View and restore deleted files
@@ -3872,7 +3872,7 @@ translation=
 
 [pages.index.mock_sync_images]
 original=Images
-translation=
+translation=Зображення 
 
 [pages.index.mock_sync_images_desc]
 original=Sync image files to this device
