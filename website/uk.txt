@@ -1844,7 +1844,7 @@ translation=Код двофакторної автентифікації
 
 [auth.name_empty]
 original=Name cannot be empty.
-translation=
+translation=Ім'я не може бути порожнім.
 
 [auth.new_password]
 original=New password
@@ -1856,35 +1856,35 @@ translation=Пароль
 
 [auth.password_empty]
 original=Password cannot be empty.
-translation=
+translation=Пароль не може бути порожнім.
 
 [auth.password_set_success]
 original=Your password has been successfully set.
-translation=
+translation=Ваш пароль успішно встановлено.
 
 [auth.please_log_in]
 original=Please log in first.
-translation=
+translation=Будь ласка, спочатку увійдіть.
 
 [auth.please_log_in_invite]
 original=Please log in or sign up to accept the invite.
-translation=
+translation=Будь ласка, увійдіть або зареєструйтеся, щоб прийняти запрошення.
 
 [auth.please_log_in_redeem]
 original=Please log in or sign up to redeem your gift.
-translation=
+translation=Будь ласка, увійдіть або зареєструйтеся, щоб отримати подарунок.
 
 [auth.please_set_password]
 original=Please set a new password.
-translation=
+translation=Будь ласка, встановіть новий пароль.
 
 [auth.recovery_code]
 original=Recovery code
-translation=
+translation=Код відновлення
 
 [auth.resend]
 original=Resend
-translation=
+translation=Надіслати повторно
 
 [auth.reset]
 original=Reset
@@ -1900,7 +1900,7 @@ translation=Скинути пароль
 
 [auth.reset_password_sent]
 original=We have sent an email to {{email}} to reset your password.
-translation=
+translation=Ми надіслали електронний лист на {{email}}, щоб скинути ваш пароль.
 
 [auth.set_new_password]
 original=Set a new password
@@ -1924,19 +1924,19 @@ translation=Зареєструватися
 
 [auth.signup_desc]
 original=An Obsidian account allows you to purchase licenses and add-on services. Creating an account is not required to download or use the\u00a0app.
-translation=
+translation=Акаунт Obsidian дозволяє купувати ліцензії та додаткові сервіси. Створення облікового запису не є обов'язковим для завантаження чи використання програми.
 
 [auth.signup_success]
 original=Success! You will receive an email soon to confirm your email address.
-translation=
+translation=Готово! Невдовзі ви отримаєте лист для підтвердження вашої електронної адреси.
 
 [auth.something_went_wrong]
 original=Something went wrong, please try again later.
-translation=
+translation=Щось пішло не так, будь ласка, спробуйте пізніше.
 
 [auth.use_recovery_code]
 original=Use recovery code
-translation=
+translation=Використати код відновлення
 
 [brand.bluesky]
 original=Bluesky
@@ -2252,15 +2252,15 @@ translation=Політика повернення
 
 [checkout.secure_encrypted]
 original=All transactions are secure and\u00a0encrypted.
-translation=
+translation=Усі транзакції захищені та зашифровані.
 
 [checkout.terms_charge]
 original=you allow Obsidian to charge you for future payments in accordance with our terms.
-translation=
+translation=ви дозволяєте Obsidian стягувати з вас плату за майбутні платежі згідно з нашими умовами.
 
 [checkout.terms_credit]
 original=By paying with credit,
-translation=
+translation=Оплачуючи кредитом,
 
 [checkout.terms_of_service]
 original=Terms of service
@@ -2268,15 +2268,15 @@ translation=Умови використання
 
 [checkout.terms_payment]
 original=By providing your payment information,
-translation=
+translation=Надаючи свої платіжні дані,
 
 [checkout.terms_renews]
 original=Your subscription renews automatically until\u00a0canceled.
-translation=
+translation=Ваша підписка поновлюється автоматично до її скасування.
 
 [checkout.unexpected_error]
 original=An unexpected error occurred. Please try again.
-translation=
+translation=Сталася неочікувана помилка. Будь ласка, спробуйте ще раз.
 
 [checkout.vat]
 original=VAT
@@ -2284,7 +2284,7 @@ translation=ПДВ
 
 [checkout.vat_desc]
 original=Provide a VAT number if you are buying for an EU business. Your VAT will be calculated based on the billing address provided above. Your VAT number will be stored for future renewals and purchases.
-translation=
+translation=Вкажіть номер платника ПДВ, якщо ви купуєте для компанії з ЄС. Ваш ПДВ буде розраховано на основі вказаної вище платіжної адреси. Номер платника ПДВ буде збережено для майбутніх поновлень і покупок.
 
 [checkout.vat_number]
 original=VAT Number
