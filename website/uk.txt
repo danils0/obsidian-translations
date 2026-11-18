@@ -2572,7 +2572,7 @@ translation=
 
 [pages.brand.hero]
 original=Brand
-translation=
+translation=Бренд
 
 [pages.brand.hero_desc]
 original=Download the Obsidian logo and brand assets.
@@ -2580,7 +2580,7 @@ translation=
 
 [pages.brand.icon]
 original=Icon
-translation=
+translation=Іконка
 
 [pages.brand.icon_desc]
 original=For variations on the app icon, download the asset files linked\u00a0above.
@@ -2588,7 +2588,7 @@ translation=
 
 [pages.brand.logo_lockup]
 original=Logo lockup
-translation=
+translation=Комбінований логотип
 
 [pages.brand.logo_lockup_desc]
 original=For most applications, the lockup should be displayed as follows, using the purple mark and black or white text. For single color applications, the entire logomark should be either black or white.
@@ -2632,7 +2632,7 @@ translation=
 
 [pages.canvas.extensible_2_desc_link]
 original=JSON\u00a0Canvas file format
-translation=
+translation=формат файлів JSON Canvas
 
 [pages.canvas.flexible]
 original=Flexible and intuitive
@@ -2656,11 +2656,11 @@ translation=
 
 [pages.canvas.meta_title]
 original=Obsidian Canvas - Visualize your ideas
-translation=
+translation=Obsidian Canvas — візуалізуйте свої ідеї
 
 [pages.canvas.new_way]
 original=A new way to think
-translation=
+translation=Новий спосіб мислити
 
 [pages.canvas.new_way_1_desc]
 original=Effortlessly add existing notes and media from your vault, and edit them within a Canvas\u00a0view.
@@ -3348,7 +3348,7 @@ translation=
 
 [pages.index.canvas_desc]
 original=An infinite space to research, brainstorm, diagram, and lay out your ideas. Canvas is a limitless playground for your mind. {{link}}
-translation=
+translation=Нескінченне полотно для досліджень, мозкового штурму, схем і впорядкування ваших ідей. Canvas — це безмежний простір для польоту думки. {{link}}
 
 [pages.index.collaboration_desc]
 original=Work with your team on shared files without compromising your private\u00a0data.
@@ -3356,7 +3356,7 @@ translation=
 
 [pages.index.customization]
 original=Customization
-translation=
+translation=Налаштування
 
 [pages.index.customization_desc]
 original=Control the look and feel of your site with themes, custom domains, password protection, and\u00a0more.
@@ -3364,7 +3364,7 @@ translation=
 
 [pages.index.developer_docs]
 original=Developer docs
-translation=
+translation=Документація для розробників
 
 [pages.index.developer_docs_desc]
 original=Learn how to build your own Obsidian plugins and themes, using our open API and documentation.
@@ -3372,7 +3372,7 @@ translation=
 
 [pages.index.discussion_forum]
 original=Discussion forum
-translation=
+translation=Форум для обговорень
 
 [pages.index.discussion_forum_desc]
 original=Post feature requests, report bugs, and explore in-depth discussions about knowledge management.
@@ -3404,7 +3404,7 @@ translation=
 
 [pages.index.free_without_limits]
 original=Free without limits.
-translation=
+translation=Безкоштовно без обмежень.
 
 [pages.index.get_obsidian_btn]
 original=Get Obsidian
@@ -3936,11 +3936,11 @@ translation=
 
 [pages.index.more_platforms_btn]
 original=More\u00a0platforms
-translation=
+translation=Більше платформ
 
 [pages.index.optimized_performance]
 original=Optimized for performance
-translation=
+translation=Оптимізовано для швидкодії
 
 [pages.index.optimized_performance_desc]
 original=Obsidian Publish sites are fast, mobile-friendly, and optimized for SEO, no configuration required.
@@ -3968,7 +3968,7 @@ translation=
 
 [pages.index.spark_ideas]
 original=Spark ideas.
-translation=
+translation=Плекайте ідеї.
 
 [pages.index.spark_ideas_desc]
 original=From personal notes to journaling, knowledge bases, and project management, Obsidian gives you the tools to come up with ideas and organize\u00a0them.
@@ -3976,7 +3976,7 @@ translation=
 
 [pages.index.sync_securely]
 original=Sync securely.
-translation=
+translation=Синхронізуйте безпечно.
 
 [pages.index.sync_securely_desc]
 original=Access your notes on any device, secured with end-to-end encryption. {{link}}
@@ -3992,11 +3992,11 @@ translation=
 
 [pages.index.time_to_shine]
 original=It’s your time to\u00a0shine.
-translation=
+translation=Ваш зоряний час.
 
 [pages.index.version_history_desc]
 original=Easily track changes between revisions, with one year of version history for every\u00a0note.
-translation=
+translation=Легко відстежуйте зміни між редакціями завдяки річній історії версій для кожної нотатки.
 
 [pages.mobile.feel_at_home]
 original=Feel at home
@@ -4672,7 +4672,7 @@ translation=Sync Plus
 
 [pages.sync.price]
 original=$4 per month
-translation=
+translation=4 USD на місяць
 
 [pages.sync.pricing_desc]
 original=Easily and securely sync your notes across all your devices. If you’re not satisfied, get a refund within 7 days, no questions\u00a0asked.
@@ -4680,7 +4680,7 @@ translation=
 
 [pages.sync.safe_secure]
 original=Safe and secure
-translation=
+translation=Надійно та безпечно
 
 [pages.sync.selective_sync_desc]
 original=Images, audio, video and PDFs can all be toggled to reduce data transfer.
@@ -4696,7 +4696,7 @@ translation=Почати синхронізацію
 
 [pages.sync.take_control]
 original=Take control of your\u00a0data
-translation=
+translation=Контролюйте свої дані
 
 [pages.sync.take_control_desc]
 original=Set up Obsidian Sync in just a few\u00a0minutes.
