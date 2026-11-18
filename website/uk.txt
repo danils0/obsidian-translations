@@ -3436,11 +3436,11 @@ translation=
 
 [pages.index.knowledge_desc]
 original=Obsidian uses open file formats, so you’re never locked\u00a0in. You own your data for the long\u00a0term.
-translation=
+translation=Obsidian використовує відкриті формати файлів, тож ви ніколи не будете прив'язані до однієї платформи. Ваші дані залишаються у вашому розпорядженні на довгі роки.
 
 [pages.index.knowledge_title]
 original=Your knowledge should last.
-translation=
+translation=Ваші знання мають залишатися з вами.
 
 [pages.index.links_desc]
 original=Create connections between your notes. Link anything and everything — ideas, people, places, books, and beyond. Invent your own personal Wikipedia.
@@ -3456,15 +3456,15 @@ translation=
 
 [pages.index.mind_desc]
 original=With {{link}} and themes, you can shape Obsidian to fit your way of\u00a0thinking.
-translation=
+translation=Завдяки {{link}} і тем ви можете налаштувати Obsidian відповідно до власного способу мислення.
 
 [pages.index.mind_desc_link]
 original=thousands of plugins
-translation=
+translation=тисячам плагінів
 
 [pages.index.mind_title]
 original=Your mind is unique.
-translation=
+translation=Ваше мислення неповторне
 
 [pages.index.mock_canvas_cogito]
 original=Cogito, ergo sum
@@ -3972,7 +3972,7 @@ translation=Плекайте ідеї.
 
 [pages.index.spark_ideas_desc]
 original=From personal notes to journaling, knowledge bases, and project management, Obsidian gives you the tools to come up with ideas and organize\u00a0them.
-translation=
+translation=Від особистих нотаток і ведення щоденника до баз знань та керування проєктами — Obsidian надає інструменти, щоб генерувати ідеї та впорядковувати їх.
 
 [pages.index.sync_securely]
 original=Sync securely.
@@ -3984,15 +3984,15 @@ translation=
 
 [pages.index.thoughts_desc]
 original=Obsidian stores notes privately on your device, so you can access them quickly, even offline. No one else can read them, not even\u00a0us.
-translation=
+translation=Obsidian зберігає нотатки приватно на вашому пристрої, тож ви можете швидко отримати до них доступ навіть без підключення до інтернету. Ніхто інший не може їх прочитати — навіть ми.
 
 [pages.index.thoughts_title]
 original=Your thoughts are yours.
-translation=
+translation=Ваші думки належать вам.
 
 [pages.index.time_to_shine]
 original=It’s your time to\u00a0shine.
-translation=Ваш зоряний час.
+translation=Втілюйте ідеї
 
 [pages.index.version_history_desc]
 original=Easily track changes between revisions, with one year of version history for every\u00a0note.
