@@ -328,11 +328,11 @@ translation=
 
 [account.catalyst.forum_failure]
 original=Couldn’t add forum badge
-translation=
+translation=Не вдалося додати значок форуму
 
 [account.catalyst.forum_success]
 original=Added forum badge
-translation=
+translation=Значок форуму додано
 
 [account.catalyst.forum_success_msg]
 original=Successfully added badge for you!
