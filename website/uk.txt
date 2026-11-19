@@ -96,7 +96,7 @@ translation=Ваш подарунок використано {{date}}.
 
 [account.billing.gift_sent]
 original=You sent {{amount}} to "{{recipient}}" on {{date}}.
-translation=Ви надіслали {{amount}} користувачу «{{recipient}}» {{date}}.
+translation=Ви надіслали {{amount}} користувачу "{{recipient}}" {{date}}.
 
 [account.billing.gift_waiting]
 original=Waiting for recipient to redeem gift.
@@ -600,79 +600,79 @@ translation=
 
 [account.gift.amount_exceeds]
 original=You cannot gift more credit than you currently have.
-translation=
+translation=Ви не можете подарувати більше кредита, ніж маєте на рахунку.
 
 [account.gift.amount_invalid]
 original=Please enter a valid gift amount.
-translation=
+translation=Введіть коректну суму подарунка.
 
 [account.gift.amount_label]
 original=Amount to send (USD)
-translation=
+translation=Сума переказу (USD)
 
 [account.gift.amount_min]
 original=You need to gift at least $5.
-translation=
+translation=Мінімальна сума подарунка — 5 USD.
 
 [account.gift.amount_min_full]
 original=You need to gift at least $5 worth of Obsidian Credit.
-translation=
+translation=Мінімальна сума подарунка — 5 USD у кредитах Obsidian.
 
 [account.gift.amount_received]
 original=You cannot gift credit which was received from another account.
-translation=
+translation=Ви не можете дарувати кредити, отримані з іншого акаунта.
 
 [account.gift.code_copied]
 original=The gift redeem code has been copied to your clipboard.
-translation=
+translation=Код активації подарунка скопійовано до буфера обміну.
 
 [account.gift.copied_code]
 original=Copied redeem code
-translation=
+translation=Код активації скопійовано
 
 [account.gift.copied_link]
 original=Copied redeem link
-translation=
+translation=Посилання для активації скопійовано
 
 [account.gift.credit_to_send]
 original=Credit to send
-translation=
+translation=Кредити для переказу
 
 [account.gift.current_balance]
 original=Current balance
-translation=
+translation=Поточний баланс
 
 [account.gift.eligible_to_gift]
 original=Credit eligible to gift
-translation=
+translation=Кредит, доступний для подарунка
 
 [account.gift.email_invalid]
 original=Please enter valid recipient email.
-translation=
+translation=Введіть коректну електронну адресу отримувача.
 
 [account.gift.email_required]
 original=Please enter email of the recipient so we can send the gift for you!
-translation=
+translation=Введіть електронну адресу отримувача, щоб ми могли надіслати йому подарунок!
 
 [account.gift.enter_code_error]
 original=Please enter a redeem code.
-translation=
+translation=Введіть код активації.
 
 [account.gift.get_redeem_link]
 original=Get redeem link
-translation=
+translation=Отримати посилання для активації
 
 [account.gift.gift_code_label]
 original=Your gift code
-translation=
+translation=Ваш код подарунка
 
 [account.gift.gift_code_placeholder]
 original=Enter your gift code...
-translation=
+translation=Введіть код подарунка...
 
 [account.gift.link_copied]
 original=The link to redeem the gift has been copied to your clipboard.
-translation=
+translation=Посилання для активації подарунка скопійовано до буфера обміну.
 
 [account.gift.method]
 original=Method
@@ -680,35 +680,35 @@ translation=Спосіб
 
 [account.gift.method_code_desc]
 original=You’ll get a link to redeem the credit. Choose this if you want to send the link to the recipient yourself.
-translation=
+translation=Ви отримаєте посилання для активації кредитів. Виберіть цей варіант, якщо хочете самостійно надіслати посилання отримувачу.
 
 [account.gift.method_email_desc]
 original=We’ll send an email on your behalf. Choose this if you want to stay anonymous or want it to be a surprise.
-translation=
+translation=Ми надішлемо електронного листа від вашого імені. Виберіть цей варіант, якщо хочете залишитися анонімним або зробити сюрприз.
 
 [account.gift.not_redeemed]
 original=Gift not redeemed
-translation=
+translation=Подарунок не активовано
 
 [account.gift.not_redeemed_desc]
 original=Unfortunately, we were unable to redeem your gift for you.
-translation=
+translation=На жаль, нам не вдалося активувати ваш подарунок.
 
 [account.gift.recipient_email]
 original=Recipient email
-translation=
+translation=Електронна адреса отримувача
 
 [account.gift.recipient_email_placeholder]
 original=Enter recipient email...
-translation=
+translation=Введіть електронну адресу отримувача...
 
 [account.gift.recipient_name]
 original=Recipient name
-translation=
+translation=Ім’я отримувача
 
 [account.gift.recipient_name_placeholder]
 original=Enter recipient name...
-translation=
+translation=Введіть ім’я отримувача...
 
 [account.gift.redeem_btn]
 original=Redeem
@@ -716,31 +716,31 @@ translation=Активувати
 
 [account.gift.redeem_error]
 original=Unfortunately, we were unable to fetch your gift.
-translation=
+translation=На жаль, нам не вдалося отримати ваш подарунок.
 
 [account.gift.redeem_prompt]
 original=Someone has sent you a gift worth of {{amount}} Obsidian Credit. How exciting!
-translation=
+translation=Хтось надіслав вам подарунок на суму {{amount}} у кредитах Obsidian. Який приємний сюрприз!
 
 [account.gift.redeem_title]
 original=Redeem your credit
-translation=
+translation=Активувати кредит
 
 [account.gift.redeemed_info]
 original=You should be able to see the credit in the "Obsidian Credit" section. You can use it to buy any Obsidian service you want.
-translation=
+translation=Ви маєте побачити кредит в розділі «Кредити Obsidian». Ним можна оплатити будь-яку послугу Obsidian на ваш вибір.
 
 [account.gift.redeemed_success]
 original=Your gift was successfully redeemed!
-translation=
+translation=Подарунок успішно активовано!
 
 [account.gift.redeemed_title]
 original=Gift redeemed
-translation=
+translation=Подарунок активовано
 
 [account.gift.remaining_balance]
 original=Remaining balance
-translation=
+translation=Залишок коштів
 
 [account.gift.send_credit]
 original=Send credit
@@ -748,11 +748,11 @@ translation=Відправити кредит
 
 [account.gift.send_intro]
 original=You can send Obsidian Credit to anyone, such as friends, family, and coworkers. Credit can be used to pay for any Obsidian license or service. The minimum you can send is $5\u00a0USD.
-translation=
+translation=Ви можете надсилати кредити Obsidian будь-кому — друзям, рідним чи колегам. Ними можна оплатити будь-яку ліцензію або послугу Obsidian. Мінімальна сума переказу — 5 USD.
 
 [account.gift.send_only_purchased]
 original=You may only send credit which you purchased. Credit received from another account may not be sent.
-translation=
+translation=Ви можете переказувати лише кредит, придбаний вами. Кредит, отриманий з іншого акаунта, не можна переказувати далі.
 
 [account.gift.send_title]
 original=Send credit
@@ -760,15 +760,15 @@ translation=Відправити кредит
 
 [account.gift.send_via_email]
 original=Send anonymously via email
-translation=
+translation=Надіслати анонімно електронною поштою
 
 [account.gift.sent_success]
 original=Successfully sent gift
-translation=
+translation=Подарунок успішно надіслано
 
 [account.gift.sent_to]
 original=You just sent a gift of {{amount}} to "{{name}}"!
-translation=
+translation=Ви щойно надіслали подарунок на суму {{amount}} користувачу "{{name}}"!
 
 [account.gift.summary]
 original=Summary
@@ -4000,51 +4000,51 @@ translation=Легко відстежуйте зміни між версіями
 
 [pages.mobile.feel_at_home]
 original=Feel at home
-translation=
+translation=Як вдома
 
 [pages.mobile.feel_at_home_1_desc]
 original=Obsidian Mobile brings the power of our desktop app to your mobile\u00a0devices.
-translation=
+translation=Obsidian Mobile переносить усі можливості нашого комп’ютерного застосунку на ваші мобільні пристрої.
 
 [pages.mobile.feel_at_home_2_desc]
 original=Tabs, Command Palette, plugins, custom hotkeys — everything that makes Obsidian great is here. Stay productive without another learning\u00a0curve.
-translation=
+translation=Вкладки, палітра команд, плагіни, власні комбінації клавіш — усе, за що цінують Obsidian, уже доступне. Працюйте продуктивно без потреби звикати до нового інтерфейсу.
 
 [pages.mobile.hero]
 original=Fast. Free. Full\u2011featured.
-translation=
+translation=Швидкий. Безкоштовний. Повнофункціональний.
 
 [pages.mobile.hero_desc]
 original=Obsidian Mobile is your second brain on the\u00a0go. Available for free on iOS and\u00a0Android.
-translation=
+translation=Obsidian Mobile — ваша друга пам’ять завжди під рукою. Безкоштовно для iOS та Android.
 
 [pages.mobile.meta_desc]
 original=Obsidian Mobile brings the power of our desktop app to your mobile devices.
-translation=
+translation=Obsidian Mobile переносить можливості нашого комп’ютерного застосунку на мобільні пристрої.
 
 [pages.mobile.meta_title]
 original=Obsidian for iOS and Android
-translation=
+translation=Obsidian для iOS та Android
 
 [pages.mobile.small_mighty]
 original=Small yet mighty
-translation=
+translation=Малий, та завзятий
 
 [pages.mobile.small_mighty_desc]
 original=Obsidian’s best features work out of the box. Core plugins, including graph view, work the same. Even better, community plugins are just a few taps away to supercharge your\u00a0workflow.
-translation=
+translation=Найкращі можливості Obsidian доступні відразу після встановлення. Основні плагіни, зокрема граф, працюють так само, як на комп’ютері. А плагіни спільноти можна встановити всього за кілька дотиків, щоб зробити вашу роботу ще ефективнішою.
 
 [pages.mobile.speed]
 original=Speed of thought
-translation=
+translation=Швидкість думки
 
 [pages.mobile.speed_1_desc]
 original=Obsidian Mobile is blazing fast, so you can jot things down before you forget\u00a0them.
-translation=
+translation=Obsidian Mobile працює блискавично швидко, тож ви встигнете занотувати думки, перш ніж вони забудуться.
 
 [pages.mobile.speed_2_desc]
 original=With the customizable toolbar and touch-friendly gestures, zip around your second brain with\u00a0ease.
-translation=
+translation=Завдяки налаштовуваній панелі інструментів і зручним сенсорним жестам ви легко орієнтуватиметеся у своїй другій пам’яті.
 
 [pages.pricing.addons_desc]
 original=Optional add-on services make it easy to sync and publish your\u00a0notes.
@@ -4104,11 +4104,11 @@ translation=
 
 [pages.pricing.faq_a_gift]
 original=Yes! You can purchase Obsidian Credit for friends, family, and coworkers. This credit can be used to pay for any Obsidian license or service. To get started, {{link1}} and buy credit. You can then send it to the recipient via email or a shareable link. {{link2}}
-translation=
+translation=Так! Ви можете придбати кредити Obsidian для друзів, рідних і колег. Ними можна оплатити будь-яку ліцензію чи послугу Obsidian. Для цього {{link1}} і придбайте кредити. Потім надішліть їх отримувачу електронною поштою або за посиланням, яким можна поділитися. {{link2}}
 
 [pages.pricing.faq_a_gift_link1]
 original=create an account
-translation=
+translation=створіть акаунт
 
 [pages.pricing.faq_a_refund]
 original=We offer full refunds within 7 days of purchase with no questions asked for Obsidian Sync and Publish. However, please note that Catalyst licenses, Commercial licenses, and Obsidian Credit are non-refundable. {{link}}
@@ -4136,7 +4136,7 @@ translation=
 
 [pages.pricing.faq_q_gift]
 original=Can I buy Obsidian add-ons or licenses for someone\u00a0else?
-translation=
+translation=Чи можу я придбати додаткові послуги або ліцензії Obsidian для когось іншого?
 
 [pages.pricing.faq_q_refund]
 original=What is your refund\u00a0policy?
@@ -4324,11 +4324,11 @@ translation=
 
 [pages.publish.mobile_friendly]
 original=Mobile-friendly
-translation=
+translation=Зручний на мобільних
 
 [pages.publish.mobile_friendly_desc]
 original=Visitors on mobile devices are treated as first-class citizens, with an experience that’s as intuitive and powerful as it is on the desktop. You can also edit and publish your site from the Obsidian mobile\u00a0app.
-translation=
+translation=Відвідувачі мобільної версії сайту отримують такі самі зручні й широкі можливості, як і користувачі комп’ютерів. Крім того, ви можете редагувати й публікувати свій сайт безпосередньо в мобільному застосунку Obsidian.
 
 [pages.publish.mock_pub_analytics]
 original=Google Analytics code
@@ -4424,7 +4424,7 @@ translation=
 
 [pages.publish.publish_natively_desc]
 original=Make your changes public in just a few taps, even from your mobile\u00a0devices.
-translation=
+translation=Публікуйте зміни в кілька дотиків — навіть зі смартфона чи планшета.
 
 [pages.publish.seamless]
 original=A seamless publishing experience
@@ -4512,7 +4512,7 @@ translation=
 
 [pages.security.desktop_mobile]
 original=Desktop and mobile clients
-translation=
+translation=Застосунки для комп’ютерів і мобільних пристроїв
 
 [pages.security.developer_policies]
 original=Developer\u00a0policies
