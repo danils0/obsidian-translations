@@ -2500,7 +2500,7 @@ translation=Надійний
 
 [pages.about.durable_desc]
 original=We believe that your data should be future-proof and easily accessible, no matter where you are. That’s why we use simple, open file formats that prevent lock-in and ensure that your data can be preserved for generations to\u00a0come.
-translation=
+translation=Ми вважаємо, що ваші дані мають бути доступними будь-де й будь-коли, навіть через багато років. Тому використовуємо прості відкриті формати файлів, які не прив’язують вас до певного програмного забезпечення та дають змогу зберегти дані для майбутніх поколінь.
 
 [pages.about.independent]
 original=Independent
@@ -2508,7 +2508,7 @@ translation=Незалежний
 
 [pages.about.independent_desc]
 original=We believe in staying true to these principles. That’s why we are 100% supported by our users, not\u00a0investors.
-translation=
+translation=Ми не зраджуємо цим принципам. Саме тому 100% нашої підтримки надходить від користувачів, а не інвесторів.
 
 [pages.about.malleable]
 original=Malleable
@@ -2516,15 +2516,15 @@ translation=Гнучкий
 
 [pages.about.malleable_desc]
 original=We believe that tools should adapt to your way of thinking, not the other way around. That’s why we design our tools to be highly customizable and extensible, so you can shape them to your unique\u00a0needs.
-translation=
+translation=Ми вважаємо, що інструменти мають підлаштовуватися під ваш спосіб мислення, а не навпаки. Тому створюємо їх гнучкими в налаштуванні та розширенні, щоб ви могли пристосувати їх до власних потреб.
 
 [pages.about.manifesto]
 original=Manifesto
-translation=
+translation=Маніфест
 
 [pages.about.manifesto_desc]
 original=Our guiding principles are set in\u00a0stone.
-translation=
+translation=Наші принципи непорушні.
 
 [pages.about.meta_desc]
 original=Our guiding principles are set in stone: yours, durable, private, malleable, independent.
@@ -2544,15 +2544,15 @@ translation=Хто створює Obsidian?
 
 [pages.about.who_makes_desc]
 original=We’re a small team focused on helping you think\u00a0better.
-translation=
+translation=Ми невелика команда, яка допомагає вам мислити краще.
 
 [pages.about.yours]
 original=Yours
-translation=
+translation=Ваші
 
 [pages.about.yours_desc]
 original=We believe that everyone should have the tools to think clearly and organize ideas effectively. That’s why our tools are free for all to\u00a0use.
-translation=
+translation=Ми вважаємо, що кожен має мати інструменти для ясного мислення та впорядкування своїх думок. Саме тому нашими інструментами можуть безкоштовно користуватися всі охочі.
 
 [pages.blog.subtitle_desc]
 original=What’s new with Obsidian?
@@ -2560,15 +2560,15 @@ translation=
 
 [pages.brand.contact_us_desc]
 original=The Obsidian name, logo and app icon are trademarks. You are free to customize the Obsidian app icon for your personal use. If you want to use Obsidian assets for commercial purposes, please {{link}}.
-translation=
+translation=Назва Obsidian, логотип і піктограма застосунку є торговельними марками. Ви можете вільно змінювати піктограму Obsidian для особистого користування. Якщо ви хочете використовувати матеріали Obsidian у комерційних цілях, будь ласка, {{link}}.
 
 [pages.brand.guidelines]
 original=Guidelines
-translation=
+translation=Настанови
 
 [pages.brand.guidelines_desc]
 original=The Obsidian logo is inspired by its namesake, the volcanic rock which has been used since the dawn of humanity to make arrowheads, scrapers, knives, and other tools. {{link}}
-translation=
+translation=Логотип Obsidian натхненний обсидіаном — вулканічною породою, з якої ще на зорі людства виготовляли наконечники стріл, скребки, ножі та інші знаряддя. {{link}}
 
 [pages.brand.hero]
 original=Brand
@@ -2576,7 +2576,7 @@ translation=Бренд
 
 [pages.brand.hero_desc]
 original=Download the Obsidian logo and brand assets.
-translation=
+translation=Завантажте логотип Obsidian та матеріали фірмового стилю.
 
 [pages.brand.icon]
 original=Icon
@@ -2584,7 +2584,7 @@ translation=Іконка
 
 [pages.brand.icon_desc]
 original=For variations on the app icon, download the asset files linked\u00a0above.
-translation=
+translation=Інші варіанти піктограми застосунку можна знайти серед файлів за посиланнями вище.
 
 [pages.brand.logo_lockup]
 original=Logo lockup
@@ -2592,23 +2592,23 @@ translation=Комбінований логотип
 
 [pages.brand.logo_lockup_desc]
 original=For most applications, the lockup should be displayed as follows, using the purple mark and black or white text. For single color applications, the entire logomark should be either black or white.
-translation=
+translation=У більшості випадків логотип слід використовувати в такому вигляді: фіолетовий знак і чорний або білий напис. Для одноколірного оформлення весь логотип має бути чорним або білим.
 
 [pages.brand.meta_desc]
 original=Download the Obsidian logo and brand assets.
-translation=
+translation=Завантажте логотип Obsidian та фірмові матеріали.
 
 [pages.brand.meta_title]
 original=Obsidian Brand Guidelines
-translation=
+translation=Настанови з використання бренду Obsidian
 
 [pages.brand.no_edit_desc]
 original=Please do not edit, change, distort, recolor, or reconfigure the Obsidian\u00a0logo.
-translation=
+translation=Будь ласка, не редагуйте, не змінюйте, не спотворюйте, не перефарбовуйте й не змінюйте компонування логотипа Obsidian.
 
 [pages.brand.view_on_figma_btn]
 original=View on Figma
-translation=
+translation=Переглянути у Figma
 
 [pages.canvas.community_demos]
 original=Community demos
@@ -3120,7 +3120,7 @@ translation=Зберігайте веб.
 
 [pages.clipper.hero_desc]
 original=Highlight and capture web pages in your favorite\u00a0browser. Save anything and everything with just one\u00a0click.
-translation=Виділяйте текст на вебсторінках і зберігайте потрібне одним кліком у своєму улюбленому браузері.
+translation=Виділяйте важливі фрагменти вебсторінок і зберігайте будь-який вміст одним кліком.
 
 [pages.clipper.highlight]
 original=Highlight
@@ -3136,31 +3136,31 @@ translation=Виділяйте
 
 [pages.clipper.highlight_text_desc]
 original=text, images, and blocks of\u00a0content.
-translation=
+translation=текст, зображення та блоки вмісту.
 
 [pages.clipper.highlight_title]
 original=Highlight the web.
-translation=
+translation=Виділяйте веб.
 
 [pages.clipper.hotkeys_desc]
 original=Speed up your workflow with keyboard shortcuts to quickly add content to your\u00a0vault.
-translation=
+translation=Працюйте швидше завдяки комбінаціям клавіш, які дають змогу миттєво додавати вміст до сховища.
 
 [pages.clipper.manipulate]
 original=Manipulate page data
-translation=
+translation=Керуйте даними сторінки
 
 [pages.clipper.manipulate_desc]
 original=Powerful {{link}} allow you to modify page data before it’s saved to your\u00a0vault.
-translation=
+translation=Потужні {{link}} дають змогу змінювати дані сторінки перед збереженням у сховищі.
 
 [pages.clipper.manipulate_desc_link]
 original=templating features
-translation=
+translation=можливості шаблонів
 
 [pages.clipper.meta_desc]
 original=Highlight and capture web pages in your favorite browser. Save anything and everything with just one click.
-translation=
+translation=Виділяйте важливі фрагменти вебсторінок і зберігайте будь-який вміст одним кліком.
 
 [pages.clipper.more_browsers]
 original=More\u00a0browsers
@@ -3168,7 +3168,7 @@ translation=Більше браузерів
 
 [pages.clipper.no_lockin]
 original=No lock-in
-translation=
+translation=Без прив’язки
 
 [pages.clipper.no_lockin_desc]
 original=Your clips are saved to durable Markdown files. All your highlights and settings are exportable to\u00a0JSON.
@@ -3376,7 +3376,7 @@ translation=Форум для обговорень
 
 [pages.index.discussion_forum_desc]
 original=Post feature requests, report bugs, and explore in-depth discussions about knowledge management.
-translation=
+translation=Пропонуйте нові функції, повідомляйте про помилки та долучайтеся до ґрунтовних обговорень керування знаннями.
 
 [pages.index.download_now_btn]
 original=Download now
@@ -3384,7 +3384,7 @@ translation=Завантажити зараз
 
 [pages.index.explore_help_desc]
 original=Explore the {{link1}} site, powered\u00a0by\u00a0{{link2}}.
-translation=
+translation=Завітайте на сайт {{link1}}, створений за допомогою {{link2}}.
 
 [pages.index.explore_help_desc_link1]
 original=Obsidian Help
@@ -3396,7 +3396,7 @@ translation=Obsidian Publish
 
 [pages.index.fine_grained_control]
 original=Fine-grained control
-translation=
+translation=Точне налаштування
 
 [pages.index.fine_grained_control_desc]
 original=Decide which files and preferences you want to sync to which\u00a0devices.
@@ -3416,7 +3416,7 @@ translation=Завантажити Obsidian для
 
 [pages.index.graph_desc]
 original=Visualize the relationships between your notes. Find hidden patterns in your thinking through a visually engaging and interactive\u00a0graph.
-translation=
+translation=Візуалізуйте зв’язки між нотатками. Відкривайте приховані закономірності у власному мисленні за допомогою наочного інтерактивного графа.
 
 [pages.index.hero_subtitle_desc]
 original=The free and flexible app for your private\u00a0thoughts.
@@ -3432,7 +3432,7 @@ translation=Доєднуйтеся до нас у Discord
 
 [pages.index.join_discord_desc]
 original=Get help, ask questions, meet other Obsidian users, and learn about their\u00a0setup.
-translation=
+translation=Отримуйте допомогу, ставте запитання, знайомтеся з іншими користувачами Obsidian та дізнавайтеся, як вони налаштували програму.
 
 [pages.index.knowledge_desc]
 original=Obsidian uses open file formats, so you’re never locked\u00a0in. You own your data for the long\u00a0term.
@@ -3444,7 +3444,7 @@ translation=Ваші знання мають залишатися з вами.
 
 [pages.index.links_desc]
 original=Create connections between your notes. Link anything and everything — ideas, people, places, books, and beyond. Invent your own personal Wikipedia.
-translation=
+translation=Пов’язуйте нотатки між собою. Об’єднуйте ідеї, людей, місця, книжки та будь-що інше. Створіть власну Wikipedia.
 
 [pages.index.meta_desc]
 original=The free and flexible app for your private thoughts.
@@ -3452,7 +3452,7 @@ translation=Безкоштовний і гнучкий застосунок дл
 
 [pages.index.meta_title]
 original=Obsidian - Sharpen your thinking
-translation=
+translation=Obsidian — загострюйте мислення
 
 [pages.index.mind_desc]
 original=With {{link}} and themes, you can shape Obsidian to fit your way of\u00a0thinking.
@@ -3468,15 +3468,15 @@ translation=Ваше мислення неповторне
 
 [pages.index.mock_canvas_cogito]
 original=Cogito, ergo sum
-translation=
+translation=Cogito, ergo sum
 
 [pages.index.mock_canvas_empiricists]
 original=Empiricists
-translation=
+translation=Емпірики
 
 [pages.index.mock_canvas_empiricists_1]
 original=Experience and sensory perception → acquire knowledge
-translation=
+translation=Досвід і чуттєве сприйняття → здобуття знань
 
 [pages.index.mock_canvas_empiricists_2]
 original=All knowledge is derived from experience and observation of the external world
@@ -3484,7 +3484,7 @@ translation=Усі знання походять із досвіду та спо
 
 [pages.index.mock_canvas_empiricists_3]
 original=A posteriori reasoning
-translation=
+translation=Апостеріорне міркування
 
 [pages.index.mock_canvas_lecture]
 original=Lecture 1
@@ -3500,23 +3500,23 @@ translation=Раціоналісти
 
 [pages.index.mock_canvas_rationalists_1]
 original=Reason and innate knowledge → acquire knowledge
-translation=
+translation=Розум і вроджені знання → здобуття знань
 
 [pages.index.mock_canvas_rationalists_2]
 original=Fundamental truths and principles can be known independent of experience
-translation=
+translation=Фундаментальні істини й принципи можна пізнати незалежно від досвіду
 
 [pages.index.mock_canvas_rationalists_3]
 original=A priori reasoning
-translation=
+translation=Апріорне міркування
 
 [pages.index.mock_canvas_rationalists_4]
 original=Reason and deduction
-translation=
+translation=Розум і дедукція
 
 [pages.index.mock_diff_added]
 original=Obsidian stores your notes locally as plain text Markdown files.
-translation=
+translation=Obsidian зберігає ваші нотатки локально у звичайних текстових файлах Markdown.
 
 [pages.index.mock_diff_context_1]
 original=Create links between your notes
@@ -3532,7 +3532,7 @@ translation=Створіть власну особисту wiki
 
 [pages.index.mock_diff_removed]
 original=Obsidian saves notes as text files.
-translation=
+translation=Obsidian зберігає нотатки у вигляді текстових файлів.
 
 [pages.index.mock_graph_books]
 original=Books
@@ -3548,19 +3548,19 @@ translation=Філософія
 
 [pages.index.mock_hero_backlinks]
 original=1 backlink
-translation=
+translation=1 зворотне посилання
 
 [pages.index.mock_hero_blockquote]
 original=Look, here’s a table covered with red cloth. On it is a cage the size of a small fish aquarium. In the cage is a white rabbit with a pink nose and pink-rimmed eyes. On its back, clearly marked in blue ink, is the numeral 8. The most interesting thing here isn’t even the carrot-munching rabbit in the cage, but the number on its back. I never opened my mouth and you never opened yours. We’re not even in the same year together, let alone the same room... except we are together. We are close. We’re having a meeting of the minds. We’ve engaged in an act of telepathy.
-translation=
+translation=Уявіть: перед вами стіл, накритий червоною скатертиною. На ньому стоїть клітка завбільшки з невеликий акваріум. Усередині — білий кролик із рожевим носиком і рожевими повіками. На його спині синім чорнилом чітко виведено цифру 8. Та найцікавіше тут навіть не кролик, що хрумтить морквою, а цифра на його спині.\n\nЯ не промовив ані слова, і ви теж. Ми навіть живемо не в одному році, не те що перебуваємо в одній кімнаті... І все ж ми разом. Ми поруч. Наші думки зустрілися. Між нами відбувся своєрідний телепатичний зв’язок.
 
 [pages.index.mock_hero_bullet_1]
 original=A **sending place**, a transmission place — where the writer sends ideas, such as a desk
-translation=
+translation=**Місце передавання**, місце трансляції — звідки автор передає свої думки, наприклад письмовий стіл
 
 [pages.index.mock_hero_bullet_2]
 original=A **receiving place** — where the reader receives the ideas/imagery such as a couch, a comfortable chair, in bed
-translation=
+translation=**Місце сприйняття** — де читач сприймає думки й образи, наприклад на дивані, у зручному кріслі чи в ліжку
 
 [pages.index.mock_hero_chars]
 original=1139 char
@@ -3568,7 +3568,7 @@ translation=1139 симв.
 
 [pages.index.mock_hero_file_01]
 original=Clippings
-translation=
+translation=Вирізки
 
 [pages.index.mock_hero_file_02]
 original=Daily
@@ -3580,7 +3580,7 @@ translation=Ідеї
 
 [pages.index.mock_hero_file_04]
 original=Meta
-translation=
+translation=Мета
 
 [pages.index.mock_hero_file_05]
 original=Projects
@@ -3588,15 +3588,15 @@ translation=Проєкти
 
 [pages.index.mock_hero_file_06]
 original=References
-translation=
+translation=Довідкові матеріали
 
 [pages.index.mock_hero_file_07]
 original=Evergreen notes
-translation=
+translation=Вічнозелені нотатки
 
 [pages.index.mock_hero_file_08]
 original=Calmness is a superpower
-translation=
+translation=Спокій — це суперсила
 
 [pages.index.mock_hero_file_09]
 original=Travel
