@@ -1100,7 +1100,7 @@ translation=
 
 [account.profile.log_out_everywhere_desc]
 original=Log out on all devices for security reasons. You will need to log in again on each\u00a0device.
-translation=
+translation=З міркувань безпеки вийдіть з акаунта на всіх пристроях. Після цього вам доведеться знову ввійти на кожному з них.
 
 [account.profile.log_out_everywhere_title]
 original=Log out everywhere
@@ -2304,7 +2304,7 @@ translation=Спільна робота
 
 [features.community_plugins]
 original=Community plugins
-translation=Плагіни спільноти
+translation=Додатки спільноти
 
 [features.custom_domain]
 original=Custom domain
@@ -2336,7 +2336,7 @@ translation=Захист паролем
 
 [features.plugins]
 original=Plugins
-translation=Плагіни
+translation=Додатки
 
 [features.selective_sync]
 original=Selective sync
@@ -2432,7 +2432,7 @@ translation=Огляд
 
 [nav.plugins]
 original=Plugins
-translation=Плагіни
+translation=Додатки
 
 [nav.pricing]
 original=Pricing
@@ -2716,7 +2716,7 @@ translation=Розробляйте
 
 [pages.cli.develop_desc]
 original=Build plugins and themes faster. Edit code, reload, test, and debug without leaving the terminal.
-translation=Створюйте плагіни й теми швидше. Редагуйте код, перезавантажуйте, тестуйте та налагоджуйте, не виходячи з термінала.
+translation=Створюйте додатки й теми швидше. Редагуйте код, перезавантажуйте, тестуйте та налагоджуйте, не виходячи з термінала.
 
 [pages.cli.examples_desc]
 original=Check out practical examples, from everyday note-taking to developer automation.
@@ -3204,7 +3204,7 @@ translation=Дослідити документацію
 
 [pages.community.developers_desc]
 original=Learn how to build your own Obsidian plugins and themes using our open API and documentation.
-translation=Дізнайтеся, як створювати власні плагіни й теми для Obsidian за допомогою нашого відкритого API та документації.
+translation=Дізнайтеся, як створювати власні додатки й теми для Obsidian за допомогою нашого відкритого API та документації.
 
 [pages.community.discord_btn]
 original=Join the conversation
@@ -3368,7 +3368,7 @@ translation=Документація для розробників
 
 [pages.index.developer_docs_desc]
 original=Learn how to build your own Obsidian plugins and themes, using our open API and documentation.
-translation=Дізнайтеся, як створювати власні плагіни й теми для Obsidian за допомогою нашого відкритого API та документації.
+translation=Дізнайтеся, як створювати власні додатки й теми для Obsidian за допомогою нашого відкритого API та документації.
 
 [pages.index.discussion_forum]
 original=Discussion forum
@@ -3460,7 +3460,7 @@ translation=Завдяки {{link}} і тем ви можете налаштув
 
 [pages.index.mind_desc_link]
 original=thousands of plugins
-translation=тисячам плагінів
+translation=тисячам додатків
 
 [pages.index.mind_title]
 original=Your mind is unique.
@@ -3896,23 +3896,23 @@ translation=
 
 [pages.index.mock_sync_plugins]
 original=Plugins
-translation=
+translation=Додатки
 
 [pages.index.mock_sync_plugins_desc]
 original=Sync which plugins are enabled.
-translation=
+translation=Синхронізуйте, які додатки ввімкнено
 
 [pages.index.mock_sync_selective]
 original=Selective sync
-translation=
+translation=Вибіркова синхронізація
 
 [pages.index.mock_sync_snapshots]
 original=Snapshots
-translation=
+translation=Знімки
 
 [pages.index.mock_sync_snapshots_desc]
 original=View and restore snapshots.
-translation=
+translation=Перегляд і відновлення знімків
 
 [pages.index.mock_sync_themes]
 original=Themes and snippets
@@ -3924,15 +3924,15 @@ translation=Синхронізуйте теми й фрагменти CSS.
 
 [pages.index.mock_sync_vault_config]
 original=Vault configuration
-translation=
+translation=Налаштування сховища
 
 [pages.index.mock_sync_video]
 original=Video
-translation=
+translation=Відео
 
 [pages.index.mock_sync_video_desc]
 original=Sync video files to this device
-translation=
+translation=Синхронізувати відеофайли на цей пристрій
 
 [pages.index.more_platforms_btn]
 original=More\u00a0platforms
@@ -4008,7 +4008,7 @@ translation=Obsidian Mobile переносить усі можливості н�
 
 [pages.mobile.feel_at_home_2_desc]
 original=Tabs, Command Palette, plugins, custom hotkeys — everything that makes Obsidian great is here. Stay productive without another learning\u00a0curve.
-translation=Вкладки, палітра команд, плагіни, власні комбінації клавіш — усе, за що цінують Obsidian, уже доступне. Працюйте продуктивно без потреби звикати до нового інтерфейсу.
+translation=Вкладки, палітра команд, додатки, власні комбінації клавіш — усе, за що цінують Obsidian, уже доступне. Працюйте продуктивно без потреби звикати до нового інтерфейсу.
 
 [pages.mobile.hero]
 original=Fast. Free. Full\u2011featured.
@@ -4032,7 +4032,7 @@ translation=Малий, та завзятий
 
 [pages.mobile.small_mighty_desc]
 original=Obsidian’s best features work out of the box. Core plugins, including graph view, work the same. Even better, community plugins are just a few taps away to supercharge your\u00a0workflow.
-translation=Найкращі можливості Obsidian доступні відразу після встановлення. Основні плагіни, зокрема граф, працюють так само, як на комп’ютері. А плагіни спільноти можна встановити всього за кілька дотиків, щоб зробити вашу роботу ще ефективнішою.
+translation=Найкращі можливості Obsidian доступні відразу після встановлення. Основні плагіни, зокрема граф, працюють так само, як на комп’ютері. А додатки спільноти можна встановити всього за кілька дотиків, щоб зробити вашу роботу ще ефективнішою.
 
 [pages.mobile.speed]
 original=Speed of thought
@@ -4048,7 +4048,7 @@ translation=Завдяки налаштовуваній панелі інстр�
 
 [pages.pricing.addons_desc]
 original=Optional add-on services make it easy to sync and publish your\u00a0notes.
-translation=
+translation=Додаткові сервіси спрощують синхронізацію та публікацію ваших нотаток.
 
 [pages.pricing.badges]
 original=Community badges
@@ -4096,11 +4096,11 @@ translation=
 
 [pages.pricing.faq_a_data_2_link1]
 original=Obsidian Sync
-translation=
+translation=Obsidian Sync
 
 [pages.pricing.faq_a_discount]
 original=Yes, we do! Students, faculty members, and nonprofit employees are eligible for a 40% discount on Obsidian Sync and Publish. We do not offer any other discounts or promotions. {{link}}
-translation=
+translation=Так! Студенти, викладачі та працівники неприбуткових організацій мають право на знижку 40% на Obsidian Sync та Publish. Ми не пропонуємо жодних інших знижок чи акцій. {{link}}
 
 [pages.pricing.faq_a_gift]
 original=Yes! You can purchase Obsidian Credit for friends, family, and coworkers. This credit can be used to pay for any Obsidian license or service. To get started, {{link1}} and buy credit. You can then send it to the recipient via email or a shareable link. {{link2}}
@@ -4196,7 +4196,7 @@ translation=
 
 [pages.pricing.sync_across]
 original=Sync notes across devices
-translation=
+translation=Синхронізація нотаток між пристроями
 
 [pages.pricing.user_supported]
 original=100% user-supported.
@@ -4488,27 +4488,27 @@ translation=
 
 [pages.security.audit_2023_desc]
 original=Penetration test and source code audit of Obsidian apps. Covers all existing client code to date. Following this test, the Cure53 team reported that all vulnerabilities have been addressed and the recommendations have been followed.
-translation=
+translation=Тест на проникнення та аудит вихідного коду застосунків Obsidian. Охоплює весь клієнтський код, наявний на момент перевірки. За її результатами команда Cure53 повідомила, що всі виявлені вразливості усунуто, а рекомендації виконано.
 
 [pages.security.audit_2024_desc]
 original=Penetration test and source code audit of Obsidian apps. Covers all client code, with particular attention to hardening the **Web viewer** plugin ahead of its release. Following this test, the Cure53 team reported that all vulnerabilities have been addressed and the recommendations have been followed.
-translation=
+translation=Тест на проникнення та аудит вихідного коду застосунків Obsidian. Охоплює весь клієнтський код, з особливою увагою до посилення безпеки плагіна **Web viewer** перед його випуском. За результатами перевірки команда Cure53 повідомила, що всі вразливості усунуто, а рекомендації виконано.
 
 [pages.security.audited_by]
 original=Audited by
-translation=
+translation=Перевірено
 
 [pages.security.audits]
 original=Independent audits
-translation=
+translation=Незалежні аудити
 
 [pages.security.audits_desc]
 original=Regular audits by third-party security firms ensure that Obsidian meets the highest security standards. These reports are shared for transparency, and any vulnerabilities are promptly\u00a0addressed.
-translation=
+translation=Регулярні аудити сторонніми компаніями з кібербезпеки гарантують, що Obsidian відповідає найвищим стандартам безпеки. Ці звіти публікуються задля прозорості, а будь-які вразливості оперативно усуваються.
 
 [pages.security.blog_posts]
 original=Blog posts
-translation=
+translation=Дописи в блозі
 
 [pages.security.desktop_mobile]
 original=Desktop and mobile clients
@@ -4520,7 +4520,7 @@ translation=Політика розробки
 
 [pages.security.e2e_desc]
 original=With Obsidian Sync, your data is secured using the strongest encryption standard, AES\u2011256.
-translation=
+translation=З Obsidian Sync ваші дані захищені найнадійнішим стандартом шифрування — AES‑256.
 
 [pages.security.hero_desc]
 original=Obsidian is designed to be a private and secure space for your thoughts. Here’s how we protect your\u00a0data.
@@ -4548,19 +4548,19 @@ translation=Пов'язана інформація
 
 [pages.security.report_issue]
 original=Report a security issue
-translation=
+translation=Повідомити про проблему безпеки
 
 [pages.security.sync_audit_cure53_desc]
 original=Audit of the Obsidian Sync API, server, and cryptography. Following this test, the Cure53 team reported that all vulnerabilities have been addressed and the recommendations have been followed.
-translation=
+translation=Аудит API, сервера та криптографії Obsidian Sync. Після цієї перевірки команда Cure53 підтвердила, що всі вразливості усунуто, а рекомендації виконано.
 
 [pages.security.sync_audit_tob_desc]
 original=Audit of the Obsidian Sync API, server, and cryptography. All findings were addressed via remediations and disclosures validated by the auditors.
-translation=
+translation=Аудит API, сервера та криптографії Obsidian Sync. Усі виявлені проблеми було усунуто шляхом виправлень та публічних звітів, підтверджених аудиторами.
 
 [pages.security.sync_security_faqs]
 original=Sync\u00a0security\u00a0FAQs
-translation=
+translation=Часті запитання щодо безпеки Sync
 
 [pages.security.transparency]
 original=Transparency
@@ -4568,7 +4568,7 @@ translation=Прозорість
 
 [pages.security.transparency_desc]
 original=Obsidian is built on open formats, trusted encryption algorithms, and independently audited\u00a0code.
-translation=
+translation=Obsidian побудовано на відкритих форматах, надійних алгоритмах шифрування та коді, що пройшов незалежний аудит.
 
 [pages.sync.10_vaults]
 original=10 synced vaults
