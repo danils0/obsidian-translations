@@ -364,7 +364,7 @@ translation=
 
 [account.catalyst.not_refundable]
 original=Licenses are not refundable. See our {{link}}.
-translation=
+translation=Вартість ліцензій не повертається. Ознайомтеся з нашою {{link}}.
 
 [account.catalyst.one_time]
 original=one-time donation
@@ -376,7 +376,7 @@ translation=наші цінності
 
 [account.catalyst.purchase_success]
 original=Your Catalyst purchase was successful. Thank you so much for your support!
-translation=
+translation=Покупку Catalyst успішно здійснено. Щиро дякуємо за вашу підтримку!
 
 [account.catalyst.refund_policy_link]
 original=refund policy
@@ -392,7 +392,7 @@ translation=Catalyst
 
 [account.catalyst.upgrade]
 original=Upgrade to a higher tier
-translation=
+translation=Перейти на вищий рівень
 
 [account.catalyst.vip]
 original=VIP
@@ -408,7 +408,7 @@ translation=Щоб активувати комерційну ліцензію, �
 
 [account.commercial.auto_renewal]
 original=Auto-renewal
-translation=
+translation=Автоматичне поновлення
 
 [account.commercial.buy_license]
 original=Buy license
@@ -436,7 +436,7 @@ translation=
 
 [account.commercial.license_expires]
 original=Your license expires {{date}}. Your license will not be\u00a0renewed.
-translation=
+translation=Термін дії вашої ліцензії закінчується {{date}}. Ліцензію не буде поновлено.
 
 [account.commercial.license_key]
 original=Your license key is:
@@ -448,7 +448,7 @@ translation=Ліцензія
 
 [account.commercial.next_renewal]
 original=Your next renewal will be {{date}}.
-translation=
+translation=Наступне поновлення відбудеться {{date}}.
 
 [account.commercial.not_licensed_desc]
 original=Commercial licenses are optional and help Obsidian remain 100% user-supported. Licenses are not refundable. See our {{link}}.
@@ -476,7 +476,7 @@ translation=Відновити
 
 [account.commercial.seat_count]
 original={{count}} seats
-translation=
+translation={{count}} місць 
 
 [account.commercial.seat_one]
 original=1 seat
@@ -488,7 +488,7 @@ translation=Місця
 
 [account.commercial.seats_purchased]
 original={{seats}} purchased.
-translation=
+translation=Придбано {{seats}}.
 
 [account.commercial.stop]
 original=Stop
@@ -876,27 +876,27 @@ translation=
 
 [account.invoice.refund_total]
 original=Refund:
-translation=
+translation=Повернення:
 
 [account.invoice.refund_warning]
 original=The service or license you purchased will be removed, and this action is not\u00a0reversible. Your auto-renewal will also be canceled.
-translation=
+translation=Придбану вами послугу або ліцензію буде видалено. Цю дію неможливо скасувати. Автоматичне поновлення також буде скасовано.
 
 [account.invoice.refunded]
 original=Refunded
-translation=
+translation=Повернено 
 
 [account.invoice.request_refund]
 original=Request refund
-translation=
+translation=Запросити повернення
 
 [account.invoice.tax]
 original=Tax
-translation=
+translation=Податок
 
 [account.invoice.total]
 original=Total:
-translation=
+translation=Усього:
 
 [account.invoice.view]
 original=View
@@ -1020,7 +1020,7 @@ translation=
 
 [account.profile.delete_account_title]
 original=Delete your account
-translation=
+translation=Видалити ваш акаунт 
 
 [account.profile.delete_confirm_prompt]
 original=If you fully understand the consequences outlined above and still wish to proceed, please confirm by entering your email and password below:
@@ -1320,7 +1320,7 @@ translation=
 
 [account.profile.placeholder_email_confirm]
 original=Enter email to confirm...
-translation=
+translation=Введіть адресу електронної пошти для підтвердження...
 
 [account.profile.placeholder_mfa_code]
 original=Enter 6-digit code...
@@ -1328,27 +1328,27 @@ translation=Введіть 6-значний код...
 
 [account.profile.placeholder_new_email]
 original=Enter your new email address...
-translation=
+translation=Введіть нову адресу електронної пошти...
 
 [account.profile.placeholder_new_name]
 original=Enter your new name...
-translation=
+translation=Введіть нове ім’я...
 
 [account.profile.placeholder_new_password]
 original=Enter your new password...
-translation=
+translation=Введіть новий пароль...
 
 [account.profile.placeholder_old_password]
 original=Enter your old password...
-translation=
+translation=Введіть старий пароль...
 
 [account.profile.placeholder_password]
 original=Enter your password...
-translation=
+translation=Введіть пароль...
 
 [account.profile.placeholder_password_confirm]
 original=Enter password to confirm...
-translation=
+translation=Введіть пароль для підтвердження...
 
 [account.profile.title]
 original=Your profile
@@ -1356,15 +1356,15 @@ translation=Ваш профіль
 
 [account.profile.try_again_later]
 original=Please try again later.
-translation=
+translation=Спробуйте ще раз пізніше.
 
 [account.publish.active]
 original=Active
-translation=
+translation=Активна
 
 [account.publish.auto_renewal]
 original=Auto-renewal
-translation=
+translation=Автоматичне поновлення
 
 [account.publish.buy_publish]
 original=Buy Publish
@@ -2716,7 +2716,7 @@ translation=Розробляйте
 
 [pages.cli.develop_desc]
 original=Build plugins and themes faster. Edit code, reload, test, and debug without leaving the terminal.
-translation=
+translation=Створюйте плагіни й теми швидше. Редагуйте код, перезавантажуйте, тестуйте та налагоджуйте, не виходячи з термінала.
 
 [pages.cli.examples_desc]
 original=Check out practical examples, from everyday note-taking to developer automation.
@@ -3204,7 +3204,7 @@ translation=Дослідити документацію
 
 [pages.community.developers_desc]
 original=Learn how to build your own Obsidian plugins and themes using our open API and documentation.
-translation=
+translation=Дізнайтеся, як створювати власні плагіни й теми для Obsidian за допомогою нашого відкритого API та документації.
 
 [pages.community.discord_btn]
 original=Join the conversation
@@ -3360,7 +3360,7 @@ translation=Налаштування
 
 [pages.index.customization_desc]
 original=Control the look and feel of your site with themes, custom domains, password protection, and\u00a0more.
-translation=
+translation=Керуйте виглядом і налаштуваннями свого сайту за допомогою тем, власних доменів, захисту паролем та інших можливостей.
 
 [pages.index.developer_docs]
 original=Developer docs
@@ -3368,7 +3368,7 @@ translation=Документація для розробників
 
 [pages.index.developer_docs_desc]
 original=Learn how to build your own Obsidian plugins and themes, using our open API and documentation.
-translation=
+translation=Дізнайтеся, як створювати власні плагіни й теми для Obsidian за допомогою нашого відкритого API та документації.
 
 [pages.index.discussion_forum]
 original=Discussion forum
@@ -3832,7 +3832,7 @@ translation=
 
 [pages.index.mock_sync_appearance_desc]
 original=Sync dark mode, active theme and enabled snippets.
-translation=
+translation=Синхронізуйте темний режим, активну тему й увімкнені фрагменти.
 
 [pages.index.mock_sync_audio]
 original=Audio
@@ -3916,11 +3916,11 @@ translation=
 
 [pages.index.mock_sync_themes]
 original=Themes and snippets
-translation=
+translation=Теми та фрагменти
 
 [pages.index.mock_sync_themes_desc]
 original=Sync themes and snippets.
-translation=
+translation=Синхронізуйте теми й фрагменти CSS.
 
 [pages.index.mock_sync_vault_config]
 original=Vault configuration
@@ -4064,7 +4064,7 @@ translation=
 
 [pages.pricing.custom_theme]
 original=Customizable theme
-translation=
+translation=Настроювана тема
 
 [pages.pricing.early_access]
 original=Early access to beta versions
@@ -4228,7 +4228,7 @@ translation=Obsidian Publish за замовчуванням забезпечу�
 
 [pages.publish.authoring]
 original=Authoring
-translation=
+translation=Створення вмісту
 
 [pages.publish.backlinks_desc]
 original=Automatically list links to pages that reference the current page you are\u00a0on.
@@ -4236,7 +4236,7 @@ translation=
 
 [pages.publish.built_in_performance]
 original=Built-in performance
-translation=
+translation=Вбудована швидкодія
 
 [pages.publish.collaborate]
 original=Collaborate seamlessly
@@ -4256,11 +4256,11 @@ translation=
 
 [pages.publish.custom_theme_domain]
 original=Customizable theme and domain
-translation=
+translation=Налаштовувані тема й домен
 
 [pages.publish.customization]
 original=Customization
-translation=
+translation=Налаштування
 
 [pages.publish.customization_desc]
 original=Obsidian Publish gives you control over the look and feel of your site. It’s easy to create a unique and branded\u00a0design.
@@ -4332,7 +4332,7 @@ translation=
 
 [pages.publish.mock_pub_analytics]
 original=Google Analytics code
-translation=
+translation=Код Google Analytics 
 
 [pages.publish.mock_pub_analytics_desc]
 original=Configure analytics for your domain.
@@ -4392,7 +4392,7 @@ translation=Назва вашого сайту.
 
 [pages.publish.mock_pub_theme]
 original=Site theme
-translation=
+translation=Тема сайту
 
 [pages.publish.nonlinear]
 original=The publishing platform for non-linear thinkers
@@ -4452,7 +4452,7 @@ translation=
 
 [pages.publish.themes_desc]
 original=The look of your Obsidian Publish site can be fully customized with CSS and Javascript.
-translation=
+translation=Вигляд вашого сайту Obsidian Publish можна повністю налаштувати за допомогою CSS і JavaScript.
 
 [pages.publish.whats_included]
 original=What’s included
@@ -4584,11 +4584,11 @@ translation=
 
 [pages.sync.1_vault]
 original=1 synced vault
-translation=
+translation=1 синхронізоване сховище
 
 [pages.sync.1gb]
 original=1 GB total storage
-translation=
+translation=1 ГБ загального сховища 
 
 [pages.sync.1mo_history]
 original=1 month version history
@@ -4660,11 +4660,11 @@ translation=
 
 [pages.sync.offline]
 original=Work offline, sync later
-translation=
+translation=Працюйте офлайн, синхронізуйте пізніше
 
 [pages.sync.offline_desc]
 original=Obsidian is designed to work even without an internet connection. When you’re flying or in a remote location, you still have access to your files. When you’re back online Sync merges changes for\u00a0you.
-translation=
+translation=Obsidian створено для роботи навіть без підключення до інтернету. Навіть у літаку чи віддаленому місці ви матимете доступ до своїх файлів. Коли знову під’єднаєтеся до мережі, Sync об’єднає зміни за вас.
 
 [pages.sync.plus]
 original=Sync\u00a0Plus
@@ -4700,11 +4700,11 @@ translation=Контролюйте свої дані
 
 [pages.sync.take_control_desc]
 original=Set up Obsidian Sync in just a few\u00a0minutes.
-translation=
+translation=Налаштуйте Obsidian Sync лише за кілька хвилин.
 
 [pages.sync.upgradable]
 original=Upgradable to 100\u00a0GB storage
-translation=
+translation=Можна збільшити обсяг сховища до 100 ГБ
 
 [pages.sync.vault_settings]
 original=Vault settings
@@ -4712,11 +4712,11 @@ translation=Налаштування сховища
 
 [pages.sync.vault_settings_desc]
 original=Sync your hotkeys, file and editor preferences, or individually set them per device.
-translation=
+translation=Синхронізуйте комбінації клавіш, налаштування файлів і редактора або задавайте їх окремо для кожного пристрою.
 
 [pages.sync.version_history_desc]
 original=Obsidian Sync gives you version history for every note, so you can go back to see how the content changed. It’s easy to see the differences between revisions.
-translation=
+translation=Obsidian Sync зберігає історію версій кожної нотатки, тож ви можете переглянути, як змінювався її вміст. Порівнювати різні версії дуже просто.
 
 [shared.accept]
 original=Accept
