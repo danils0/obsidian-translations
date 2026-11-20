@@ -112,7 +112,7 @@ translation=Завантажуйте рахунки за попередні пл
 
 [account.billing.learn_more]
 original=Learn more.
-translation=Докладніше.
+translation=Детальніше.
 
 [account.billing.manage]
 original=Manage
@@ -1472,11 +1472,11 @@ translation=Періодичність поновлення
 
 [account.publish.save_yearly]
 original=Save 20% by switching to yearly renewal.
-translation=Заощаджуйте 20 %, перейшовши на щорічне поновлення.
+translation=Заощаджуйте 20%, перейшовши на щорічне поновлення.
 
 [account.publish.saving_yearly]
 original=You’re saving 20% compared to monthly renewal.
-translation=Ви заощаджуєте 20 % порівняно з щомісячним поновленням.
+translation=Ви заощаджуєте 20% порівняно з щомісячним поновленням.
 
 [account.publish.site_count]
 original={{count}} sites
@@ -1536,27 +1536,27 @@ translation=Ваші сайти
 
 [account.sync.active]
 original=Active
-translation=
+translation=Активно
 
 [account.sync.auto_renewal]
 original=Auto-renewal
-translation=
+translation=Автоматичне поновлення
 
 [account.sync.buy_sync]
 original=Buy Sync
-translation=
+translation=Купити Sync
 
 [account.sync.change_plan]
 original=Change plan
-translation=
+translation=Змінити тариф
 
 [account.sync.change_success]
 original=Your Sync plan has been successfully updated. Your new plan details may take up to 30 minutes to be applied.
-translation=
+translation=Ваш тариф Sync успішно оновлено. Застосування нових умов тарифу може тривати до 30 хвилин.
 
 [account.sync.early_bird]
 original=Early bird
-translation=
+translation=Ранній користувач
 
 [account.sync.invite_accept_error]
 original=Couldn’t accept invite
@@ -1576,7 +1576,7 @@ translation=Ви успішно прийняли запрошення!
 
 [account.sync.invite_accepted_info]
 original=You can now go in to the Obsidian app, log in under Settings -> Account, and enable the "Sync" core plugin to start collaborating on this vault.
-translation=
+translation=Тепер ви можете відкрити застосунок Obsidian, увійти у свій акаунт у розділі "Налаштування → Обліковий запис" і ввімкнути вбудований модуль "Sync", щоб почати спільну роботу над цим сховищем.
 
 [account.sync.invite_desc]
 original=You’ve been invited to a shared Obsidian Sync vault!
@@ -1584,7 +1584,7 @@ translation=Вас запросили до спільного сховища Obs
 
 [account.sync.invite_instructions]
 original=If Obsidian didn’t open automatically, you can view vaults shared with you by going to Settings → Sync → Remote vault → Manage/Choose.
-translation=
+translation=Якщо Obsidian не відкрився автоматично, ви можете переглянути надані вам спільно сховища в розділі "Налаштування → Sync → Віддалене сховище → Керування/Вибір".
 
 [account.sync.invite_title]
 original=Invited to shared Obsidian Sync vault
@@ -1592,7 +1592,7 @@ translation=Запрошення до спільного сховища Obsidian
 
 [account.sync.learn_more]
 original=Learn\u00a0more.
-translation=
+translation=Детальніше
 
 [account.sync.monthly]
 original=Monthly
@@ -1600,47 +1600,47 @@ translation=Щомісячно
 
 [account.sync.next_renewal]
 original=Your next renewal will be on {{date}}.
-translation=
+translation=Наступне поновлення відбудеться {{date}}.
 
 [account.sync.not_renewed]
 original=Your plan will not be renewed.
-translation=
+translation=Ваш тариф не буде поновлено.
 
 [account.sync.open_obsidian]
 original=Open Obsidian
-translation=
+translation=Відкрити Obsidian
 
 [account.sync.plan]
 original=Plan
-translation=
+translation=Тариф
 
 [account.sync.plan_100gb]
 original=100 GB total storage
-translation=
+translation=100 ГБ загального сховища
 
 [account.sync.plan_10_vaults]
 original=10 vaults
-translation=
+translation=10 сховищ
 
 [account.sync.plan_10gb]
 original=10 GB total storage
-translation=
+translation=10 ГБ загального обсягу сховища
 
 [account.sync.plan_12months]
 original=12 months history
-translation=
+translation=12 місяців історії
 
 [account.sync.plan_1_vault]
 original=1 vault
-translation=
+translation=1 сховище
 
 [account.sync.plan_1gb]
 original=1 GB total storage
-translation=
+translation=1 ГБ загального сховища
 
 [account.sync.plan_1month]
 original=1 month history
-translation=
+translation=1 місяць історії
 
 [account.sync.plan_200mb]
 original=200 MB max file size
@@ -1656,19 +1656,19 @@ translation=
 
 [account.sync.plan_plus]
 original=Sync Plus
-translation=
+translation=Sync Plus
 
 [account.sync.plan_shared]
 original=Shared vaults
-translation=
+translation=Спільні сховища
 
 [account.sync.plan_standard]
 original=Sync Standard
-translation=
+translation=Sync Standart
 
 [account.sync.plan_unlimited]
 original=Unlimited devices
-translation=
+translation=Необмежена кількість пристроїв
 
 [account.sync.plan_upgrade_basic]
 original=Upgrade your plan to increase the number of vaults and storage limits.
@@ -1700,27 +1700,27 @@ translation=
 
 [account.sync.renew_monthly]
 original=Renew monthly
-translation=
+translation=Поновлювати щомісяця
 
 [account.sync.renew_yearly]
 original=Renew yearly
-translation=
+translation=Поновлювати щороку
 
 [account.sync.renewal_frequency]
 original=Renewal frequency
-translation=
+translation=Періодичність поновлення
 
 [account.sync.save_yearly]
 original=Save 20% by switching to yearly renewal.
-translation=
+translation=Заощаджуйте 20%, перейшовши на щорічне поновлення.
 
 [account.sync.saving_yearly]
 original=You’re saving 20% compared to monthly renewal.
-translation=
+translation=Ви заощаджуєте 20% порівняно з щомісячним поновленням.
 
 [account.sync.stop]
 original=Stop
-translation=
+translation=Зупинити
 
 [account.sync.stop_auto_renewal]
 original=Stop auto-renewal
@@ -1760,7 +1760,7 @@ translation=
 
 [account.sync.title]
 original=Sync
-translation=
+translation=Sync
 
 [account.sync.unknown_plan]
 original=Unknown sync plan. Please contact support
@@ -1776,11 +1776,11 @@ translation=
 
 [account.sync.user_guide_link]
 original=See\u00a0user\u00a0guide.
-translation=
+translation=Див. посібник користувача.
 
 [account.sync.yearly]
 original=Yearly
-translation=
+translation=Щорічно
 
 [auth.already_have_account]
 original=Already have an account?
@@ -2376,7 +2376,7 @@ translation=Правила використання бренду
 
 [nav.changelog]
 original=Changelog
-translation=Список змін 
+translation=Журнал змін 
 
 [nav.community]
 original=Community
@@ -2556,7 +2556,7 @@ translation=Ми вважаємо, що кожен має мати інстру�
 
 [pages.blog.subtitle_desc]
 original=What’s new with Obsidian?
-translation=
+translation=Що нового в Obsidian?
 
 [pages.brand.contact_us_desc]
 original=The Obsidian name, logo and app icon are trademarks. You are free to customize the Obsidian app icon for your personal use. If you want to use Obsidian assets for commercial purposes, please {{link}}.
@@ -2688,7 +2688,7 @@ translation=
 
 [pages.cli.automate]
 original=Automate
-translation=
+translation=Автоматизуйте
 
 [pages.cli.automate_desc]
 original=Orchestrate your workflow with cron jobs, shell scripts, and custom integrations. If you can script it, you can do it.
@@ -2704,7 +2704,7 @@ translation=Основи
 
 [pages.cli.collaborate]
 original=Collaborate
-translation=
+translation=Співпрацюйте
 
 [pages.cli.collaborate_desc]
 original=Deploy documentation, sync shared vaults to servers, and integrate Obsidian into your team’s toolchain.
@@ -2860,7 +2860,7 @@ translation=
 
 [pages.cli.mock_ex_eval]
 original=Execute JavaScript
-translation=
+translation=Виконати JavaScript
 
 [pages.cli.mock_ex_help]
 original=Show help
@@ -2896,7 +2896,7 @@ translation=
 
 [pages.cli.mock_terminal]
 original=terminal
-translation=
+translation=термінал
 
 [pages.cli.mock_val_01]
 original=Buy groceries
@@ -2904,7 +2904,7 @@ translation=
 
 [pages.cli.mock_val_02]
 original=Check calendar
-translation=
+translation=Перевірити календар
 
 [pages.cli.mock_val_03]
 original=meeting notes
@@ -2916,7 +2916,7 @@ translation=
 
 [pages.cli.mock_val_05]
 original=Travel
-translation=
+translation=Подорож
 
 [pages.cli.mock_val_06]
 original=Trip to Paris
@@ -3324,7 +3324,7 @@ translation=Організації, які вимагають найвищого
 
 [pages.enterprise.meta_title]
 original=Meet the teams that trust Obsidian
-translation=
+translation=Познайомтеся з командами, які довіряють Obsidian
 
 [pages.enterprise.show_support]
 original=Show your support
@@ -3344,7 +3344,7 @@ translation=
 
 [pages.enterprise.supporting_orgs_desc]
 original=More than 10,000 organizations help keep Obsidian 100% user-supported. Join them with the purchase of a commercial license.
-translation=Понад 10 000 організацій допомагають Obsidian і надалі повністю фінансуватися користувачами. Долучайтеся до них, придбавши комерційну ліцензію.
+translation=
 
 [pages.index.canvas_desc]
 original=An infinite space to research, brainstorm, diagram, and lay out your ideas. Canvas is a limitless playground for your mind. {{link}}
@@ -3608,7 +3608,7 @@ translation=
 
 [pages.index.mock_hero_file_11]
 original=Emergence
-translation=
+translation=Емерджентність
 
 [pages.index.mock_hero_file_12]
 original=Recipes
@@ -3636,7 +3636,7 @@ translation=
 
 [pages.index.mock_hero_file_18]
 original=First principles
-translation=
+translation=Першопринципи
 
 [pages.index.mock_hero_file_19]
 original=Philosophy
@@ -3772,7 +3772,7 @@ translation=
 
 [pages.index.mock_links_p1_link1]
 original=Meditations on First Philosophy
-translation=
+translation=Медитації про першу філософію
 
 [pages.index.mock_links_p1_link2]
 original=René Descartes
@@ -4172,7 +4172,7 @@ translation=
 
 [pages.pricing.priority_support]
 original=Priority support
-translation=
+translation=Пріоритетна підтримка
 
 [pages.pricing.publish_web]
 original=Publish notes to the web
@@ -4180,11 +4180,11 @@ translation=Публікація нотаток в інтернеті
 
 [pages.pricing.subtitle_desc_1]
 original=No sign-up required.
-translation=
+translation=Без реєстрації.
 
 [pages.pricing.subtitle_desc_2]
 original=No strings attached.
-translation=
+translation=Без жодних зобов’язань.
 
 [pages.pricing.support_btn]
 original=Support Obsidian
@@ -4200,7 +4200,7 @@ translation=Синхронізація нотаток між пристроям�
 
 [pages.pricing.user_supported]
 original=100% user-supported.
-translation=
+translation=На 100% підтримується користувачами.
 
 [pages.pricing.user_supported_desc]
 original=Optional licenses help support the independent development of Obsidian.
@@ -4468,7 +4468,7 @@ translation=
 
 [pages.roadmap.detail_desc_link1]
 original=Changelog
-translation=
+translation=Журнал змін 
 
 [pages.roadmap.detail_desc_link2]
 original=official\u00a0forum
@@ -4484,7 +4484,7 @@ translation=Заплановано
 
 [pages.roadmap.subtitle_desc]
 original=We’re chipping away at improvements to\u00a0Obsidian.
-translation=
+translation=Ми поступово вдосконалюємо Obsidian.
 
 [pages.security.audit_2023_desc]
 original=Penetration test and source code audit of Obsidian apps. Covers all existing client code to date. Following this test, the Cure53 team reported that all vulnerabilities have been addressed and the recommendations have been followed.
@@ -4576,7 +4576,7 @@ translation=10 синхронізованих сховищ
 
 [pages.sync.10gb]
 original=10 GB total storage
-translation=10 ГБ загального обсягу сховища
+translation=10 ГБ загального сховища
 
 [pages.sync.12mo_history]
 original=12 month version history
