@@ -1644,15 +1644,15 @@ translation=1 місяць історії
 
 [account.sync.plan_200mb]
 original=200 MB max file size
-translation=
+translation=200 МБ максимальний розмір файлу
 
 [account.sync.plan_50gb_early]
 original=50 GB total storage (early supporter)
-translation=
+translation=50 ГБ загального обсягу сховища (перший прихильник)
 
 [account.sync.plan_5mb]
 original=5 MB max file size
-translation=
+translation=5 МБ максимальний розмір файлу
 
 [account.sync.plan_plus]
 original=Sync Plus
@@ -1672,15 +1672,15 @@ translation=Необмежена кількість пристроїв
 
 [account.sync.plan_upgrade_basic]
 original=Upgrade your plan to increase the number of vaults and storage limits.
-translation=
+translation=Перейдіть на тариф вищого рівня, щоб збільшити кількість сховищ і доступний обсяг сховища.
 
 [account.sync.plan_upgrade_legacy]
 original=Keep your subscription active to maintain your early supporter perks. You can also upgrade to access 100 GB of storage.
-translation=
+translation=Не припиняйте підписку, щоб зберегти переваги перших прихильників. Також ви можете перейти на тариф вищого рівня й отримати 100 ГБ сховища.
 
 [account.sync.plan_upgrade_standard]
 original=Upgrade your plan to increase total storage to 100 GB.
-translation=
+translation=Перейдіть на тариф вищого рівня, щоб збільшити загальний обсяг сховища до 100 ГБ.
 
 [account.sync.price_monthly]
 original=per month, billed monthly
@@ -1696,7 +1696,7 @@ translation=
 
 [account.sync.purchase_success_guide]
 original=Need help? Follow our guide.
-translation=
+translation=Потрібна допомога? Перегляньте посібник.
 
 [account.sync.renew_monthly]
 original=Renew monthly
@@ -1724,31 +1724,31 @@ translation=Зупинити
 
 [account.sync.stop_auto_renewal]
 original=Stop auto-renewal
-translation=
+translation=Вимкнути автоматичне поновлення
 
 [account.sync.stop_confirm]
 original=Are you sure you want to stop renewing your Obsidian Sync subscription?
-translation=
+translation=Ви справді хочете вимкнути автоматичне поновлення підписки Obsidian Sync?
 
 [account.sync.stop_legacy_warning]
 original=You are on a legacy plan with 50 GB storage. Once your subscription expires you will no longer be able to sign up for this plan.
-translation=
+translation=Ви користуєтеся застарілим тарифом із 50 ГБ сховища. Після завершення підписки ви більше не зможете оформити цей тариф.
 
 [account.sync.stop_renewing]
 original=Stop renewing Obsidian Sync
-translation=
+translation=Вимкнути автоматичне поновлення Obsidian Sync
 
 [account.sync.stop_warning]
 original=Your Obsidian Sync subscription will expire on {{date}}. Your data will be deleted from our servers 30 days after your subscription expires.
-translation=
+translation=Термін дії вашої підписки Obsidian Sync закінчиться {{date}}. Ваші дані буде видалено з наших серверів через 30 днів після завершення підписки.
 
 [account.sync.switch_to_monthly]
 original=Switch to monthly
-translation=
+translation=Перейти на щомісячну оплату
 
 [account.sync.switch_to_yearly]
 original=Switch to yearly
-translation=
+translation=Перейти на щорічну оплату
 
 [account.sync.sync_desc]
 original=Sync your notes across devices with end-to-end encryption. Hassle-free refund within 7 days.
@@ -1768,11 +1768,11 @@ translation=
 
 [account.sync.upgrade_plan]
 original=Upgrade plan
-translation=
+translation=Підвищити тариф
 
 [account.sync.user_guide_desc]
 original=To start syncing, log in to your account in Obsidian and enable the Sync plugin.
-translation=
+translation=Щоб почати синхронізацію, увійдіть у свій акаунт в Obsidian і ввімкніть модуль Sync.
 
 [account.sync.user_guide_link]
 original=See\u00a0user\u00a0guide.
@@ -2620,7 +2620,7 @@ translation=Дізнайтеся, як учасники спільноти Obsid
 
 [pages.canvas.extensible]
 original=Extensible and interoperable
-translation=
+translation=Розширюваний і сумісний
 
 [pages.canvas.extensible_1_desc]
 original=Like everything else in Obsidian, Canvas is extensible and designed to be durable. Our API makes it easy to create plugins that add new capabilities to\u00a0Canvas.
@@ -3604,7 +3604,7 @@ translation=Подорож
 
 [pages.index.mock_hero_file_10]
 original=Creativity is combinatory u...
-translation=
+translation=Творчість — це комбінування...
 
 [pages.index.mock_hero_file_11]
 original=Emergence
@@ -3624,7 +3624,7 @@ translation=Здоров
 
 [pages.index.mock_hero_file_15]
 original=What if it were easy
-translation=
+translation=А що, якби це було просто
 
 [pages.index.mock_hero_file_16]
 original=Tools
@@ -3632,7 +3632,7 @@ translation=Інструменти
 
 [pages.index.mock_hero_file_17]
 original=Specialization is for insects
-translation=
+translation=Спеціалізація — для комах
 
 [pages.index.mock_hero_file_18]
 original=First principles
@@ -3644,11 +3644,11 @@ translation=Філософія
 
 [pages.index.mock_hero_file_20]
 original=A little bit every day
-translation=
+translation=Потроху щодня
 
 [pages.index.mock_hero_file_21]
 original=1,000 true fans
-translation=
+translation=1 000 справжніх шанувальників
 
 [pages.index.mock_hero_from]
 original=From
@@ -3656,11 +3656,11 @@ translation=З
 
 [pages.index.mock_hero_graph_tab]
 original=Graph of Writing is t...
-translation=
+translation=Граф письма — це...
 
 [pages.index.mock_hero_h2_ideas]
 original=Ideas can travel through time and space
-translation=
+translation=Ідеї здатні долати час і простір
 
 [pages.index.mock_hero_h2_quote]
 original=Quote
@@ -3672,7 +3672,7 @@ translation=
 
 [pages.index.mock_hero_p1]
 original=Ideas can travel through time and space without being uttered out loud. The process of telepathy requires two places:
-translation=
+translation=Ідеї можуть долати час і простір, навіть якщо їх не промовляти вголос. Для телепатії потрібні два місця:
 
 [pages.index.mock_hero_phone_tag_1]
 original=#projects
@@ -3684,7 +3684,7 @@ translation=#подоров
 
 [pages.index.mock_hero_phone_title]
 original=Japan Trip Planning
-translation=
+translation=Планування подорожі до Японії
 
 [pages.index.mock_hero_phone_todo]
 original=To-do
@@ -3692,11 +3692,11 @@ translation=Список справ
 
 [pages.index.mock_hero_tab_2]
 original=Evergreen notes
-translation=
+translation=Вічнозелені нотатки
 
 [pages.index.mock_hero_tag]
 original=#evergreen
-translation=
+translation=#вічнозелене
 
 [pages.index.mock_hero_task_01]
 original=Schedule flights
@@ -3720,19 +3720,19 @@ translation=Марія
 
 [pages.index.mock_hero_task_06_link]
 original=Kyoto
-translation=
+translation=Кіото
 
 [pages.index.mock_hero_task_06_pre]
 original=Research ryokans in
-translation=
+translation=Дізнатися про рьокани в
 
 [pages.index.mock_hero_task_07]
 original=Itinerary
-translation=
+translation=Маршрут
 
 [pages.index.mock_hero_title]
 original=Writing is telepathy
-translation=
+translation=Письмо — це телепатія
 
 [pages.index.mock_hero_vault]
 original=Notes
@@ -3768,7 +3768,7 @@ translation=Фільми/
 
 [pages.index.mock_links_p1]
 original=In {{link1}} the philosopher {{link2}} describes a series of doubts about the nature of reality, arriving at the famous phrase:
-translation=
+translation=У праці {{link1}} філософ {{link2}} описує низку сумнівів щодо природи реальності, доходячи до відомої фрази:
 
 [pages.index.mock_links_p1_link1]
 original=Meditations on First Philosophy
@@ -3780,39 +3780,39 @@ translation=Рене Декарт
 
 [pages.index.mock_links_p2]
 original=He argues that doubting requires thinking, and therefore, the act of thinking confirms his existence.
-translation=
+translation=Він стверджує, що сумнів потребує мислення, а отже, сам акт мислення підтверджує його існування.
 
 [pages.index.mock_links_typed]
 original=I thin
-translation=
+translation=Я дума
 
 [pages.index.mock_plugins_calendar_desc]
 original=Calendar view of your daily notes.
-translation=
+translation=Календарний вигляд для ваших щоденних нотаток.
 
 [pages.index.mock_plugins_dataview_desc]
 original=Advanced queries for the data-obsessed.
-translation=
+translation=Розширені запити для поціновувачів даних.
 
 [pages.index.mock_plugins_kanban_desc]
 original=Markdown-backed kanban boards.
-translation=
+translation=Канбан-дошки на основі Markdown.
 
 [pages.index.mock_plugins_outliner_desc]
 original=Work with your lists.
-translation=
+translation=Працюйте зі своїми списками.
 
 [pages.index.mock_plugins_tasks_desc]
 original=Track tasks across your entire vault.
-translation=
+translation=Відстежуйте завдання у всьому вашому сховищі.
 
 [pages.index.mock_share_can_edit]
 original=Can edit
-translation=
+translation=Може редагувати
 
 [pages.index.mock_share_invite]
 original=Invite by email...
-translation=
+translation=Запросити електронною поштою...
 
 [pages.index.mock_share_owner]
 original=Owner
@@ -3820,11 +3820,11 @@ translation=Власник
 
 [pages.index.mock_sync_activity]
 original=Sync activity
-translation=
+translation=Активність синхронізації
 
 [pages.index.mock_sync_activity_desc]
 original=View log of sync activity.
-translation=
+translation=Переглянути журнал активності синхронізації.
 
 [pages.index.mock_sync_appearance]
 original=Appearance settings
@@ -3840,7 +3840,7 @@ translation=Аудіо
 
 [pages.index.mock_sync_audio_desc]
 original=Sync audio files to this device
-translation=
+translation=Синхронізувати аудіофайли з цим пристроєм
 
 [pages.index.mock_sync_deleted]
 original=Deleted files
@@ -3848,7 +3848,7 @@ translation=Видалені файли
 
 [pages.index.mock_sync_deleted_desc]
 original=View and restore deleted files
-translation=
+translation=Перегляд і відновлення видалених файлів
 
 [pages.index.mock_sync_excluded]
 original=Excluded folders
@@ -3856,7 +3856,7 @@ translation=Виключені теки
 
 [pages.index.mock_sync_excluded_desc]
 original=Prevent certain folders from being synced
-translation=
+translation=Не синхронізувати певні папки
 
 [pages.index.mock_sync_file_recovery]
 original=File recovery
@@ -3876,7 +3876,7 @@ translation=Зображення
 
 [pages.index.mock_sync_images_desc]
 original=Sync image files to this device
-translation=
+translation=Синхронізувати файли зображень на цей пристрій
 
 [pages.index.mock_sync_main]
 original=Main settings
@@ -3884,15 +3884,15 @@ translation=Головні налаштування
 
 [pages.index.mock_sync_main_desc]
 original=Sync editor, file, link settings.
-translation=
+translation=Синхронізуйте налаштування редактора, файлів і посилань
 
 [pages.index.mock_sync_pdf]
 original=PDFs
-translation=
+translation=PDF-файли
 
 [pages.index.mock_sync_pdf_desc]
 original=Sync PDF files to this device
-translation=
+translation=Синхронізувати PDF-файли на цей пристрій
 
 [pages.index.mock_sync_plugins]
 original=Plugins
@@ -3948,7 +3948,7 @@ translation=Сайти Obsidian Publish швидкі, адаптовані дл�
 
 [pages.index.plugins_desc]
 original=Build your ideal thinking space. With thousands of plugins and our open API, it’s easy to tailor Obsidian to fit your personal workflow. {{link}}
-translation=
+translation=Створіть ідеальний простір для мислення. Завдяки тисячам плагінів і нашому відкритому API ви легко налаштуєте Obsidian під свій спосіб роботи. {{link}}
 
 [pages.index.publish_instantly]
 original=Publish instantly.
@@ -3960,7 +3960,7 @@ translation=Перетворіть свої нотатки на онлайн-в�
 
 [pages.index.seamless_editing]
 original=Seamless editing
-translation=
+translation=Плавне редагування
 
 [pages.index.seamless_editing_desc]
 original=Publish your notes instantly from the Obsidian app, and make it easy for readers to explore your web of\u00a0ideas.
