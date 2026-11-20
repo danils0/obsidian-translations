@@ -452,7 +452,7 @@ translation=Наступне поновлення відбудеться {{date}
 
 [account.commercial.not_licensed_desc]
 original=Commercial licenses are optional and help Obsidian remain 100% user-supported. Licenses are not refundable. See our {{link}}.
-translation=
+translation=Комерційні ліцензії необов’язкові й допомагають Obsidian і надалі повністю фінансуватися користувачами. Кошти за ліцензії не повертаються. Див. нашу {{link}}.
 
 [account.commercial.per_user_year]
 original=per user, per\u00a0year
@@ -508,15 +508,15 @@ translation=
 
 [account.discount.apply_intro]
 original=Choose the discount type you’re applying for and enter your school or organization email. We will send an email to this email address to verify\u00a0it.
-translation=
+translation=Виберіть тип знижки, на яку подаєте заявку, і введіть адресу електронної пошти навчального закладу або організації. Ми надішлемо на цю адресу листа для її підтвердження.
 
 [account.discount.apply_title]
 original=Apply for a discount
-translation=
+translation=Подати заявку на знижку
 
 [account.discount.approved_desc]
 original=Your {{type}} discount is approved!
-translation=
+translation=Вашу знижку для категорії {{type}} схвалено!
 
 [account.discount.approved_info]
 original=You’ll see the discount applied when you try to buy Obsidian Sync or Obsidian Publish. It’s not applicable to Catalyst or commercial licenses.
@@ -524,11 +524,11 @@ translation=Знижку буде враховано під час придба�
 
 [account.discount.approved_title]
 original=Your discount is active
-translation=
+translation=Ваша знижка діє
 
 [account.discount.contact_note]
 original=If you do not have an organization email, please {{link}} to provide other forms of verification, such as a student ID card, transcript, or employee ID card.
-translation=
+translation=Якщо у вас немає корпоративної адреси електронної пошти, будь ласка, {{link}}, щоб надати інші підтвердження, наприклад студентський квиток, академічну довідку або службове посвідчення.
 
 [account.discount.contact_note_link]
 original=contact us
@@ -540,15 +540,15 @@ translation=Тип скидки
 
 [account.discount.early_bird_note]
 original=Note that if you have an early bird discount, discounts will not\u00a0stack.
-translation=
+translation=Зверніть увагу: знижки не сумуються зі знижкою за ранню реєстрацію.
 
 [account.discount.education]
 original=Education (student or faculty)
-translation=
+translation=Освіта (студенти й викладачі)
 
 [account.discount.invalid_email_error]
 original=Please enter a valid organization email address.
-translation=
+translation=Введіть дійсну корпоративну адресу електронної пошти.
 
 [account.discount.nonprofit]
 original=Non-profit organization
@@ -556,7 +556,7 @@ translation=Неприбуткова організація
 
 [account.discount.org_email]
 original=School or organization email
-translation=
+translation=Електронна пошта навчального закладу або організації
 
 [account.discount.org_email_placeholder]
 original=Enter your email...
@@ -564,39 +564,39 @@ translation=Введіть вашу електронну пошту...
 
 [account.discount.select_type_error]
 original=Please select a discount type.
-translation=
+translation=Виберіть тип знижки.
 
 [account.discount.send_application]
 original=Send application
-translation=
+translation=Надіслати заявку
 
 [account.discount.verified_thanks]
 original=Thanks for verifying your organization email! We’ll take a look at your application as soon as we can.
-translation=
+translation=Дякуємо, що підтвердили адресу електронної пошти вашої організації! Ми розглянемо вашу заявку якомога швидше.
 
 [account.discount.verified_title]
 original=Organization email verified
-translation=
+translation=Адресу електронної пошти організації підтверджено
 
 [account.discount.verified_update]
 original=You’ll get an email update when your discount application is approved. Have a nice day!
-translation=
+translation=Ви отримаєте листа, щойно вашу заявку на знижку буде схвалено. Гарного дня!
 
 [account.discount.verify_sent]
 original=We’ve sent an email to your organization email address to verify your email. Once you click on the link, the application will be submitted for review.
-translation=
+translation=Ми надіслали листа на вашу корпоративну адресу електронної пошти для її підтвердження. Щойно ви перейдете за посиланням у листі, заявку буде передано на розгляд.
 
 [account.discount.verify_spam]
 original=If you don’t see the email in a few minutes, please try checking your spam folder. You can try applying for a discount again.
-translation=
+translation=Якщо за кілька хвилин лист не надійде, перевірте папку зі спамом. Ви також можете повторно подати заявку на знижку.
 
 [account.discount.verify_thanks]
 original=Thanks for applying for Obsidian discount!
-translation=
+translation=Дякуємо за заявку на отримання знижки Obsidian!
 
 [account.discount.verify_title]
 original=Verify your email
-translation=
+translation=Підтвердьте свою адресу електронної пошти
 
 [account.gift.amount_exceeds]
 original=You cannot gift more credit than you currently have.
@@ -848,7 +848,7 @@ translation=
 
 [account.invoice.refund_publish_warning]
 original=Your Obsidian Publish sites will be immediately deleted.
-translation=
+translation=Ваші сайти Obsidian Publish буде негайно видалено.
 
 [account.invoice.refund_question]
 original=Would you like to request a refund for this payment?
@@ -1028,7 +1028,7 @@ translation=
 
 [account.profile.delete_data_deleted]
 original=Your Obsidian Sync remote vaults and Obsidian Publish sites will be permanently deleted.
-translation=
+translation=Ваші віддалені сховища Obsidian Sync і сайти Obsidian Publish буде видалено без можливості відновлення.
 
 [account.profile.delete_email_error]
 original=Please enter your email to confirm account deletion.
@@ -1060,7 +1060,7 @@ translation=
 
 [account.profile.delete_subscriptions_terminated]
 original=Your subscriptions to Obsidian Publish and Obsidian Sync will be\u00a0terminated.
-translation=
+translation=Ваші підписки на Obsidian Publish і Obsidian Sync буде припинено.
 
 [account.profile.delete_success]
 original=Your account is now deleted!
@@ -1372,27 +1372,27 @@ translation=Купити Publish
 
 [account.publish.change_sites]
 original=Change sites
-translation=
+translation=Змінити сайти
 
 [account.publish.change_success]
 original=Your Publish plan has been successfully updated.
-translation=
+translation=Ваш тариф Publish успішно оновлено.
 
 [account.publish.early_bird]
 original=Early bird
-translation=
+translation=Ранній користувач
 
 [account.publish.early_bird_promo]
 original=20% lower price
-translation=
+translation=Ціни на 20 % дешевше
 
 [account.publish.invite_accept_error]
 original=Couldn’t accept invite
-translation=
+translation=Не вдалося прийняти запрошення
 
 [account.publish.invite_accept_error_desc]
 original=Unfortunately, something went wrong when accepting the invite.
-translation=
+translation=На жаль, під час прийняття запрошення сталася помилка.
 
 [account.publish.invite_accepted]
 original=Accepted invite
@@ -1400,23 +1400,23 @@ translation=Запрошення прийнято
 
 [account.publish.invite_accepted_desc]
 original=You have successfully accepted the invite!
-translation=
+translation=Ви успішно прийняли запрошення!
 
 [account.publish.invite_accepted_info]
 original=You can now go into the Obsidian app, log in under Settings -> Account, and enable the "Publish" core plugin to start collaborating on this site.
-translation=
+translation=Тепер відкрийте застосунок Obsidian, увійдіть в обліковий запис у розділі Налаштування → Обліковий запис і ввімкніть вбудований плагін "Publish", щоб почати спільну роботу над цим сайтом.
 
 [account.publish.invite_desc]
 original=You’ve been invited to a shared Obsidian Publish site!
-translation=
+translation=Вас запросили до спільного сайту Obsidian Publish!
 
 [account.publish.invite_instructions]
 original=If Obsidian didn’t open automatically, you can view sites shared with you by going to Publish → Switch site.
-translation=
+translation=Якщо Obsidian не відкрився автоматично, переглянути надані вам спільно сайти можна в розділі Publish → Змінити сайт.
 
 [account.publish.invite_title]
 original=Invited to shared Obsidian Publish site
-translation=
+translation=Запрошення до спільного сайту Obsidian Publish
 
 [account.publish.learn_more]
 original=Learn\u00a0more.
@@ -1428,15 +1428,15 @@ translation=Щомісячно
 
 [account.publish.next_renewal]
 original=Your next renewal will be for {{sites}} on {{date}}.
-translation=
+translation=Наступне поновлення підписки на {{sites}} сайтів відбудеться {{date}}.
 
 [account.publish.not_renewed]
 original=Your plan will not be renewed.
-translation=
+translation=Ваш тариф не буде поновлено.
 
 [account.publish.open_obsidian]
 original=Open Obsidian
-translation=
+translation=Відкрити Obsidian
 
 [account.publish.price_monthly]
 original=per month, per site, billed monthly
@@ -1448,11 +1448,11 @@ translation=
 
 [account.publish.publish_desc]
 original=Web hosting for your Obsidian notes. Create an online wiki, knowledge base, documentation, or digital garden. Hassle-free refund within 7 days.
-translation=
+translation=Вебхостинг для ваших нотаток Obsidian. Створюйте онлайн-вікі, базу знань, документацію або цифровий сад. Повернення коштів без зайвих клопотів протягом 7 днів.
 
 [account.publish.publish_expire]
 original=Your Publish subscription will expire on {{date}}.
-translation=
+translation=Термін дії вашої підписки Publish закінчиться {{date}}.
 
 [account.publish.purchase_success]
 original=Your Publish plan is now active! To start publishing your notes, follow our guide.
@@ -2612,11 +2612,11 @@ translation=Переглянути у Figma
 
 [pages.canvas.community_demos]
 original=Community demos
-translation=
+translation=Демонстрації спільноти
 
 [pages.canvas.community_demos_desc]
 original=Explore how members of the Obsidian community are using Canvas for the personal life and at\u00a0work.
-translation=
+translation=Дізнайтеся, як учасники спільноти Obsidian використовують Canvas у повсякденному житті та на роботі.
 
 [pages.canvas.extensible]
 original=Extensible and interoperable
@@ -3208,19 +3208,19 @@ translation=Дізнайтеся, як створювати власні дод�
 
 [pages.community.discord_btn]
 original=Join the conversation
-translation=
+translation=Долучайтеся до обговорення
 
 [pages.community.discord_desc]
 original=Get help, ask questions, and get to know other Obsidian users and their setup!
-translation=
+translation=Отримуйте допомогу, ставте запитання та знайомтеся з іншими користувачами Obsidian і тим, як вони його налаштували!
 
 [pages.community.forum_btn]
 original=Visit the forum
-translation=
+translation=Відвідати форум
 
 [pages.community.forum_desc]
 original=Post feature requests, report bugs, and have in-depth discussions about knowledge management.
-translation=
+translation=Пропонуйте нові функції, повідомляйте про помилки та беріть участь у ґрунтовних обговореннях керування знаннями.
 
 [pages.community.hero]
 original=Join the community
@@ -3232,15 +3232,15 @@ translation=Мерч
 
 [pages.community.merch_btn]
 original=Visit the store
-translation=
+translation=Перейти до магазину
 
 [pages.community.merch_desc]
 original=Official Obsidian apparel and accessories for analog connections. Worldwide\u00a0shipping.
-translation=
+translation=Офіційний одяг та аксесуари Obsidian для спілкування наживо. Доставка по всьому світу.
 
 [pages.community.meta_desc]
 original=Join the community where you can meet Obsidian users, ask questions, report bugs, post feature requests, and more.
-translation=
+translation=Долучайтеся до спільноти, де ви зможете знайомитися з користувачами Obsidian, ставити запитання, повідомляти про помилки, пропонувати нові функції та багато іншого.
 
 [pages.download.app]
 original=App
@@ -3248,7 +3248,7 @@ translation=Застосунок
 
 [pages.download.community_maintained]
 original=Community\u00a0maintained
-translation=
+translation=Підтримується спільнотою
 
 [pages.download.download_for_btn]
 original=Download for 
@@ -4132,7 +4132,7 @@ translation=
 
 [pages.pricing.faq_q_discount]
 original=Do you offer discounts for education, nonprofits, or other\u00a0groups?
-translation=
+translation=Чи надаєте ви знижки для освітніх закладів, неприбуткових організацій та інших груп?
 
 [pages.pricing.faq_q_gift]
 original=Can I buy Obsidian add-ons or licenses for someone\u00a0else?
@@ -4280,7 +4280,7 @@ translation=
 
 [pages.publish.explore_sites_desc]
 original=Explore Publish sites by the Obsidian community
-translation=
+translation=Перегляньте сайти Publish, створені спільнотою Obsidian
 
 [pages.publish.features_desc]
 original=Obsidian Publish brings your connected notes online. Unique features help readers explore your web of\u00a0ideas.
