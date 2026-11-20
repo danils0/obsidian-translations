@@ -416,7 +416,7 @@ translation=Купити ліцензію
 
 [account.commercial.change_success]
 original=The number of seats on your license has been successfully changed!
-translation=
+translation=Кількість місць у вашій ліцензії успішно змінено!
 
 [account.commercial.invoices]
 original=Invoices
@@ -424,7 +424,7 @@ translation=Рахунки
 
 [account.commercial.invoices_desc]
 original=View and print invoices for your commercial license.
-translation=
+translation=Переглядайте та друкуйте рахунки за комерційну ліцензію.
 
 [account.commercial.learn_more]
 original=Learn\u00a0more.
@@ -432,7 +432,7 @@ translation=Детальніше
 
 [account.commercial.license_desc]
 original=Support development by purchasing commercial licenses for your team. Organizations with 25 or more licenses can join our featured supporters page.
-translation=
+translation=Підтримайте розробку, придбавши комерційні ліцензії для своєї команди. Організації, які придбали щонайменше 25 ліцензій, можуть потрапити на сторінку наших особливих доброчинців.
 
 [account.commercial.license_expires]
 original=Your license expires {{date}}. Your license will not be\u00a0renewed.
@@ -460,7 +460,7 @@ translation=за користувача, на рік
 
 [account.commercial.purchase_success]
 original=Your purchase was successful. Thank you for your support!
-translation=
+translation=Покупку успішно здійснено. Дякуємо за вашу підтримку!
 
 [account.commercial.refund_policy_link]
 original=refund policy
@@ -468,7 +468,7 @@ translation=політику повернення
 
 [account.commercial.registered_to]
 original=Registered to "{{company}}" for {{seats}}. Valid until {{date}}.
-translation=
+translation=Зареєстровано на "{{company}}" для {{seats}}. Дійсна до {{date}}.
 
 [account.commercial.resume]
 original=Resume
@@ -504,7 +504,7 @@ translation=Оновити місця
 
 [account.commercial.view]
 original=View
-translation=
+translation=Переглянути
 
 [account.discount.apply_intro]
 original=Choose the discount type you’re applying for and enter your school or organization email. We will send an email to this email address to verify\u00a0it.
@@ -776,19 +776,19 @@ translation=Підсумок
 
 [account.invoice.bill_to]
 original=Bill to
-translation=
+translation=Рахунок для
 
 [account.invoice.billing_info_placeholder]
 original=Click to edit your billing information
-translation=
+translation=Натисніть, щоб змінити платіжні дані
 
 [account.invoice.confirm_refund]
 original=Confirm refund
-translation=
+translation=Підтвердити повернення
 
 [account.invoice.credit_used]
 original=Credit used
-translation=
+translation=Використаний кредит
 
 [account.invoice.discount]
 original=Discount
@@ -796,55 +796,55 @@ translation=Знижка
 
 [account.invoice.invoice_number]
 original=Invoice #{{number}}
-translation=
+translation=Рахунок № {{number}}
 
 [account.invoice.invoice_paid]
 original=Invoice #{{number}} (Paid)
-translation=
+translation=Рахунок № {{number}} (Оплачено)
 
 [account.invoice.invoice_refunded]
 original=Invoice #{{number}} (Refunded)
-translation=
+translation=Рахунок № {{number}} (Повернено)
 
 [account.invoice.invoice_title]
 original=Invoice #{{num}}
-translation=
+translation=Рахунок № {{num}}
 
 [account.invoice.items]
 original=Items
-translation=
+translation=Позиції
 
 [account.invoice.no_invoices]
 original=There are no invoices for this account.
-translation=
+translation=Для цього акаунта немає рахунків.
 
 [account.invoice.paid]
 original=Paid
-translation=
+translation=Оплачено
 
 [account.invoice.price]
 original=Price
-translation=
+translation=Ціна
 
 [account.invoice.print]
 original=Print invoice
-translation=
+translation=Роздрукувати рахунок
 
 [account.invoice.refund]
 original=Refund
-translation=
+translation=Повернення
 
 [account.invoice.refund_failed]
 original=Refund failed
-translation=
+translation=Помилка повернення
 
 [account.invoice.refund_failed_contact]
 original=If you believe you still qualify for a refund, you can contact our support at support@obsidian.md.
-translation=
+translation=Якщо ви вважаєте, що все ще маєте право на повернення коштів, зверніться до нашої служби підтримки за адресою support@obsidian.md.
 
 [account.invoice.refund_failed_desc]
 original=Automatic refund has failed. {{error}}
-translation=
+translation=Не вдалося виконати автоматичне повернення. {{error}}
 
 [account.invoice.refund_publish_warning]
 original=Your Obsidian Publish sites will be immediately deleted.
@@ -852,27 +852,27 @@ translation=Ваші сайти Obsidian Publish буде негайно вид�
 
 [account.invoice.refund_question]
 original=Would you like to request a refund for this payment?
-translation=
+translation=Бажаєте запросити повернення коштів за цей платіж?
 
 [account.invoice.refund_success]
 original=Refund success
-translation=
+translation=Повернення успішне
 
 [account.invoice.refund_success_days]
 original=You should receive your refund in a few business days. Thanks for trying Obsidian!
-translation=
+translation=Повернення має надійти протягом кількох робочих днів. Дякуємо, що спробували Obsidian!
 
 [account.invoice.refund_success_processed]
 original=Your refund request has been successfully processed!
-translation=
+translation=Ваш запит на повернення коштів успішно опрацьовано!
 
 [account.invoice.refund_success_removed]
 original=The service or license you purchased has been removed, and your auto-renewal has been canceled.
-translation=
+translation=Придбану вами послугу або ліцензію скасовано, а автоматичне поновлення вимкнено.
 
 [account.invoice.refund_sync_warning]
 original=Your Obsidian Sync remote vaults will be immediately deleted.
-translation=
+translation=Ваші віддалені сховища Obsidian Sync буде негайно видалено.
 
 [account.invoice.refund_total]
 original=Refund:
@@ -900,11 +900,11 @@ translation=Усього:
 
 [account.invoice.view]
 original=View
-translation=
+translation=Переглянути
 
 [account.invoice.your_invoices]
 original=Your invoices
-translation=
+translation=Ваші рахунки
 
 [account.log_out]
 original=Log\u00a0out
@@ -916,27 +916,27 @@ translation=Змінити карту
 
 [account.payment.current_method]
 original=You’re currently using a {{method}}.
-translation=
+translation=Зараз ви використовуєте {{method}}.
 
 [account.payment.load_error]
 original=Unable to load payment information. Please try again.
-translation=
+translation=Не вдалося завантажити платіжні дані. Спробуйте ще раз.
 
 [account.payment.new_card_desc]
 original=Enter the details of your new card below. Your card will not be charged until the next renewal date.
-translation=
+translation=Нижче введіть дані нової картки. Кошти з неї буде списано лише під час наступного поновлення підписки.
 
 [account.payment.no_payment_method]
 original=You currently do not have any payment methods on file.
-translation=
+translation=Наразі у вас немає збережених способів оплати.
 
 [account.payment.paypal_cad_desc]
 original=As a Canadian company we are required by PayPal to charge in CAD (Canadian dollars). If you are paying in any other currency, PayPal will charge a conversion fee of about 4.5%.
-translation=
+translation=Як канадська компанія, ми зобов’язані приймати платежі через PayPal у CAD (канадських доларах). Якщо ви платите в іншій валюті, PayPal стягне комісію за конвертацію в розмірі приблизно 4,5 %.
 
 [account.payment.paypal_card_suggestion]
 original=To avoid currency conversion fees, you can return to the previous step and use a credit card.
-translation=
+translation=Щоб уникнути комісії за конвертацію валюти, поверніться до попереднього кроку й оплатіть кредитною карткою.
 
 [account.payment.paypal_pay_alt]
 original=Pay with PayPal
@@ -944,11 +944,11 @@ translation=Оплатити через PayPal
 
 [account.payment.paypal_title]
 original=PayPal currency conversion
-translation=
+translation=Конвертація валюти PayPal
 
 [account.payment.paypal_update]
 original=If you subscribed with PayPal, {{link}} to update your subscription.
-translation=
+translation=Якщо ви оформили підписку через PayPal, {{link}}, щоб оновити її.
 
 [account.payment.paypal_update_link]
 original=click here
@@ -960,7 +960,7 @@ translation=Оновити
 
 [account.profile.action_irreversible]
 original=This action is not reversible.
-translation=
+translation=Цю дію неможливо скасувати.
 
 [account.profile.change]
 original=Change
@@ -976,7 +976,7 @@ translation=Змінити ім'я
 
 [account.profile.change_password]
 original=Change your password
-translation=
+translation=Змінити пароль
 
 [account.profile.confirm_change]
 original=Confirm change
@@ -992,7 +992,7 @@ translation=Звернутися до підтримки
 
 [account.profile.contact_support_desc]
 original=Reach us for account, billing, or paid service\u00a0inquiries.
-translation=
+translation=Звертайтеся до нас із питань щодо акаунта, оплати або платних послуг.
 
 [account.profile.current_password]
 original=Current password
@@ -1000,7 +1000,7 @@ translation=Поточний пароль
 
 [account.profile.current_password_empty_error]
 original=Current password cannot be empty.
-translation=
+translation=Поле поточного пароля не може бути порожнім.
 
 [account.profile.delete]
 original=Delete
@@ -1016,7 +1016,7 @@ translation=Підтвердити видалення
 
 [account.profile.delete_account_desc]
 original=Permanently delete your account, licenses, and subscriptions. You will be asked for confirmation before deletion\u00a0proceeds.
-translation=
+translation=Назавжди видалити акаунт, ліцензії та підписки. Перед видаленням вам буде запропоновано підтвердити дію.
 
 [account.profile.delete_account_title]
 original=Delete your account
@@ -1024,7 +1024,7 @@ translation=Видалити ваш акаунт
 
 [account.profile.delete_confirm_prompt]
 original=If you fully understand the consequences outlined above and still wish to proceed, please confirm by entering your email and password below:
-translation=
+translation=Якщо ви повністю усвідомлюєте описані вище наслідки й усе ж бажаєте продовжити, підтвердьте це, ввівши нижче свою адресу електронної пошти та пароль:
 
 [account.profile.delete_data_deleted]
 original=Your Obsidian Sync remote vaults and Obsidian Publish sites will be permanently deleted.
@@ -1032,15 +1032,15 @@ translation=Ваші віддалені сховища Obsidian Sync і сайт
 
 [account.profile.delete_email_error]
 original=Please enter your email to confirm account deletion.
-translation=
+translation=Введіть адресу електронної пошти, щоб підтвердити видалення акаунта.
 
 [account.profile.delete_intro]
 original=Deleting your account is a permanent action with significant consequences. Before proceeding, carefully review the following information:
-translation=
+translation=Видалення акаунта — незворотна дія, що має серйозні наслідки. Перш ніж продовжити, уважно ознайомтеся з наведеною нижче інформацією:
 
 [account.profile.delete_irreversible_warning]
 original=Important: Account deletion is irreversible. Once your account is deleted, it cannot be recovered under any circumstances.
-translation=
+translation=Важливо: видалення акаунта незворотне. Після видалення відновити його буде неможливо за жодних обставин.
 
 [account.profile.delete_licenses_revoked]
 original=All your commercial licenses and Catalyst licenses will be\u00a0revoked.
@@ -1052,11 +1052,11 @@ translation=Будь ласка, введіть 6-значний код, зге�
 
 [account.profile.delete_no_refunds]
 original=Payments associated with your account will not be eligible for refunds.
-translation=
+translation=Платежі, пов’язані з вашим акаунтом, не підлягають поверненню.
 
 [account.profile.delete_password_error]
 original=Please enter your password to confirm account deletion.
-translation=
+translation=Введіть пароль, щоб підтвердити видалення акаунта.
 
 [account.profile.delete_subscriptions_terminated]
 original=Your subscriptions to Obsidian Publish and Obsidian Sync will be\u00a0terminated.
@@ -1064,7 +1064,7 @@ translation=Ваші підписки на Obsidian Publish і Obsidian Sync б�
 
 [account.profile.delete_success]
 original=Your account is now deleted!
-translation=
+translation=Ваш акаунт видалено!
 
 [account.profile.disable]
 original=Disable
@@ -1076,19 +1076,19 @@ translation=Електронна пошта
 
 [account.profile.email_empty_error]
 original=New email cannot be empty.
-translation=
+translation=Поле нової адреси електронної пошти не може бути порожнім.
 
 [account.profile.email_update_success]
 original=Your email has been successfully updated!
-translation=
+translation=Вашу адресу електронної пошти успішно змінено!
 
 [account.profile.email_us]
 original=Email us
-translation=
+translation=Написати нам
 
 [account.profile.enable]
 original=Enable
-translation=
+translation=Увімкнути
 
 [account.profile.log_out]
 original=Log out
@@ -1096,7 +1096,7 @@ translation=Вийти
 
 [account.profile.log_out_everywhere]
 original=Log out everywhere
-translation=
+translation=Вийти звідусіль
 
 [account.profile.log_out_everywhere_desc]
 original=Log out on all devices for security reasons. You will need to log in again on each\u00a0device.
@@ -1104,15 +1104,15 @@ translation=З міркувань безпеки вийдіть з акаунт�
 
 [account.profile.log_out_everywhere_title]
 original=Log out everywhere
-translation=
+translation=Вийти звідусіль
 
 [account.profile.logout_password_error]
 original=You must enter your current password to confirm.
-translation=
+translation=Введіть поточний пароль для підтвердження.
 
 [account.profile.logout_warning]
 original=Any devices currently logged into your Obsidian account will lose their connection.
-translation=
+translation=Усі пристрої, на яких зараз виконано вхід до вашого облікового запису Obsidian, втратять з’єднання.
 
 [account.profile.mfa]
 original=2-factor authentication
@@ -1276,19 +1276,19 @@ translation=Ім'я
 
 [account.profile.name_empty_error]
 original=New name cannot be empty.
-translation=
+translation=Нове ім'я не може бути порожнім.
 
 [account.profile.name_update_success]
 original=Your name has been successfully updated!
-translation=
+translation=Ваше ім’я успішно змінено!
 
 [account.profile.nav_label]
 original=Profile
-translation=
+translation=Профіль
 
 [account.profile.new_email]
 original=New email
-translation=
+translation=Нова електронна пошта
 
 [account.profile.new_name]
 original=New name
@@ -1300,7 +1300,7 @@ translation=Новий пароль
 
 [account.profile.new_password_empty_error]
 original=New password cannot be empty.
-translation=
+translation=Новий пароль не може бути порожнім.
 
 [account.profile.password]
 original=Password
@@ -1308,15 +1308,15 @@ translation=Пароль
 
 [account.profile.password_desc]
 original=Change your account\u00a0password.
-translation=
+translation=Змінити пароль акаунта.
 
 [account.profile.password_empty_error]
 original=Password cannot be empty.
-translation=
+translation=Пароль не може бути порожнім.
 
 [account.profile.password_update_success]
 original=Your password has been successfully updated!
-translation=
+translation=Ваш пароль успішно змінено!
 
 [account.profile.placeholder_email_confirm]
 original=Enter email to confirm...
@@ -1440,11 +1440,11 @@ translation=Відкрити Obsidian
 
 [account.publish.price_monthly]
 original=per month, per site, billed monthly
-translation=
+translation=за сайт, на місяць, з щомісячною оплатою
 
 [account.publish.price_yearly]
 original=per month, per site, billed yearly
-translation=
+translation=за сайт, на місяць, з щорічною оплатою
 
 [account.publish.publish_desc]
 original=Web hosting for your Obsidian notes. Create an online wiki, knowledge base, documentation, or digital garden. Hassle-free refund within 7 days.
@@ -1456,27 +1456,27 @@ translation=Термін дії вашої підписки Publish закінч
 
 [account.publish.purchase_success]
 original=Your Publish plan is now active! To start publishing your notes, follow our guide.
-translation=
+translation=Ваш тариф Publish тепер активний! Щоб почати публікувати нотатки, дотримуйтеся нашого посібника.
 
 [account.publish.renew_monthly]
 original=Renew monthly
-translation=
+translation=Поновлювати щомісяця
 
 [account.publish.renew_yearly]
 original=Renew yearly
-translation=
+translation=Поновлювати щороку
 
 [account.publish.renewal_frequency]
 original=Renewal frequency
-translation=
+translation=Періодичність поновлення
 
 [account.publish.save_yearly]
 original=Save 20% by switching to yearly renewal.
-translation=
+translation=Заощаджуйте 20 %, перейшовши на щорічне поновлення.
 
 [account.publish.saving_yearly]
 original=You’re saving 20% compared to monthly renewal.
-translation=
+translation=Ви заощаджуєте 20 % порівняно з щомісячним поновленням.
 
 [account.publish.site_count]
 original={{count}} sites
@@ -1492,15 +1492,15 @@ translation=Зупинити
 
 [account.publish.stop_auto_renewal]
 original=Stop auto-renewal
-translation=
+translation=Вимкнути автоматичне поновлення
 
 [account.publish.stop_confirm]
 original=Are you sure you want to stop renewing your Obsidian Publish subscription?
-translation=
+translation=Ви впевнені, що хочете вимкнути автоматичне поновлення підписки Obsidian Publish?
 
 [account.publish.stop_renewing]
 original=Stop renewing Obsidian Publish
-translation=
+translation=Вимкнути автоматичне поновлення Obsidian Publish
 
 [account.publish.stop_warning]
 original=Your Obsidian Publish subscription will expire on {{date}}. Your site will be deactivated on this date, and your data will be deleted from our servers 30 days later.
@@ -1508,23 +1508,23 @@ translation=Термін дії вашої підписки на Obsidian Publis
 
 [account.publish.switch_to_monthly]
 original=Switch to monthly
-translation=
+translation=Перейти на щомісячну оплату
 
 [account.publish.switch_to_yearly]
 original=Switch to yearly
-translation=
+translation=Перейти на щорічну оплату
 
 [account.publish.title]
 original=Publish
-translation=
+translation=Publish
 
 [account.publish.user_guide_desc]
 original=To publish files to your site, log in to your account in Obsidian and enable the Publish plugin.
-translation=
+translation=Щоб публікувати файли на своєму сайті, увійдіть у свій акаунт в Obsidian і ввімкніть доповнення Publish.
 
 [account.publish.user_guide_link]
 original=See\u00a0user\u00a0guide.
-translation=
+translation=Див. посібник користувача.
 
 [account.publish.yearly]
 original=Yearly
@@ -1560,19 +1560,19 @@ translation=
 
 [account.sync.invite_accept_error]
 original=Couldn’t accept invite
-translation=
+translation=Не вдалося прийняти запрошення
 
 [account.sync.invite_accept_error_desc]
 original=Unfortunately, something went wrong when accepting the invite.
-translation=
+translation=На жаль, під час прийняття запрошення сталася помилка.
 
 [account.sync.invite_accepted]
 original=Accepted invite
-translation=
+translation=Запрошення прийнято
 
 [account.sync.invite_accepted_desc]
 original=You have successfully accepted the invite!
-translation=
+translation=Ви успішно прийняли запрошення!
 
 [account.sync.invite_accepted_info]
 original=You can now go in to the Obsidian app, log in under Settings -> Account, and enable the "Sync" core plugin to start collaborating on this vault.
@@ -1580,7 +1580,7 @@ translation=
 
 [account.sync.invite_desc]
 original=You’ve been invited to a shared Obsidian Sync vault!
-translation=
+translation=Вас запросили до спільного сховища Obsidian Sync!
 
 [account.sync.invite_instructions]
 original=If Obsidian didn’t open automatically, you can view vaults shared with you by going to Settings → Sync → Remote vault → Manage/Choose.
@@ -1588,7 +1588,7 @@ translation=
 
 [account.sync.invite_title]
 original=Invited to shared Obsidian Sync vault
-translation=
+translation=Запрошення до спільного сховища Obsidian Sync
 
 [account.sync.learn_more]
 original=Learn\u00a0more.
@@ -2752,7 +2752,7 @@ translation=
 
 [pages.cli.headless_publish]
 original=Automate publishing a website.
-translation=
+translation=Автоматизуйте публікацію сайту.
 
 [pages.cli.headless_team]
 original=Sync a shared team vault to a server that feeds other tools.
@@ -3344,7 +3344,7 @@ translation=
 
 [pages.enterprise.supporting_orgs_desc]
 original=More than 10,000 organizations help keep Obsidian 100% user-supported. Join them with the purchase of a commercial license.
-translation=
+translation=Понад 10 000 організацій допомагають Obsidian і надалі повністю фінансуватися користувачами. Долучайтеся до них, придбавши комерційну ліцензію.
 
 [pages.index.canvas_desc]
 original=An infinite space to research, brainstorm, diagram, and lay out your ideas. Canvas is a limitless playground for your mind. {{link}}
@@ -3700,23 +3700,23 @@ translation=
 
 [pages.index.mock_hero_task_01]
 original=Schedule flights
-translation=
+translation=Запланувати перельоти
 
 [pages.index.mock_hero_task_02]
 original=Ask for recommendations
-translation=
+translation=Запитати рекомендації
 
 [pages.index.mock_hero_task_03]
 original=Keiko
-translation=
+translation=Софія
 
 [pages.index.mock_hero_task_04]
 original=Andrew
-translation=
+translation=Андрій
 
 [pages.index.mock_hero_task_05]
 original=Garrett
-translation=
+translation=Марія
 
 [pages.index.mock_hero_task_06_link]
 original=Kyoto
@@ -3736,7 +3736,7 @@ translation=
 
 [pages.index.mock_hero_vault]
 original=Notes
-translation=
+translation=Нотатки
 
 [pages.index.mock_hero_words]
 original=206 words
@@ -3828,7 +3828,7 @@ translation=
 
 [pages.index.mock_sync_appearance]
 original=Appearance settings
-translation=
+translation=Налаштування вигляду
 
 [pages.index.mock_sync_appearance_desc]
 original=Sync dark mode, active theme and enabled snippets.
@@ -3836,7 +3836,7 @@ translation=Синхронізуйте темний режим, активну �
 
 [pages.index.mock_sync_audio]
 original=Audio
-translation=
+translation=Аудіо
 
 [pages.index.mock_sync_audio_desc]
 original=Sync audio files to this device
@@ -3852,7 +3852,7 @@ translation=
 
 [pages.index.mock_sync_excluded]
 original=Excluded folders
-translation=
+translation=Виключені теки
 
 [pages.index.mock_sync_excluded_desc]
 original=Prevent certain folders from being synced
@@ -3860,7 +3860,7 @@ translation=
 
 [pages.index.mock_sync_file_recovery]
 original=File recovery
-translation=
+translation=Відновлення файлів
 
 [pages.index.mock_sync_hotkeys]
 original=Hotkeys
@@ -3868,7 +3868,7 @@ translation=Сполучення клавіш
 
 [pages.index.mock_sync_hotkeys_desc]
 original=Sync custom hotkeys.
-translation=
+translation=Синхронізуйте власні сполучення клавіш.
 
 [pages.index.mock_sync_images]
 original=Images
@@ -3880,7 +3880,7 @@ translation=
 
 [pages.index.mock_sync_main]
 original=Main settings
-translation=
+translation=Головні налаштування
 
 [pages.index.mock_sync_main_desc]
 original=Sync editor, file, link settings.
@@ -3956,7 +3956,7 @@ translation=Публікуйте миттєво.
 
 [pages.index.publish_instantly_desc]
 original=Turn your notes into an online wiki, knowledge base, documentation, or digital\u00a0garden. {{link}}
-translation=
+translation=Перетворіть свої нотатки на онлайн-вікі, базу знань, документацію чи цифровий сад. {{link}}
 
 [pages.index.seamless_editing]
 original=Seamless editing
@@ -3964,7 +3964,7 @@ translation=
 
 [pages.index.seamless_editing_desc]
 original=Publish your notes instantly from the Obsidian app, and make it easy for readers to explore your web of\u00a0ideas.
-translation=
+translation=Публікуйте нотатки просто із застосунку Obsidian і допомагайте читачам легко досліджувати мережу ваших ідей.
 
 [pages.index.spark_ideas]
 original=Spark ideas.
@@ -4084,7 +4084,7 @@ translation=наші цінності
 
 [pages.pricing.faq_a_commercial]
 original=No. You are not *required* to pay for a commercial license, however if you are using Obsidian for work in an organization we encourage you to purchase a commercial license to keep Obsidian independent and 100% user-supported. {{link}}
-translation=
+translation=Ні. Ви не *зобов’язані* купувати комерційну ліцензію. Однак, якщо ви використовуєте Obsidian для роботи в організації, ми заохочуємо вас придбати таку ліцензію, щоб Obsidian залишався незалежним і повністю фінансувався користувачами. {{link}}
 
 [pages.pricing.faq_a_data_1]
 original=Obsidian is a private and secure space for your thoughts. You can use our apps without sharing any personal information, and your data is stored locally on your device, making it inaccessible to us. Additionally, our apps do not collect telemetry data, and we never sell user data.
@@ -4124,7 +4124,7 @@ translation=Які переваги дає ліцензія Catalyst?
 
 [pages.pricing.faq_q_commercial]
 original=Do I have to pay for commercial\u00a0use?
-translation=
+translation=Чи потрібно платити за комерційне використання?
 
 [pages.pricing.faq_q_data]
 original=Do you store, access, or process user\u00a0data?
@@ -4140,7 +4140,7 @@ translation=Чи можу я придбати додаткові послуги 
 
 [pages.pricing.faq_q_refund]
 original=What is your refund\u00a0policy?
-translation=
+translation=Яка у вас політика повернення?
 
 [pages.pricing.featured_org]
 original=Become a featured organization
@@ -4152,7 +4152,7 @@ translation=
 
 [pages.pricing.hero]
 original=Free without limits.
-translation=
+translation=Безкоштовно без обмежень.
 
 [pages.pricing.meta_desc]
 original=Obsidian is free and 100% user-supported.
@@ -4164,7 +4164,7 @@ translation=
 
 [pages.pricing.more_questions_desc_link]
 original=Help\u00a0site
-translation=
+translation=сайт допомоги
 
 [pages.pricing.no_tech]
 original=No technical knowledge required
@@ -4176,7 +4176,7 @@ translation=
 
 [pages.pricing.publish_web]
 original=Publish notes to the web
-translation=
+translation=Публікація нотаток в інтернеті
 
 [pages.pricing.subtitle_desc_1]
 original=No sign-up required.
@@ -4188,11 +4188,11 @@ translation=
 
 [pages.pricing.support_btn]
 original=Support Obsidian
-translation=
+translation=Підтримати Obsidian
 
 [pages.pricing.support_dev]
 original=Support development
-translation=
+translation=Підтримати розробку
 
 [pages.pricing.sync_across]
 original=Sync notes across devices
@@ -4212,11 +4212,11 @@ translation=Ексклюзивні канали
 
 [pages.publish.accessible]
 original=Accessible by default
-translation=
+translation=Доступність за замовчуванням
 
 [pages.publish.accessible_desc]
 original=Out of the box, Obsidian Publish has a perfect 100% Lighthouse accessibility score. It’s our priority to make your content accessible for all\u00a0visitors.
-translation=
+translation=За замовчуванням Obsidian Publish отримує найвищі 100% у тесті доступності Lighthouse. Для нас головне, щоб ваш контент був доступним для кожного відвідувача.
 
 [pages.publish.analytics]
 original=Analytics are optional
@@ -4232,7 +4232,7 @@ translation=Створення вмісту
 
 [pages.publish.backlinks_desc]
 original=Automatically list links to pages that reference the current page you are\u00a0on.
-translation=
+translation=Автоматично відображайте посилання на сторінки, які посилаються на поточну сторінку.
 
 [pages.publish.built_in_performance]
 original=Built-in performance
@@ -4240,11 +4240,11 @@ translation=Вбудована швидкодія
 
 [pages.publish.collaborate]
 original=Collaborate seamlessly
-translation=
+translation=Співпрацюйте без перешкод
 
 [pages.publish.collaborate_desc]
 original=Invite your team to collaboratively create and maintain your Publish\u00a0site.
-translation=
+translation=Запросіть свою команду разом створювати та підтримувати ваш сайт на Publish.
 
 [pages.publish.create_site_btn]
 original=Create your site
@@ -4252,7 +4252,7 @@ translation=Створити сайт
 
 [pages.publish.custom_domain_desc]
 original=Point your domain name to Obsidian Publish for a more branded experience.
-translation=
+translation=Підключіть власний домен до Obsidian Publish, щоб підкреслити впізнаваність бренду.
 
 [pages.publish.custom_theme_domain]
 original=Customizable theme and domain
@@ -4264,7 +4264,7 @@ translation=Налаштування
 
 [pages.publish.customization_desc]
 original=Obsidian Publish gives you control over the look and feel of your site. It’s easy to create a unique and branded\u00a0design.
-translation=
+translation=Obsidian Publish дозволяє повністю налаштувати зовнішній вигляд сайту. Ви з легкістю створите унікальний фірмовий дизайн.
 
 [pages.publish.edit_markdown]
 original=Edit with Markdown
@@ -4272,11 +4272,11 @@ translation=Редагуйте в Markdown
 
 [pages.publish.edit_markdown_desc]
 original=Blazing fast text editing built on the simplicity and reliability of\u00a0Markdown.
-translation=
+translation=Блискавичне редагування тексту завдяки простоті та надійності Markdown.
 
 [pages.publish.email_support]
 original=Priority email support
-translation=
+translation=Пріоритетна підтримка електронною поштою
 
 [pages.publish.explore_sites_desc]
 original=Explore Publish sites by the Obsidian community
@@ -4284,43 +4284,43 @@ translation=Перегляньте сайти Publish, створені спіл
 
 [pages.publish.features_desc]
 original=Obsidian Publish brings your connected notes online. Unique features help readers explore your web of\u00a0ideas.
-translation=
+translation=Obsidian Publish переносить ваші пов’язані нотатки в інтернет. Завдяки унікальним можливостям читачі можуть досліджувати мережу ваших ідей.
 
 [pages.publish.graph_view_desc]
 original=Visually explore the connections between the pages on your\u00a0site.
-translation=
+translation=Візуально досліджуйте зв’язки між сторінками свого сайту.
 
 [pages.publish.hero]
 original=Give your knowledge a home on the\u00a0web.
-translation=
+translation=Дайте своїм знанням власний дім в інтернеті.
 
 [pages.publish.hero_desc]
 original=The easiest way to publish your wiki, knowledge base, documentation, or digital\u00a0garden.
-translation=
+translation=Найпростіший спосіб оприлюднити свою вікі, базу знань, документацію чи цифровий сад.
 
 [pages.publish.hosting]
 original=Hosting for your site up to 4GB
-translation=
+translation=Хостинг для вашого сайту обсягом до 4 ГБ
 
 [pages.publish.hover_previews_desc]
 original=Display a popover preview of the linked page when you hover over it, like\u00a0Wikipedia.
-translation=
+translation=Показуйте спливаючий попередній перегляд пов’язаної сторінки, коли наводите курсор на посилання, як у Вікіпедії.
 
 [pages.publish.launch]
 original=Launch your site today
-translation=
+translation=Запустіть свій сайт вже сьогодні
 
 [pages.publish.launch_desc]
 original=Create a Publish site from your notes in just a few\u00a0minutes.
-translation=
+translation=Створіть сайт Publish зі своїх нотаток лише за кілька хвилин.
 
 [pages.publish.make_your_own]
 original=Make it your own
-translation=
+translation=Налаштуйте на свій смак
 
 [pages.publish.meta_desc]
 original=Obsidian Publish is the easiest way to publish your wiki, knowledge base, documentation, or digital garden.
-translation=
+translation=Obsidian Publish — найпростіший спосіб опублікувати свою вікі, базу знань, документацію чи цифровий сад.
 
 [pages.publish.mobile_friendly]
 original=Mobile-friendly
@@ -4336,7 +4336,7 @@ translation=Код Google Analytics
 
 [pages.publish.mock_pub_analytics_desc]
 original=Configure analytics for your domain.
-translation=
+translation=Налаштуйте аналітику для свого домену.
 
 [pages.publish.mock_pub_custom_url]
 original=Custom URL
@@ -4344,7 +4344,7 @@ translation=Власна URL-адреса
 
 [pages.publish.mock_pub_custom_url_desc]
 original=Define your custom domain.
-translation=
+translation=Вкажіть власний домен.
 
 [pages.publish.mock_pub_enter_password]
 original=Enter password...
@@ -4352,11 +4352,11 @@ translation=Введіть пароль...
 
 [pages.publish.mock_pub_indexing]
 original=Disallow search engine indexing
-translation=
+translation=Заборонити індексацію пошуковикам
 
 [pages.publish.mock_pub_indexing_desc]
 original=Prevent search engines from indexing your site.
-translation=
+translation=Забороніть пошуковим системам індексувати ваш сайт.
 
 [pages.publish.mock_pub_logo]
 original=Logo
@@ -4364,19 +4364,19 @@ translation=Логотип
 
 [pages.publish.mock_pub_logo_desc]
 original=Pick an image for your site.
-translation=
+translation=Виберіть зображення для свого сайту.
 
 [pages.publish.mock_pub_password_protected]
 original=This site is password protected
-translation=
+translation=Цей сайт захищено паролем
 
 [pages.publish.mock_pub_redirect]
 original=Redirect to your domain
-translation=
+translation=Перенаправляти на ваш домен
 
 [pages.publish.mock_pub_redirect_desc]
 original=Visitors to your site will be redirected.
-translation=
+translation=Відвідувачів вашого сайту буде перенаправлено.
 
 [pages.publish.mock_pub_settings]
 original=Site settings
@@ -4396,11 +4396,11 @@ translation=Тема сайту
 
 [pages.publish.nonlinear]
 original=The publishing platform for non-linear thinkers
-translation=
+translation=Платформа для публікації для тих, хто мислить нелінійно
 
 [pages.publish.password_desc]
 original=Restrict access to your site with the ability to manage multiple passwords.
-translation=
+translation=Обмежте доступ до свого сайту й керуйте кількома паролями.
 
 [pages.publish.performance]
 original=Performance
@@ -4408,19 +4408,19 @@ translation=Продуктивність
 
 [pages.publish.performance_desc]
 original=Speed and accessibility are built into every Obsidian Publish site. No configuration required.
-translation=
+translation=Швидкість і доступність передбачені в кожному сайті Obsidian Publish. Нічого налаштовувати не потрібно.
 
 [pages.publish.price]
 original=$8 per month
-translation=
+translation=$8 на місяць
 
 [pages.publish.pricing_desc]
 original=Host your Obsidian Publish site for one all-inclusive price. If you’re not satisfied, get a refund within 7 days, no questions\u00a0asked.
-translation=
+translation=Розміщуйте свій сайт Obsidian Publish за єдиною ціною, що включає все. Якщо ви не задоволені, отримайте повернення коштів протягом 7 днів без зайвих запитань.
 
 [pages.publish.publish_natively]
 original=Publish natively
-translation=
+translation=Публікуйте нативно
 
 [pages.publish.publish_natively_desc]
 original=Make your changes public in just a few taps, even from your mobile\u00a0devices.
@@ -4428,11 +4428,11 @@ translation=Публікуйте зміни в кілька дотиків — �
 
 [pages.publish.seamless]
 original=A seamless publishing experience
-translation=
+translation=Зручна публікація без зайвих клопотів
 
 [pages.publish.seamless_desc]
 original=Publish is built into Obsidian so you can write, collaborate, and publish seamlessly.
-translation=
+translation=Publish інтегровано в Obsidian, тож ви можете безперешкодно писати, співпрацювати й публікувати матеріали.
 
 [pages.publish.seo]
 original=First-class SEO
@@ -4448,7 +4448,7 @@ translation=SEO та швидкодія на мобільних пристроя
 
 [pages.publish.stacked_pages_desc]
 original=Make links open in horizontal panes that you can browse like a stack of pages on a\u00a0desk.
-translation=
+translation=Відкривайте посилання в горизонтальних панелях, між якими можна перемикатися, наче між сторінками в стосі на робочому столі.
 
 [pages.publish.themes_desc]
 original=The look of your Obsidian Publish site can be fully customized with CSS and Javascript.
@@ -4456,7 +4456,7 @@ translation=Вигляд вашого сайту Obsidian Publish можна п�
 
 [pages.publish.whats_included]
 original=What’s included
-translation=
+translation=Що включено
 
 [pages.roadmap.active]
 original=Active
