@@ -1692,7 +1692,7 @@ translation=
 
 [account.sync.purchase_success]
 original=Your Sync plan is now active! Open Obsidian to start syncing your notes.
-translation=
+translation=Ваш тарифний план Sync тепер активний! Відкрийте Obsidian, щоб почати синхронізацію нотаток.
 
 [account.sync.purchase_success_guide]
 original=Need help? Follow our guide.
@@ -1752,11 +1752,11 @@ translation=Перейти на щорічну оплату
 
 [account.sync.sync_desc]
 original=Sync your notes across devices with end-to-end encryption. Hassle-free refund within 7 days.
-translation=
+translation=Синхронізуйте свої нотатки між пристроями з наскрізним шифруванням. Безпроблемне повернення коштів протягом 7 днів.
 
 [account.sync.sync_expire]
 original=Your Sync subscription will expire on {{date}}.
-translation=
+translation=Термін дії вашої підписки Sync закінчиться {{date}}.
 
 [account.sync.title]
 original=Sync
@@ -1764,7 +1764,7 @@ translation=Sync
 
 [account.sync.unknown_plan]
 original=Unknown sync plan. Please contact support
-translation=
+translation=Невідомий тарифний план синхронізації. Будь ласка, зверніться до служби підтримки
 
 [account.sync.upgrade_plan]
 original=Upgrade plan
@@ -2624,11 +2624,11 @@ translation=Розширюваний і сумісний
 
 [pages.canvas.extensible_1_desc]
 original=Like everything else in Obsidian, Canvas is extensible and designed to be durable. Our API makes it easy to create plugins that add new capabilities to\u00a0Canvas.
-translation=
+translation=Як і все інше в Obsidian, Canvas є розширюваним і створеним для довговічності. Наш API дозволяє легко створювати плагіни, які додають нові можливості до Canvas.
 
 [pages.canvas.extensible_2_desc]
 original=Your Canvas files are stored locally using the open {{link}} that we designed to work with other tools. Apps, scripts, and plugins can easily enhance Canvas by adding or modifying cards and\u00a0connections.
-translation=
+translation=Ваші файли Canvas зберігаються локально у відкритому форматі {{link}}, який ми розробили для сумісності з іншими інструментами. Додатки, скрипти та плагіни можуть легко розширювати Canvas, додаючи або змінюючи картки та зв’язки.
 
 [pages.canvas.extensible_2_desc_link]
 original=JSON\u00a0Canvas file format
@@ -2636,23 +2636,23 @@ translation=формат файлів JSON Canvas
 
 [pages.canvas.flexible]
 original=Flexible and intuitive
-translation=
+translation=Гнучкий та інтуїтивно
 
 [pages.canvas.flexible_desc]
 original=Canvas is packed with functionality. This collection of tips will help you discover how you can use Canvas to its fullest.
-translation=
+translation=Canvas має безліч функцій. Ця добірка порад допоможе вам дізнатися, як використовувати Canvas на повну.
 
 [pages.canvas.hero]
 original=Visualize your ideas.
-translation=
+translation=Візуалізуйте свої ідеї.
 
 [pages.canvas.hero_desc]
 original=Infinite space to research, brainstorm, diagram, and lay out your ideas. Canvas comes free with\u00a0Obsidian.
-translation=
+translation=Нескінченний простір для досліджень, мозкового штурму, створення діаграм та впорядкування ваших ідей. Canvas безкоштовно входить до складу Obsidian.
 
 [pages.canvas.meta_desc]
 original=Obsidian Canvas gives you infinite space to research, brainstorm, diagram, and lay out your ideas.
-translation=
+translation=Obsidian Canvas надає вам нескінченний простір для досліджень, мозкового штурму, створення діаграм та впорядкування ваших ідей.
 
 [pages.canvas.meta_title]
 original=Obsidian Canvas - Visualize your ideas
@@ -2664,27 +2664,27 @@ translation=Новий спосіб мислити
 
 [pages.canvas.new_way_1_desc]
 original=Effortlessly add existing notes and media from your vault, and edit them within a Canvas\u00a0view.
-translation=
+translation=Легко додавайте наявні нотатки та медіафайли зі свого сховища й редагуйте їх безпосередньо у поданні Canvas.
 
 [pages.canvas.new_way_2_desc]
 original=Canvas views can be embedded in notes, and even nested within another\u00a0Canvas.
-translation=
+translation=Подання Canvas можна вбудовувати в нотатки й навіть вкладати всередину іншого Canvas.
 
 [pages.canvas.playground]
 original=A playground for thought
-translation=
+translation=Простір для думок
 
 [pages.canvas.playground_1_desc]
 original=Canvas allows you to organize notes visually — an infinite space to research, brainstorm, diagram and lay out your\u00a0ideas.
-translation=
+translation=Canvas дозволяє організовувати нотатки візуально — це нескінченний простір для досліджень, мозкового штурму, створення діаграм та впорядкування ваших ідей.
 
 [pages.canvas.playground_2_desc]
 original=Embed your notes alongside images, PDFs, videos, audio, and even fully interactive web\u00a0pages.
-translation=
+translation=Вбудовуйте свої нотатки поруч із зображеннями, PDF-файлами, відео, аудіо та навіть повністю інтерактивними вебсторінками.
 
 [pages.changelog.subtitle_desc]
 original=Follow Obsidian updates and improvements.
-translation=
+translation=Стежте за оновленнями та покращеннями Obsidian.
 
 [pages.cli.automate]
 original=Automate
@@ -2692,7 +2692,7 @@ translation=Автоматизуйте
 
 [pages.cli.automate_desc]
 original=Orchestrate your workflow with cron jobs, shell scripts, and custom integrations. If you can script it, you can do it.
-translation=
+translation=Оркеструйте свій робочий процес за допомогою завдань cron, скриптів оболонки та власних інтеграцій. Якщо це можна написати у вигляді скрипту, це можна зробити.
 
 [pages.cli.automation]
 original=Automation
@@ -2708,7 +2708,7 @@ translation=Співпрацюйте
 
 [pages.cli.collaborate_desc]
 original=Deploy documentation, sync shared vaults to servers, and integrate Obsidian into your team’s toolchain.
-translation=
+translation=Розгортайте документацію, синхронізуйте спільні сховища на сервери та інтегруйте Obsidian у набір інструментів вашої команди.
 
 [pages.cli.develop]
 original=Develop
@@ -2720,23 +2720,23 @@ translation=Створюйте додатки й теми швидше. Реда
 
 [pages.cli.examples_desc]
 original=Check out practical examples, from everyday note-taking to developer automation.
-translation=
+translation=Ознайомтеся з практичними прикладами — від щоденного ведення нотаток до автоматизації для розробників.
 
 [pages.cli.first_command]
 original=Run your first command
-translation=
+translation=Виконайте свою першу команду
 
 [pages.cli.first_command_desc]
 original=Once installed, you’re ready to go. Note that the Obsidian app must be running.
-translation=
+translation=Після встановлення все готово до роботи. Зверніть увагу, що програма Obsidian має бути запущена.
 
 [pages.cli.get_started_desc]
 original=Learn how to install and use Obsidian CLI.
-translation=
+translation=Дізнайтеся, як встановити та використовувати Obsidian CLI.
 
 [pages.cli.headless_agents]
 original=Give agentic tools access to a vault without access to your full computer.
-translation=
+translation=Надайте агентним інструментам доступ до сховища без доступу до всього комп’ютера.
 
 [pages.cli.headless_automations]
 original=Run scheduled automations — aggregate daily notes into weekly summaries, auto-tag, and more.
@@ -3032,11 +3032,11 @@ translation=
 
 [pages.cli.tui_mode]
 original=Use TUI mode
-translation=
+translation=Використовувати режим TUI
 
 [pages.cli.use_it]
 original=See it in action
-translation=
+translation=Подивитися в дії
 
 [pages.clipper.academic]
 original=Academic papers
@@ -3172,7 +3172,7 @@ translation=Без прив’язки
 
 [pages.clipper.no_lockin_desc]
 original=Your clips are saved to durable Markdown files. All your highlights and settings are exportable to\u00a0JSON.
-translation=
+translation=Ваші вирізки зберігаються у надійних файлах Markdown. Усі ваші виділення та налаштування можна експортувати у формат JSON.
 
 [pages.clipper.private]
 original=Stay private
@@ -3332,19 +3332,19 @@ translation=Підтримайте нас
 
 [pages.enterprise.show_support_desc]
 original=Obsidian is 100% user-supported. Join the movement. Support independent software.
-translation=
+translation=Obsidian на 100% підтримується користувачами. Приєднуйтеся до руху. Підтримуйте незалежне програмне забезпечення.
 
 [pages.enterprise.supporters_suffix]
 original=supporters
-translation=
+translation=прихильників
 
 [pages.enterprise.supporting_orgs]
 original=Supporting organizations
-translation=
+translation=Організації, що підтримують
 
 [pages.enterprise.supporting_orgs_desc]
 original=More than 10,000 organizations help keep Obsidian 100% user-supported. Join them with the purchase of a commercial license.
-translation=
+translation=Понад 10 000 організацій допомагають підтримувати Obsidian на 100% завдяки користувачам. Приєднуйтеся до них, придбавши комерційну ліцензію.
 
 [pages.index.canvas_desc]
 original=An infinite space to research, brainstorm, diagram, and lay out your ideas. Canvas is a limitless playground for your mind. {{link}}
@@ -4056,11 +4056,11 @@ translation=Відзнаки спільноти
 
 [pages.pricing.bulk_desc]
 original=For bulk purchases and other inquiries, contact us at {{link}}
-translation=
+translation=Щодо гуртових закупівель та інших запитань зв’яжіться з нами за адресою {{link}}
 
 [pages.pricing.collaborate]
 original=Collaborate on shared vaults
-translation=
+translation=Спільна робота у спільних сховищах
 
 [pages.pricing.custom_theme]
 original=Customizable theme
@@ -4068,7 +4068,7 @@ translation=Настроювана тема
 
 [pages.pricing.early_access]
 original=Early access to beta versions
-translation=
+translation=Ранній доступ до бета-версій
 
 [pages.pricing.faq_a_catalyst]
 original=By becoming a {{link1}}, you’ll receive early access to beta versions of Obsidian, as well as special badges within the community. Catalyst plays a vital role in helping Obsidian remain 100% user-supported, free from investor influence that could compromise {{link2}}.
@@ -4092,7 +4092,7 @@ translation=Obsidian — це приватний і безпечний прос�
 
 [pages.pricing.faq_a_data_2]
 original=If you choose to use {{link1}}, your data is secured with AES\u2011256 end-to-end encryption, preventing us from reading it. {{link2}}
-translation=
+translation=Якщо ви вирішите використовувати {{link1}}, ваші дані будуть захищені наскрізним шифруванням AES‑256, що унеможливлює їх прочитання нами. {{link2}}
 
 [pages.pricing.faq_a_data_2_link1]
 original=Obsidian Sync
@@ -4116,7 +4116,7 @@ translation=Ми повертаємо повну вартість Obsidian Sync 
 
 [pages.pricing.faq_desc]
 original=Frequently asked questions about pricing
-translation=
+translation=Часті запитання про ціни
 
 [pages.pricing.faq_q_catalyst]
 original=What benefits does the Catalyst license\u00a0grant?
@@ -4128,7 +4128,7 @@ translation=Чи потрібно платити за комерційне ви�
 
 [pages.pricing.faq_q_data]
 original=Do you store, access, or process user\u00a0data?
-translation=
+translation=Ви зберігаєте, отримуєте доступ чи обробляєте дані користувачів?
 
 [pages.pricing.faq_q_discount]
 original=Do you offer discounts for education, nonprofits, or other\u00a0groups?
@@ -4144,11 +4144,11 @@ translation=Яка у вас політика повернення?
 
 [pages.pricing.featured_org]
 original=Become a featured organization
-translation=
+translation=Станьте рекомендованою організацією
 
 [pages.pricing.graph_search]
 original=Graph and full text search
-translation=
+translation=Граф і повнотекстовий пошук
 
 [pages.pricing.hero]
 original=Free without limits.
@@ -4156,11 +4156,11 @@ translation=Безкоштовно без обмежень.
 
 [pages.pricing.meta_desc]
 original=Obsidian is free and 100% user-supported.
-translation=
+translation=Obsidian є безкоштовним і на 100% підтримується користувачами.
 
 [pages.pricing.more_questions_desc]
 original=More questions? Visit our {{link}}
-translation=
+translation=Залишилися запитання? Відвідайте наш {{link}}
 
 [pages.pricing.more_questions_desc_link]
 original=Help\u00a0site
@@ -4168,7 +4168,7 @@ translation=сайт допомоги
 
 [pages.pricing.no_tech]
 original=No technical knowledge required
-translation=
+translation=Технічні знання не потрібні
 
 [pages.pricing.priority_support]
 original=Priority support
@@ -4204,7 +4204,7 @@ translation=На 100% підтримується користувачами.
 
 [pages.pricing.user_supported_desc]
 original=Optional licenses help support the independent development of Obsidian.
-translation=
+translation=Додаткові ліцензії допомагають підтримувати незалежну розробку Obsidian.
 
 [pages.pricing.vip]
 original=Exclusive channels
@@ -4464,7 +4464,7 @@ translation=У розробці
 
 [pages.roadmap.detail_desc]
 original=For more detail about individual releases see the {{link1}}. Have a feature request? Visit the {{link2}}.
-translation=
+translation=Докладніше про окремі випуски дивіться в {{link1}}. Маєте пропозицію щодо нової функції? Відвідайте {{link2}}.
 
 [pages.roadmap.detail_desc_link1]
 original=Changelog
